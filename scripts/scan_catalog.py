@@ -86,7 +86,18 @@ def price_products(ids, market, label=""):
         for prod in data.get("Products", []):
             pid = prod["ProductId"].upper()
             title = (prod.get("LocalizedProperties") or [{}])[0].get("ProductTitle", "")
-            free, amount, currency = False, None, ""
+            released = ((prod.get("MarketProperties") or [{}])[0].get("OriginalReleaseDate") or "")[:10]
+            platforms = set()
+            for dsa in prod.get("DisplaySkuAvailabilities", []):
+                sku_props = (dsa.get("Sku") or {}).get("Properties") or {}
+                for pkg in sku_props.get("Packages") or []:
+                    for dep in pkg.get("PlatformDependencies") or []:
+                        name = dep.get("PlatformName") or ""
+                        if "Xbox" in name:
+                            platforms.add("xbox")
+                        elif "Desktop" in name:
+                            platforms.add("pc")
+            free, amount, currency, msrp = False, None, "", None
             for dsa in prod.get("DisplaySkuAvailabilities", []):
                 for av in dsa.get("Availabilities", []):
                     if "Purchase" not in av.get("Actions", []):
@@ -100,9 +111,12 @@ def price_products(ids, market, label=""):
                     currency = price.get("CurrencyCode") or currency
                     if listed is not None and (amount is None or listed < amount):
                         amount = listed  # cheapest way to get it
+                        msrp = price.get("MSRP")
                     if listed == 0:
                         free = True
-            out[pid] = {"title": title, "price": amount, "currency": currency, "free": free}
+            out[pid] = {"title": title, "price": amount, "currency": currency, "free": free,
+                        "msrp": msrp, "released": released,
+                        "platform": "+".join(sorted(platforms))}
         done = min(start + 20, len(ids))
         if (start // 20) % 100 == 0 or done == len(ids):
             rate = done / max(1, time.time() - started)
@@ -138,7 +152,8 @@ def merge(prices, found, today):
     for pid, info in found.items():
         before = prices.get(pid)
         entry = {"t": info["title"], "p": info["price"], "c": info["currency"],
-                 "f": info["free"], "d": today}
+                 "f": info["free"], "d": today, "m": info.get("msrp"),
+                 "r": info.get("released", ""), "pl": info.get("platform", "")}
         if info["free"]:
             if not before:
                 entry["free_since"] = ""            # never seen it priced: nothing to compare
@@ -157,7 +172,8 @@ def write_index(market, prices):
     Compact on purpose: one array per product rather than named fields, gzipped. Box art
     is left out - the app fetches that for the tiles it is showing.
     """
-    items = {pid: [e.get("t", ""), e.get("p"), 1 if e.get("f") else 0]
+    items = {pid: [e.get("t", ""), e.get("p"), 1 if e.get("f") else 0,
+                   e.get("m"), e.get("r", ""), e.get("pl", "")]
              for pid, e in prices.items()}
     path = ROOT / f"index-{market}.json.gz"
     with gzip.open(path, "wt", encoding="utf-8") as f:
