@@ -151,6 +151,22 @@ def merge(prices, found, today):
     return turned_free
 
 
+def write_index(market, prices):
+    """Every product in the store, for the app's Xbox Store tab.
+
+    Compact on purpose: one array per product rather than named fields, gzipped. Box art
+    is left out - the app fetches that for the tiles it is showing.
+    """
+    items = {pid: [e.get("t", ""), e.get("p"), 1 if e.get("f") else 0]
+             for pid, e in prices.items()}
+    path = ROOT / f"index-{market}.json.gz"
+    with gzip.open(path, "wt", encoding="utf-8") as f:
+        json.dump({"updated": datetime.now().isoformat(timespec="seconds"), "market": market,
+                   "currency": next((e.get("c") for e in prices.values() if e.get("c")), ""),
+                   "count": len(items), "items": items}, f, separators=(",", ":"))
+    print(f"{market}: index of {len(items)} products ({path.stat().st_size // 1024} KB)")
+
+
 def write_outputs(market, prices):
     today = datetime.now()
     cutoff = (today - timedelta(days=NEWLY_FREE_DAYS)).strftime("%Y-%m-%d")
@@ -168,6 +184,7 @@ def write_outputs(market, prices):
          "days": NEWLY_FREE_DAYS, "count": len(recent), "items": recent},
         indent=0, sort_keys=True), encoding="utf-8")
     print(f"{market}: {len(free)} free, {len(recent)} turned free in {NEWLY_FREE_DAYS} days")
+    write_index(market, prices)
 
 
 def daily_slice(prices, all_ids, today):
