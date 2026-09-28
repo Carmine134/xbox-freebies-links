@@ -1,0 +1,73 @@
+name: Scan the store for free items
+
+# Walks Microsoft's own sitemaps and prices every product through the public catalog
+# API. No secrets, no account, and nobody has to run the app.
+#
+# The full price history lives in the Actions cache because it is large and changes
+# daily; only the small free / newly-free lists are committed.
+on:
+  schedule:
+    - cron: "40 4 * * *"    # daily, 04:40 UTC
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "full = price the whole store, daily = the usual slice"
+        type: choice
+        options: [daily, full]
+        default: daily
+      markets:
+        description: "Space separated, e.g. 'US GB NO DE'"
+        default: "US"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scan-store
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Restore yesterday's prices so today's run can tell what changed
+      - name: Restore price history
+        uses: actions/cache/restore@v4
+        with:
+          path: .cache
+          key: prices-${{ github.run_id }}
+          restore-keys: prices-
+
+      - name: Scan
+        run: |
+          for market in ${{ github.event.inputs.markets || 'US' }}; do
+            python scripts/scan_catalog.py --market "$market" --mode "${{ github.event.inputs.mode || 'daily' }}"
+          done
+
+      - name: Save price history
+        uses: actions/cache/save@v4
+        if: always()
+        with:
+          path: .cache
+          key: prices-${{ github.run_id }}
+
+      - name: Commit the free lists
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- 'free-*.json' 'newly-free-*.json'; then
+            echo "Nothing changed."
+          else
+            free=$(python -c "import json;print(json.load(open('free-US.json'))['count'])")
+            new=$(python -c "import json;print(json.load(open('newly-free-US.json'))['count'])")
+            git add free-*.json newly-free-*.json
+            git commit -m "Store scan: ${free} free, ${new} newly free"
+            git push
+          fi
