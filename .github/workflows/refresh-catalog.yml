@@ -1,0 +1,45 @@
+name: Refresh price database
+
+# Prices come from Microsoft's public catalog API, so this needs no secrets and
+# nobody has to run the app for the database to stay current.
+on:
+  schedule:
+    - cron: "17 5 * * *"   # daily, 05:17 UTC
+  workflow_dispatch:        # or run it by hand from the Actions tab
+  push:
+    paths:
+      - links.json          # new links appear: price them straight away
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-catalog
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Look up current prices
+        run: python scripts/refresh_catalog.py
+
+      - name: Commit any changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet catalog.json catalog.csv; then
+            echo "No price changes."
+          else
+            free=$(python -c "import json;d=json.load(open('catalog.json'));print(sum(1 for e in d['markets'].get('US',{}).values() if e.get('free')))")
+            git add catalog.json catalog.csv
+            git commit -m "Refresh prices (${free} free in the US store)"
+            git push
+          fi
