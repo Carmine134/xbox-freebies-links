@@ -97,7 +97,7 @@ def price_products(ids, market, label=""):
                             platforms.add("xbox")
                         elif "Desktop" in name:
                             platforms.add("pc")
-            free, amount, currency, msrp = False, None, "", None
+            free, amount, currency, msrp, sub_only = False, None, "", None, False
             for dsa in prod.get("DisplaySkuAvailabilities", []):
                 for av in dsa.get("Availabilities", []):
                     if "Purchase" not in av.get("Actions", []):
@@ -107,6 +107,11 @@ def price_products(ids, market, label=""):
                     if (begins and begins > now) or (ends and ends < now):
                         continue
                     price = (av.get("OrderManagementData") or {}).get("Price") or {}
+                    if av.get("RemediationRequired"):
+                        # Free only through Game Pass, Ubisoft+ and the like: not a price
+                        if price.get("ListPrice") == 0:
+                            sub_only = True
+                        continue
                     listed = price.get("ListPrice")
                     currency = price.get("CurrencyCode") or currency
                     if listed is not None and (amount is None or listed < amount):
@@ -115,7 +120,7 @@ def price_products(ids, market, label=""):
                     if listed == 0:
                         free = True
             out[pid] = {"title": title, "price": amount, "currency": currency, "free": free,
-                        "msrp": msrp, "released": released,
+                        "msrp": msrp, "released": released, "subscription": sub_only,
                         "platform": "+".join(sorted(platforms))}
         done = min(start + 20, len(ids))
         if (start // 20) % 100 == 0 or done == len(ids):
@@ -153,7 +158,15 @@ def merge(prices, found, today):
         before = prices.get(pid)
         entry = {"t": info["title"], "p": info["price"], "c": info["currency"],
                  "f": info["free"], "d": today, "m": info.get("msrp"),
-                 "r": info.get("released", ""), "pl": info.get("platform", "")}
+                 "r": info.get("released", ""), "pl": info.get("platform", ""),
+                 "s": bool(info.get("subscription"))}
+        # Keep every price change, so the app can draw a history. Unchanged prices add
+        # nothing, which is why this stays small.
+        history = (before or {}).get("h") or []
+        if info["price"] is not None and (not history or history[-1][1] != info["price"]):
+            history = history[-39:] + [[today, info["price"]]]
+        if history:
+            entry["h"] = history
         if info["free"]:
             if not before:
                 entry["free_since"] = ""            # never seen it priced: nothing to compare
@@ -173,7 +186,8 @@ def write_index(market, prices):
     is left out - the app fetches that for the tiles it is showing.
     """
     items = {pid: [e.get("t", ""), e.get("p"), 1 if e.get("f") else 0,
-                   e.get("m"), e.get("r", ""), e.get("pl", "")]
+                   e.get("m"), e.get("r", ""), e.get("pl", ""),
+                   1 if e.get("s") else 0, e.get("h") or []]
              for pid, e in prices.items()}
     path = ROOT / f"index-{market}.json.gz"
     with gzip.open(path, "wt", encoding="utf-8") as f:
