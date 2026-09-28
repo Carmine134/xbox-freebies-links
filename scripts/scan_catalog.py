@@ -99,6 +99,11 @@ def price_products(ids, market, label=""):
                             platforms.add("pc")
             free, amount, currency, msrp, sub_only = False, None, "", None, False
             for dsa in prod.get("DisplaySkuAvailabilities", []):
+                sku = dsa.get("Sku") or {}
+                # A trial costs nothing but is not the game: "ENDLESS Legend 2" sells for
+                # 49.99 with a trial sku at zero beside it
+                if sku.get("SkuType") == "trial" or (sku.get("Properties") or {}).get("IsTrial"):
+                    continue
                 for av in dsa.get("Availabilities", []):
                     if "Purchase" not in av.get("Actions", []):
                         continue
