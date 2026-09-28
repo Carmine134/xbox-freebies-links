@@ -58,16 +58,28 @@ jobs:
           path: .cache
           key: prices-${{ github.run_id }}
 
+      # A scan runs for hours and other commits land meanwhile, so the checkout this
+      # job started from is stale by the end. These files are written whole each run,
+      # so the newest reading simply goes on top of whatever master holds now.
       - name: Commit the free lists
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add free-*.json newly-free-*.json index-*.json.gz
-          if git diff --cached --quiet; then   # --cached: a brand new file is a change too
-            echo "Nothing changed."
-          else
+          mkdir -p /tmp/scan
+          cp free-*.json newly-free-*.json index-*.json.gz /tmp/scan/
+          for attempt in 1 2 3; do
+            git fetch origin master
+            git reset --hard origin/master
+            cp /tmp/scan/* .
+            git add free-*.json newly-free-*.json index-*.json.gz
+            if git diff --cached --quiet; then   # --cached: a brand new file is a change too
+              echo "Nothing changed."
+              exit 0
+            fi
             free=$(python -c "import json;print(json.load(open('free-US.json'))['count'])")
             new=$(python -c "import json;print(json.load(open('newly-free-US.json'))['count'])")
             git commit -m "Store scan: ${free} free, ${new} newly free"
-            git push
-          fi
+            git push origin HEAD:master && exit 0
+            echo "Something else pushed first, trying again"
+          done
+          exit 1
