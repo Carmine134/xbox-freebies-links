@@ -97,13 +97,15 @@ def price_products(ids, market, label=""):
                             platforms.add("xbox")
                         elif "Desktop" in name:
                             platforms.add("pc")
-            free, amount, currency, msrp, sub_only = False, None, "", None, False
+            free, amount, currency, msrp = False, None, "", None
+            sub_only, trial = False, False
             for dsa in prod.get("DisplaySkuAvailabilities", []):
                 sku = dsa.get("Sku") or {}
                 # A trial costs nothing but is not the game: "ENDLESS Legend 2" sells for
-                # 49.99 with a trial sku at zero beside it
-                if sku.get("SkuType") == "trial" or (sku.get("Properties") or {}).get("IsTrial"):
-                    continue
+                # 49.99 with a trial sku at zero beside it. Worth recording rather than
+                # ignoring, so the app can say "free trial" instead of saying nothing.
+                is_trial = (sku.get("SkuType") == "trial"
+                            or (sku.get("Properties") or {}).get("IsTrial"))
                 for av in dsa.get("Availabilities", []):
                     if "Purchase" not in av.get("Actions", []):
                         continue
@@ -118,6 +120,9 @@ def price_products(ids, market, label=""):
                             sub_only = True
                         continue
                     listed = price.get("ListPrice")
+                    if is_trial:
+                        trial = trial or listed == 0
+                        continue
                     currency = price.get("CurrencyCode") or currency
                     if listed is not None and (amount is None or listed < amount):
                         amount = listed  # cheapest way to get it
@@ -126,7 +131,7 @@ def price_products(ids, market, label=""):
                         free = True
             out[pid] = {"title": title, "price": amount, "currency": currency, "free": free,
                         "msrp": msrp, "released": released, "subscription": sub_only,
-                        "platform": "+".join(sorted(platforms))}
+                        "trial": trial, "platform": "+".join(sorted(platforms))}
         done = min(start + 20, len(ids))
         if (start // 20) % 100 == 0 or done == len(ids):
             rate = done / max(1, time.time() - started)
@@ -164,7 +169,7 @@ def merge(prices, found, today):
         entry = {"t": info["title"], "p": info["price"], "c": info["currency"],
                  "f": info["free"], "d": today, "m": info.get("msrp"),
                  "r": info.get("released", ""), "pl": info.get("platform", ""),
-                 "s": bool(info.get("subscription"))}
+                 "s": bool(info.get("subscription")), "tl": bool(info.get("trial"))}
         # Keep every price change, so the app can draw a history. Unchanged prices add
         # nothing, which is why this stays small.
         history = (before or {}).get("h") or []
@@ -192,7 +197,7 @@ def write_index(market, prices):
     """
     items = {pid: [e.get("t", ""), e.get("p"), 1 if e.get("f") else 0,
                    e.get("m"), e.get("r", ""), e.get("pl", ""),
-                   1 if e.get("s") else 0, e.get("h") or []]
+                   1 if e.get("s") else 0, e.get("h") or [], 1 if e.get("tl") else 0]
              for pid, e in prices.items()}
     path = ROOT / f"index-{market}.json.gz"
     with gzip.open(path, "wt", encoding="utf-8") as f:
