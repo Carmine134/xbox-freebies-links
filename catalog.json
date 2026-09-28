@@ -404,7 +404,7 @@
     "checked": "2026-09-28",
     "currency": "EUR",
     "free": false,
-    "price": 6.29,
+    "price": 13.49,
     "title": "Classic Chess Board"
    },
    "9MWDPB3B9PRD": {
@@ -3911,7 +3911,7 @@
     "checked": "2026-09-28",
     "currency": "EUR",
     "free": false,
-    "price": 5.19,
+    "price": 10.49,
     "title": "Backgammon: Board Game"
    },
    "9NNCX6MDWM2P": {
@@ -5255,7 +5255,7 @@
     "checked": "2026-09-28",
     "currency": "EUR",
     "free": false,
-    "price": 4.19,
+    "price": 12.49,
     "title": "Prime Backgammon"
    },
    "9NZGG645RSPG": {
@@ -5843,7 +5843,7 @@
     "checked": "2026-09-28",
     "currency": "EUR",
     "free": false,
-    "price": 4.19,
+    "price": 12.49,
     "title": "Prime Ludo"
    },
    "9P39MHW5PZ0W": {
@@ -13440,7 +13440,7 @@
     "checked": "2026-09-28",
     "currency": "GBP",
     "free": false,
-    "price": 4.99,
+    "price": 10.74,
     "title": "Classic Chess Board"
    },
    "9MWDPB3B9PRD": {
@@ -16947,7 +16947,7 @@
     "checked": "2026-09-28",
     "currency": "GBP",
     "free": false,
-    "price": 4.19,
+    "price": 8.39,
     "title": "Backgammon: Board Game"
    },
    "9NNCX6MDWM2P": {
@@ -18291,7 +18291,7 @@
     "checked": "2026-09-28",
     "currency": "GBP",
     "free": false,
-    "price": 3.29,
+    "price": 9.99,
     "title": "Prime Backgammon"
    },
    "9NZGG645RSPG": {
@@ -18879,7 +18879,7 @@
     "checked": "2026-09-28",
     "currency": "GBP",
     "free": false,
-    "price": 3.29,
+    "price": 9.99,
     "title": "Prime Ludo"
    },
    "9P39MHW5PZ0W": {
@@ -26469,7 +26469,7 @@
     "checked": "2026-09-28",
     "currency": "NOK",
     "free": false,
-    "price": 61.0,
+    "price": 134.0,
     "title": "Classic Chess Board"
    },
    "9MWDPB3B9PRD": {
@@ -29976,7 +29976,7 @@
     "checked": "2026-09-28",
     "currency": "NOK",
     "free": false,
-    "price": 51.0,
+    "price": 104.0,
     "title": "Backgammon: Board Game"
    },
    "9NNCX6MDWM2P": {
@@ -31320,7 +31320,7 @@
     "checked": "2026-09-28",
     "currency": "NOK",
     "free": false,
-    "price": 41.0,
+    "price": 124.0,
     "title": "Prime Backgammon"
    },
    "9NZGG645RSPG": {
@@ -31908,7 +31908,7 @@
     "checked": "2026-09-28",
     "currency": "NOK",
     "free": false,
-    "price": 41.0,
+    "price": 124.0,
     "title": "Prime Ludo"
    },
    "9P39MHW5PZ0W": {
@@ -39505,7 +39505,7 @@
     "checked": "2026-09-28",
     "currency": "USD",
     "free": false,
-    "price": 5.99,
+    "price": 12.99,
     "title": "Classic Chess Board"
    },
    "9MWDPB3B9PRD": {
@@ -43012,7 +43012,7 @@
     "checked": "2026-09-28",
     "currency": "USD",
     "free": false,
-    "price": 4.99,
+    "price": 9.99,
     "title": "Backgammon: Board Game"
    },
    "9NNCX6MDWM2P": {
@@ -44356,7 +44356,7 @@
     "checked": "2026-09-28",
     "currency": "USD",
     "free": false,
-    "price": 3.99,
+    "price": 11.99,
     "title": "Prime Backgammon"
    },
    "9NZGG645RSPG": {
@@ -44944,7 +44944,7 @@
     "checked": "2026-09-28",
     "currency": "USD",
     "free": false,
-    "price": 3.99,
+    "price": 11.99,
     "title": "Prime Ludo"
    },
    "9P39MHW5PZ0W": {
@@ -52131,5 +52131,5 @@
    }
   }
  },
- "updated": "2026-09-28T00:06:28"
+ "updated": "2026-09-28T11:49:29"
 }
