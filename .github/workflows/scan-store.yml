@@ -17,7 +17,7 @@ on:
         default: daily
       markets:
         description: "Space separated, e.g. 'US TR DE GB'"
-        default: "US TR DE GB NO"
+        default: "US TR DE GB NO IS HU"
 
 permissions:
   contents: write
@@ -29,7 +29,7 @@ concurrency:
 jobs:
   scan:
     runs-on: ubuntu-latest
-    timeout-minutes: 330
+    timeout-minutes: 350
     steps:
       - uses: actions/checkout@v4
 
@@ -47,7 +47,7 @@ jobs:
 
       - name: Scan
         run: |
-          for market in ${{ github.event.inputs.markets || 'US TR DE GB NO' }}; do
+          for market in ${{ github.event.inputs.markets || 'US TR DE GB NO IS HU' }}; do
             python scripts/scan_catalog.py --market "$market" --mode "${{ github.event.inputs.mode || 'daily' }}"
           done
 
