@@ -2801,6 +2801,13 @@
     "price": null,
     "title": "Forza Motorsport 6: Apex"
    },
+   "9NBLGGH3TRLJ": {
+    "checked": "2026-09-28",
+    "currency": "",
+    "free": false,
+    "price": null,
+    "title": "Asphalt Overdrive By Gameloft"
+   },
    "9NBLGGH4080X": {
     "checked": "2026-09-28",
     "currency": "",
@@ -10053,12 +10060,33 @@
     "price": 0.0,
     "title": "Microsoft Solitaire Collection"
    },
+   "9WZDNCRFHWF1": {
+    "checked": "2026-09-28",
+    "currency": "EUR",
+    "free": true,
+    "price": 0.0,
+    "title": "Halo: Spartan Assault Lite"
+   },
+   "9WZDNCRFHWFH": {
+    "checked": "2026-09-28",
+    "currency": "EUR",
+    "free": true,
+    "price": 0.0,
+    "title": "Halo: Spartan Assault"
+   },
    "9WZDNCRFJ1NC": {
     "checked": "2026-09-28",
     "currency": "EUR",
     "free": true,
     "price": 0.0,
     "title": "Gimme Five"
+   },
+   "9WZDNCRFJBFJ": {
+    "checked": "2026-09-28",
+    "currency": "EUR",
+    "free": true,
+    "price": 0.0,
+    "title": "Halo: Spartan Strike"
    },
    "BNBV7FW86B6R": {
     "checked": "2026-09-28",
@@ -17818,6 +17846,13 @@
     "price": null,
     "title": "Forza Motorsport 6: Apex"
    },
+   "9NBLGGH3TRLJ": {
+    "checked": "2026-09-28",
+    "currency": "",
+    "free": false,
+    "price": null,
+    "title": "Asphalt Overdrive By Gameloft"
+   },
    "9NBLGGH4080X": {
     "checked": "2026-09-28",
     "currency": "",
@@ -25070,12 +25105,33 @@
     "price": 0.0,
     "title": "Microsoft Solitaire Collection"
    },
+   "9WZDNCRFHWF1": {
+    "checked": "2026-09-28",
+    "currency": "GBP",
+    "free": true,
+    "price": 0.0,
+    "title": "Halo: Spartan Assault Lite"
+   },
+   "9WZDNCRFHWFH": {
+    "checked": "2026-09-28",
+    "currency": "GBP",
+    "free": true,
+    "price": 0.0,
+    "title": "Halo: Spartan Assault"
+   },
    "9WZDNCRFJ1NC": {
     "checked": "2026-09-28",
     "currency": "GBP",
     "free": true,
     "price": 0.0,
     "title": "Gimme Five"
+   },
+   "9WZDNCRFJBFJ": {
+    "checked": "2026-09-28",
+    "currency": "GBP",
+    "free": true,
+    "price": 0.0,
+    "title": "Halo: Spartan Strike"
    },
    "BNBV7FW86B6R": {
     "checked": "2026-09-28",
@@ -32828,6 +32884,13 @@
     "price": null,
     "title": "Forza Motorsport 6: Apex"
    },
+   "9NBLGGH3TRLJ": {
+    "checked": "2026-09-28",
+    "currency": "",
+    "free": false,
+    "price": null,
+    "title": "Asphalt Overdrive By Gameloft"
+   },
    "9NBLGGH4080X": {
     "checked": "2026-09-28",
     "currency": "",
@@ -40080,12 +40143,33 @@
     "price": 0.0,
     "title": "Microsoft Solitaire Collection"
    },
+   "9WZDNCRFHWF1": {
+    "checked": "2026-09-28",
+    "currency": "NOK",
+    "free": true,
+    "price": 0.0,
+    "title": "Halo: Spartan Assault Lite"
+   },
+   "9WZDNCRFHWFH": {
+    "checked": "2026-09-28",
+    "currency": "NOK",
+    "free": true,
+    "price": 0.0,
+    "title": "Halo: Spartan Assault"
+   },
    "9WZDNCRFJ1NC": {
     "checked": "2026-09-28",
     "currency": "NOK",
     "free": true,
     "price": 0.0,
     "title": "Gimme Five"
+   },
+   "9WZDNCRFJBFJ": {
+    "checked": "2026-09-28",
+    "currency": "NOK",
+    "free": true,
+    "price": 0.0,
+    "title": "Halo: Spartan Strike"
    },
    "BNBV7FW86B6R": {
     "checked": "2026-09-28",
@@ -47845,6 +47929,13 @@
     "price": null,
     "title": "Forza Motorsport 6: Apex"
    },
+   "9NBLGGH3TRLJ": {
+    "checked": "2026-09-28",
+    "currency": "",
+    "free": false,
+    "price": null,
+    "title": "Asphalt Overdrive By Gameloft"
+   },
    "9NBLGGH4080X": {
     "checked": "2026-09-28",
     "currency": "",
@@ -55097,12 +55188,33 @@
     "price": 0.0,
     "title": "Microsoft Solitaire Collection"
    },
+   "9WZDNCRFHWF1": {
+    "checked": "2026-09-28",
+    "currency": "USD",
+    "free": true,
+    "price": 0.0,
+    "title": "Halo: Spartan Assault Lite"
+   },
+   "9WZDNCRFHWFH": {
+    "checked": "2026-09-28",
+    "currency": "USD",
+    "free": true,
+    "price": 0.0,
+    "title": "Halo: Spartan Assault"
+   },
    "9WZDNCRFJ1NC": {
     "checked": "2026-09-28",
     "currency": "USD",
     "free": true,
     "price": 0.0,
     "title": "Gimme Five"
+   },
+   "9WZDNCRFJBFJ": {
+    "checked": "2026-09-28",
+    "currency": "USD",
+    "free": true,
+    "price": 0.0,
+    "title": "Halo: Spartan Strike"
    },
    "BNBV7FW86B6R": {
     "checked": "2026-09-28",
@@ -60055,5 +60167,5 @@
    }
   }
  },
- "updated": "2026-09-28T15:59:39"
+ "updated": "2026-09-28T16:07:20"
 }
