@@ -93,6 +93,12 @@ def price_products(ids, market, label=""):
                              if u.get("AggregateTimeSpan") == "AllTime"), {})
             rating = all_time.get("AverageRating") or None
             ratings = int(all_time.get("RatingCount") or 0)
+            # Games from the Xbox 360 and the original Xbox are delivered through the
+            # backward compatibility programme, and the store names their group
+            # "[Fission] Ninja Gaiden Black (544307D8)". Nothing in the catalog says
+            # which of the two consoles it came from.
+            classic = str((prod.get("Properties") or {}).get("ProductGroupName") or
+                          "").startswith("[Fission]")
             # DLC points at the game it belongs to, a bundle at what it contains
             parent = next((r.get("RelatedProductId") for r in market_props.get("RelatedProducts") or []
                            if r.get("RelationshipType") in ("addOnParent", "Parent")), "")
@@ -149,7 +155,7 @@ def price_products(ids, market, label=""):
                         "msrp": msrp, "released": released, "subscription": sub_only,
                         "trial": trial, "platform": "+".join(sorted(platforms)),
                         "sale_end": sale_end, "rating": rating, "ratings": ratings,
-                        "parent": parent}
+                        "parent": parent, "classic": classic}
         done = min(start + 20, len(ids))
         if (start // 20) % 100 == 0 or done == len(ids):
             rate = done / max(1, time.time() - started)
@@ -189,7 +195,8 @@ def merge(prices, found, today):
                  "r": info.get("released", ""), "pl": info.get("platform", ""),
                  "s": bool(info.get("subscription")), "tl": bool(info.get("trial")),
                  "se": info.get("sale_end", ""), "ra": info.get("rating"),
-                 "rc": info.get("ratings") or 0, "pa": info.get("parent", "")}
+                 "rc": info.get("ratings") or 0, "pa": info.get("parent", ""),
+                 "cl": bool(info.get("classic"))}
         # Keep every price change, so the app can draw a history. Unchanged prices add
         # nothing, which is why this stays small.
         history = (before or {}).get("h") or []
@@ -218,7 +225,8 @@ def write_index(market, prices):
     items = {pid: [e.get("t", ""), e.get("p"), 1 if e.get("f") else 0,
                    e.get("m"), e.get("r", ""), e.get("pl", ""),
                    1 if e.get("s") else 0, e.get("h") or [], 1 if e.get("tl") else 0,
-                   e.get("se", ""), e.get("ra"), e.get("rc") or 0, e.get("pa", "")]
+                   e.get("se", ""), e.get("ra"), e.get("rc") or 0, e.get("pa", ""),
+                   1 if e.get("cl") else 0]
              for pid, e in prices.items()}
     path = ROOT / f"index-{market}.json.gz"
     with gzip.open(path, "wt", encoding="utf-8") as f:
