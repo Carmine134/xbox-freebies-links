@@ -62,12 +62,12 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if git diff --quiet -- 'free-*.json' 'newly-free-*.json'; then
+          git add free-*.json newly-free-*.json
+          if git diff --cached --quiet; then   # --cached: a brand new file is a change too
             echo "Nothing changed."
           else
             free=$(python -c "import json;print(json.load(open('free-US.json'))['count'])")
             new=$(python -c "import json;print(json.load(open('newly-free-US.json'))['count'])")
-            git add free-*.json newly-free-*.json
             git commit -m "Store scan: ${free} free, ${new} newly free"
             git push
           fi
