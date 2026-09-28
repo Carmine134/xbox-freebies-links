@@ -86,7 +86,16 @@ def price_products(ids, market, label=""):
         for prod in data.get("Products", []):
             pid = prod["ProductId"].upper()
             title = (prod.get("LocalizedProperties") or [{}])[0].get("ProductTitle", "")
-            released = ((prod.get("MarketProperties") or [{}])[0].get("OriginalReleaseDate") or "")[:10]
+            market_props = (prod.get("MarketProperties") or [{}])[0]
+            released = (market_props.get("OriginalReleaseDate") or "")[:10]
+            # Players' own score, all-time rather than this week's handful of votes
+            all_time = next((u for u in (market_props.get("UsageData") or [])
+                             if u.get("AggregateTimeSpan") == "AllTime"), {})
+            rating = all_time.get("AverageRating") or None
+            ratings = int(all_time.get("RatingCount") or 0)
+            # DLC points at the game it belongs to, a bundle at what it contains
+            parent = next((r.get("RelatedProductId") for r in market_props.get("RelatedProducts") or []
+                           if r.get("RelationshipType") in ("addOnParent", "Parent")), "")
             platforms = set()
             for dsa in prod.get("DisplaySkuAvailabilities", []):
                 sku_props = (dsa.get("Sku") or {}).get("Properties") or {}
@@ -98,7 +107,7 @@ def price_products(ids, market, label=""):
                         elif "Desktop" in name:
                             platforms.add("pc")
             free, amount, currency, msrp = False, None, "", None
-            sub_only, trial = False, False
+            sub_only, trial, ends_at = False, False, None
             for dsa in prod.get("DisplaySkuAvailabilities", []):
                 sku = dsa.get("Sku") or {}
                 # A trial costs nothing but is not the game: "ENDLESS Legend 2" sells for
@@ -127,11 +136,20 @@ def price_products(ids, market, label=""):
                     if listed is not None and (amount is None or listed < amount):
                         amount = listed  # cheapest way to get it
                         msrp = price.get("MSRP")
+                        ends_at = ends   # when this particular offer stops
                     if listed == 0:
                         free = True
+            # A sale has a real end date. Offers that run to 2029 or 9998 are just how
+            # the store writes "no end", and saying "ends in 1200 days" would be silly.
+            sale_end = ""
+            if amount is not None and msrp and amount < msrp and ends_at:
+                if ends_at < now + timedelta(days=400):
+                    sale_end = ends_at.strftime("%Y-%m-%d")
             out[pid] = {"title": title, "price": amount, "currency": currency, "free": free,
                         "msrp": msrp, "released": released, "subscription": sub_only,
-                        "trial": trial, "platform": "+".join(sorted(platforms))}
+                        "trial": trial, "platform": "+".join(sorted(platforms)),
+                        "sale_end": sale_end, "rating": rating, "ratings": ratings,
+                        "parent": parent}
         done = min(start + 20, len(ids))
         if (start // 20) % 100 == 0 or done == len(ids):
             rate = done / max(1, time.time() - started)
@@ -169,7 +187,9 @@ def merge(prices, found, today):
         entry = {"t": info["title"], "p": info["price"], "c": info["currency"],
                  "f": info["free"], "d": today, "m": info.get("msrp"),
                  "r": info.get("released", ""), "pl": info.get("platform", ""),
-                 "s": bool(info.get("subscription")), "tl": bool(info.get("trial"))}
+                 "s": bool(info.get("subscription")), "tl": bool(info.get("trial")),
+                 "se": info.get("sale_end", ""), "ra": info.get("rating"),
+                 "rc": info.get("ratings") or 0, "pa": info.get("parent", "")}
         # Keep every price change, so the app can draw a history. Unchanged prices add
         # nothing, which is why this stays small.
         history = (before or {}).get("h") or []
@@ -197,7 +217,8 @@ def write_index(market, prices):
     """
     items = {pid: [e.get("t", ""), e.get("p"), 1 if e.get("f") else 0,
                    e.get("m"), e.get("r", ""), e.get("pl", ""),
-                   1 if e.get("s") else 0, e.get("h") or [], 1 if e.get("tl") else 0]
+                   1 if e.get("s") else 0, e.get("h") or [], 1 if e.get("tl") else 0,
+                   e.get("se", ""), e.get("ra"), e.get("rc") or 0, e.get("pa", "")]
              for pid, e in prices.items()}
     path = ROOT / f"index-{market}.json.gz"
     with gzip.open(path, "wt", encoding="utf-8") as f:
