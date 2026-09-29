@@ -1,5 +1,5 @@
 {
-"count": 1342,
+"count": 1344,
 "items": {
 "9MSNZS40ZCHF": {
 "currency": "ISK",
@@ -235,6 +235,11 @@
 "currency": "ISK",
 "free_since": "",
 "title": "Endless Shaft"
+},
+"9MVZ2X0V5PF1": {
+"currency": "ISK",
+"free_since": "",
+"title": "Next of Kin: Epiphany - DEMO"
 },
 "9MVZZZPF5M69": {
 "currency": "ISK",
@@ -5141,6 +5146,11 @@
 "free_since": "",
 "title": "Bubble Shooter Viking Pop!"
 },
+"9PB1CHMGC0LS": {
+"currency": "ISK",
+"free_since": "2026-09-29",
+"title": "NEIGHBORS: Suburban Warfare"
+},
 "9PB36SK3SCCN": {
 "currency": "ISK",
 "free_since": "",
@@ -6713,5 +6723,5 @@
 }
 },
 "market": "IS",
-"updated": "2026-09-28T21:42:37"
+"updated": "2026-09-29T08:07:52"
 }

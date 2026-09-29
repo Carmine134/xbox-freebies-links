@@ -1,7 +1,13 @@
 {
-"count": 0,
+"count": 1,
 "days": 21,
-"items": {},
+"items": {
+"9PB1CHMGC0LS": {
+"currency": "HUF",
+"free_since": "2026-09-29",
+"title": "NEIGHBORS: Suburban Warfare"
+}
+},
 "market": "HU",
-"updated": "2026-09-28T21:48:10"
+"updated": "2026-09-29T08:11:51"
 }
