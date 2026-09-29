@@ -45275,11 +45275,12 @@
     "title": "World of Warships: Legends \u2013 High Seas Sorceress"
    },
    "9MTB9HDLZ3WF": {
-    "checked": "2026-09-28",
+    "checked": "2026-09-29",
     "currency": "USD",
     "free": true,
     "price": 0.0,
-    "title": "HOT WHEELS\u2122 - Chevy 1956 - Xbox Series X|S"
+    "title": "HOT WHEELS\u2122 - Chevy 1956 - Xbox Series X|S",
+    "trial": false
    },
    "9MTBKJ2TZ1NX": {
     "checked": "2026-09-28",
@@ -45289,11 +45290,12 @@
     "title": "Golden Frost Dragon Attack"
    },
    "9MTD31LS51R7": {
-    "checked": "2026-09-28",
+    "checked": "2026-09-29",
     "currency": "USD",
     "free": true,
     "price": 0.0,
-    "title": "Pinball FX - Zen Originals Collection 1 Trial"
+    "title": "Pinball FX - Zen Originals Collection 1 Trial",
+    "trial": false
    },
    "9MTFCHPDM9M3": {
     "checked": "2026-09-28",
@@ -60186,5 +60188,5 @@
    }
   }
  },
- "updated": "2026-09-29T10:45:20"
+ "updated": "2026-09-29T10:57:00"
 }
