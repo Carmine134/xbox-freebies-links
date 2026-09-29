@@ -45218,11 +45218,12 @@
     "title": "Taco Bell Hat and T-Shirt"
    },
    "9MSZWR9Z3TW6": {
-    "checked": "2026-09-28",
+    "checked": "2026-09-29",
     "currency": "USD",
     "free": true,
     "price": 0.0,
-    "title": "RIDE 4 - Bonus Pack 09"
+    "title": "RIDE 4 - Bonus Pack 09",
+    "trial": false
    },
    "9MT4LH3V65M8": {
     "checked": "2026-09-28",
@@ -60185,5 +60186,5 @@
    }
   }
  },
- "updated": "2026-09-29T10:34:18"
+ "updated": "2026-09-29T10:45:20"
 }
