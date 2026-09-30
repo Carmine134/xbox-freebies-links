@@ -1,5 +1,5 @@
 {
-"count": 1344,
+"count": 1345,
 "items": {
 "9MSNZS40ZCHF": {
 "currency": "ISK",
@@ -2100,6 +2100,11 @@
 "currency": "ISK",
 "free_since": "",
 "title": "GunMetal"
+},
+"9NDHJGC78VNC": {
+"currency": "ISK",
+"free_since": "",
+"title": "Hamood Habibi"
 },
 "9NDK3N3WH8J6": {
 "currency": "ISK",
@@ -6723,5 +6728,5 @@
 }
 },
 "market": "IS",
-"updated": "2026-09-29T11:06:23"
+"updated": "2026-09-30T10:48:21"
 }
