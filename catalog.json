@@ -45222,7 +45222,8 @@
     "currency": "USD",
     "free": true,
     "price": 0.0,
-    "title": "RIDE 4 - Bonus Pack 09"
+    "title": "RIDE 4 - Bonus Pack 09",
+    "trial": false
    },
    "9MT4LH3V65M8": {
     "checked": "2026-09-29",
@@ -45278,7 +45279,8 @@
     "currency": "USD",
     "free": true,
     "price": 0.0,
-    "title": "HOT WHEELS\u2122 - Chevy 1956 - Xbox Series X|S"
+    "title": "HOT WHEELS\u2122 - Chevy 1956 - Xbox Series X|S",
+    "trial": false
    },
    "9MTBKJ2TZ1NX": {
     "checked": "2026-09-29",
@@ -45292,7 +45294,8 @@
     "currency": "USD",
     "free": true,
     "price": 0.0,
-    "title": "Pinball FX - Zen Originals Collection 1 Trial"
+    "title": "Pinball FX - Zen Originals Collection 1 Trial",
+    "trial": false
    },
    "9MTFCHPDM9M3": {
     "checked": "2026-09-29",
@@ -45305,8 +45308,10 @@
     "checked": "2026-09-29",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Pinball FX - Williams\u2122 Pinball Volume 10 Trial"
+    "title": "Pinball FX - Williams\u2122 Pinball Volume 10 Trial",
+    "trial": false
    },
    "9MTLHG50W87K": {
     "checked": "2026-09-29",
@@ -45368,29 +45373,37 @@
     "checked": "2026-09-29",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Pinball FX - A Charlie Brown Christmas\u2122 Pinball Trial"
+    "title": "Pinball FX - A Charlie Brown Christmas\u2122 Pinball Trial",
+    "trial": false
    },
    "9MV4ZWMJ48XV": {
     "checked": "2026-09-29",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Rotting Christ Pack"
+    "title": "Rotting Christ Pack",
+    "trial": false
    },
    "9MV51G79DF71": {
     "checked": "2026-09-29",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Hell Let Loose - Soviet and British 8th Army Armor Pack"
+    "title": "Hell Let Loose - Soviet and British 8th Army Armor Pack",
+    "trial": false
    },
    "9MV51MFDC6F1": {
     "checked": "2026-09-29",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "PMR: Aussie Rivals Pack (PC)"
+    "title": "PMR: Aussie Rivals Pack (PC)",
+    "trial": false
    },
    "9MVB9T9X3FR6": {
     "checked": "2026-09-29",
@@ -45403,8 +45416,10 @@
     "checked": "2026-09-29",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Grenade Launcher Pack"
+    "title": "Grenade Launcher Pack",
+    "trial": false
    },
    "9MVF75ZT5MT3": {
     "checked": "2026-09-29",
@@ -45445,8 +45460,10 @@
     "checked": "2026-09-29",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Pre-Order DLC"
+    "title": "Pre-Order DLC",
+    "trial": false
    },
    "9MVMMVRMZ30W": {
     "checked": "2026-09-29",
@@ -45501,8 +45518,10 @@
     "checked": "2026-09-29",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "RIDE 4 - Bonus Pack 05"
+    "title": "RIDE 4 - Bonus Pack 05",
+    "trial": false
    },
    "9MVTGWDJD7TP": {
     "checked": "2026-09-29",
@@ -45543,8 +45562,10 @@
     "checked": "2026-09-29",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Pinball FX - Marvel Pinball Collection 2 Trial"
+    "title": "Pinball FX - Marvel Pinball Collection 2 Trial",
+    "trial": false
    },
    "9MW2ZJQ2PNDN": {
     "checked": "2026-09-29",
@@ -45592,8 +45613,10 @@
     "checked": "2026-09-29",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "RIDE 4 - Bonus Pack 03"
+    "title": "RIDE 4 - Bonus Pack 03",
+    "trial": false
    },
    "9MWBZBQC5W58": {
     "checked": "2026-09-29",
@@ -45788,8 +45811,10 @@
     "checked": "2026-09-29",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Special costume for Yumia in collaboration with Asbel from \"Tales of Graces f Remastered\""
+    "title": "Special costume for Yumia in collaboration with Asbel from \"Tales of Graces f Remastered\"",
+    "trial": false
    },
    "9MX4R8FMRH7T": {
     "checked": "2026-09-29",
@@ -45809,15 +45834,19 @@
     "checked": "2026-09-29",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Pinball FX - Jurassic World\u2122\ufe0f Pinball Trial"
+    "title": "Pinball FX - Jurassic World\u2122\ufe0f Pinball Trial",
+    "trial": false
    },
    "9MX5P9WCMVDP": {
     "checked": "2026-09-29",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "METAL GEAR SOLID BANDE DESSIN\u00c9E"
+    "title": "METAL GEAR SOLID BANDE DESSIN\u00c9E",
+    "trial": false
    },
    "9MX6V047QSNW": {
     "checked": "2026-09-29",
@@ -45900,8 +45929,10 @@
     "checked": "2026-09-29",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Vampire Survivors: Emerald Diorama"
+    "title": "Vampire Survivors: Emerald Diorama",
+    "trial": false
    },
    "9MXMJ3DNHM2B": {
     "checked": "2026-09-29",
@@ -45942,8 +45973,10 @@
     "checked": "2026-09-29",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Cheshire Cat Skin"
+    "title": "Cheshire Cat Skin",
+    "trial": false
    },
    "9MZ145JQVWX0": {
     "checked": "2026-09-29",
@@ -46005,15 +46038,19 @@
     "checked": "2026-09-29",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "MHW:I - Free Content Collection Pack"
+    "title": "MHW:I - Free Content Collection Pack",
+    "trial": false
    },
    "9MZ9ZVQXRJN5": {
     "checked": "2026-09-29",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "The Surge 2 - JCPD Gear Pack"
+    "title": "The Surge 2 - JCPD Gear Pack",
+    "trial": false
    },
    "9MZDF084KX9S": {
     "checked": "2026-09-29",
@@ -46124,8 +46161,10 @@
     "checked": "2026-09-29",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Pinball FX - Charity Pack Trial"
+    "title": "Pinball FX - Charity Pack Trial",
+    "trial": false
    },
    "9N01MR5LF53S": {
     "checked": "2026-09-29",
@@ -46194,8 +46233,10 @@
     "checked": "2026-09-29",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "SteelSeries\u00a9 FREE Cosmetic Pack"
+    "title": "SteelSeries\u00a9 FREE Cosmetic Pack",
+    "trial": false
    },
    "9N0JD0042T7G": {
     "checked": "2026-09-29",
@@ -46229,8 +46270,10 @@
     "checked": "2026-09-29",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Delta Force: Black Hawk Down"
+    "title": "Delta Force: Black Hawk Down",
+    "trial": false
    },
    "9N0LJPRZP0RM": {
     "checked": "2026-09-29",
@@ -46243,8 +46286,10 @@
     "checked": "2026-09-29",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "R-Type Tactics I \u2022 II Cosmos - Unit Color Variation Fighter Pack"
+    "title": "R-Type Tactics I \u2022 II Cosmos - Unit Color Variation Fighter Pack",
+    "trial": false
    },
    "9N0Q43CWJQB5": {
     "checked": "2026-09-29",
@@ -46264,15 +46309,19 @@
     "checked": "2026-09-29",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Pinball FX - Star Trek\u2122 Pinball Trial"
+    "title": "Pinball FX - Star Trek\u2122 Pinball Trial",
+    "trial": false
    },
    "9N0TD54M0NKN": {
     "checked": "2026-09-29",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Pinball FX - Star Wars\u2122\ufe0f Pinball Collection 2 Trial"
+    "title": "Pinball FX - Star Wars\u2122\ufe0f Pinball Collection 2 Trial",
+    "trial": false
    },
    "9N0TJWN1MK7L": {
     "checked": "2026-09-29",
@@ -46299,8 +46348,10 @@
     "checked": "2026-09-29",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Council Apocalypse"
+    "title": "Council Apocalypse",
+    "trial": false
    },
    "9N10G9J35L25": {
     "checked": "2026-09-29",
@@ -46334,15 +46385,19 @@
     "checked": "2026-09-29",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Tormented Souls 2 Demo"
+    "title": "Tormented Souls 2 Demo",
+    "trial": false
    },
    "9N17ZKXFLNJM": {
     "checked": "2026-09-29",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Photo Pose: Adventure Begins Pose 3 & 4"
+    "title": "Photo Pose: Adventure Begins Pose 3 & 4",
+    "trial": false
    },
    "9N19HXHDF3P7": {
     "checked": "2026-09-29",
@@ -46460,15 +46515,19 @@
     "checked": "2026-09-29",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Accessory: Crystalline Ornament"
+    "title": "Accessory: Crystalline Ornament",
+    "trial": false
    },
    "9N1ZTNCRC6N7": {
     "checked": "2026-09-29",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Heavy Cargo \u2013 The Truck Simulator: Mission Pack"
+    "title": "Heavy Cargo \u2013 The Truck Simulator: Mission Pack",
+    "trial": false
    },
    "9N2043J1X047": {
     "checked": "2026-09-29",
@@ -46488,8 +46547,10 @@
     "checked": "2026-09-29",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Bulwark: Falconeer Chronicles Dreadnot Day One DLC"
+    "title": "Bulwark: Falconeer Chronicles Dreadnot Day One DLC",
+    "trial": false
    },
    "9N241B2JJRRR": {
     "checked": "2026-09-29",
@@ -46537,8 +46598,10 @@
     "checked": "2026-09-29",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "MudRunner - The Valley DLC"
+    "title": "MudRunner - The Valley DLC",
+    "trial": false
    },
    "9N2C7JT023K0": {
     "checked": "2026-09-29",
@@ -46558,8 +46621,10 @@
     "checked": "2026-09-29",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Street Outlaws 2: Winner Takes All \u2013 The 80s & 90s Car Bundle"
+    "title": "Street Outlaws 2: Winner Takes All \u2013 The 80s & 90s Car Bundle",
+    "trial": false
    },
    "9N2D8NCJMPG0": {
     "checked": "2026-09-29",
@@ -46586,15 +46651,19 @@
     "checked": "2026-09-29",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "RIDE 4 - Bonus Pack 06"
+    "title": "RIDE 4 - Bonus Pack 06",
+    "trial": false
    },
    "9N2LWKG83PMS": {
     "checked": "2026-09-29",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "HOT WHEELS\u2122 - Aston Martin DBS 2010 - Xbox Series X|S"
+    "title": "HOT WHEELS\u2122 - Aston Martin DBS 2010 - Xbox Series X|S",
+    "trial": false
    },
    "9N2MSN1VFBD0": {
     "checked": "2026-09-29",
@@ -46614,8 +46683,10 @@
     "checked": "2026-09-29",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Pumpkin Hat"
+    "title": "Pumpkin Hat",
+    "trial": false
    },
    "9N2ZK1Z9FD6Z": {
     "checked": "2026-09-29",
@@ -46628,8 +46699,10 @@
     "checked": "2026-09-29",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Halls of Torment - Demo"
+    "title": "Halls of Torment - Demo",
+    "trial": false
    },
    "9N353Q4587N2": {
     "checked": "2026-09-29",
@@ -46649,8 +46722,10 @@
     "checked": "2026-09-29",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Modern Warfare\u00ae - High Resolution Pack 3"
+    "title": "Modern Warfare\u00ae - High Resolution Pack 3",
+    "trial": false
    },
    "9N3HV70KZCXV": {
     "checked": "2026-09-29",
@@ -46761,8 +46836,10 @@
     "checked": "2026-09-29",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "FS25: Emergency Pack (PC)"
+    "title": "FS25: Emergency Pack (PC)",
+    "trial": false
    },
    "9N4HFXHVKH41": {
     "checked": "2026-09-29",
@@ -46824,8 +46901,10 @@
     "checked": "2026-09-29",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "SONIC X SHADOW GENERATIONS Sonic Adventure Skin"
+    "title": "SONIC X SHADOW GENERATIONS Sonic Adventure Skin",
+    "trial": false
    },
    "9N4LZL6M0CQV": {
     "checked": "2026-09-29",
@@ -46905,11 +46984,13 @@
     "title": "Exoprimal Open Beta Test"
    },
    "9N546QKT4R4T": {
-    "checked": "2026-09-29",
+    "checked": "2026-09-30",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Volcano (Barrage)"
+    "title": "Volcano (Barrage)",
+    "trial": false
    },
    "9N546SK6H4P9": {
     "checked": "2026-09-29",
@@ -46968,11 +47049,13 @@
     "title": "Day One 2013 Shirt"
    },
    "9N5GGFZW03GP": {
-    "checked": "2026-09-29",
+    "checked": "2026-09-30",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Free Axiom Researcher Outfit"
+    "title": "Free Axiom Researcher Outfit",
+    "trial": false
    },
    "9N5J9KC2CMN2": {
     "checked": "2026-09-29",
@@ -47031,18 +47114,22 @@
     "title": "100% off Bundle: Minion Masters + Might of the Slither Lords DLC"
    },
    "9N5RM8R9PLKS": {
-    "checked": "2026-09-29",
+    "checked": "2026-09-30",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Pinball FX - Williams\u2122 Pinball: Scared Stiff Trial"
+    "title": "Pinball FX - Williams\u2122 Pinball: Scared Stiff Trial",
+    "trial": false
    },
    "9N5SVCW8K4C6": {
-    "checked": "2026-09-29",
+    "checked": "2026-09-30",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Modern Warfare\u00ae - High Resolution Pack 1"
+    "title": "Modern Warfare\u00ae - High Resolution Pack 1",
+    "trial": false
    },
    "9N5SWWSBX9J5": {
     "checked": "2026-09-29",
@@ -47094,11 +47181,13 @@
     "title": "War Thunder - Free \"Wind of Change\" Pack"
    },
    "9N631LDTG5P8": {
-    "checked": "2026-09-29",
+    "checked": "2026-09-30",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Character & Palico Edit Voucher: Single Voucher (Free Gift Version 2)"
+    "title": "Character & Palico Edit Voucher: Single Voucher (Free Gift Version 2)",
+    "trial": false
    },
    "9N64DCFXBKN3": {
     "checked": "2026-09-29",
@@ -47122,11 +47211,13 @@
     "title": "EX Image Pulses: Carrera, Gibril, and Milas pack"
    },
    "9N68WMHGMPFM": {
-    "checked": "2026-09-29",
+    "checked": "2026-09-30",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Pendant: Rolling Poogie: Takoyaki"
+    "title": "Pendant: Rolling Poogie: Takoyaki",
+    "trial": false
    },
    "9N69J2PPPRJF": {
     "checked": "2026-09-29",
@@ -47206,18 +47297,22 @@
     "title": "Gesture Set Vol. 6"
    },
    "9N6MF2R7QQQ3": {
-    "checked": "2026-09-29",
+    "checked": "2026-09-30",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Sonic Frontiers: Holiday Cheer Suit"
+    "title": "Sonic Frontiers: Holiday Cheer Suit",
+    "trial": false
    },
    "9N6MP8T0D6B0": {
-    "checked": "2026-09-29",
+    "checked": "2026-09-30",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "French Audio Pack (FREE)"
+    "title": "French Audio Pack (FREE)",
+    "trial": false
    },
    "9N6MTQXWDTXV": {
     "checked": "2026-09-29",
@@ -47248,18 +47343,22 @@
     "title": "WORLDS Builder: Farm & Craft"
    },
    "9N6V1PFZZFK5": {
-    "checked": "2026-09-29",
+    "checked": "2026-09-30",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Pinball FX Midnight - Camp Bloodbrook Trial"
+    "title": "Pinball FX Midnight - Camp Bloodbrook Trial",
+    "trial": false
    },
    "9N6X49F6S472": {
-    "checked": "2026-09-29",
+    "checked": "2026-09-30",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Saints Row Boss Factory"
+    "title": "Saints Row Boss Factory",
+    "trial": false
    },
    "9N6XNZ3VL0QP": {
     "checked": "2026-09-29",
@@ -47304,18 +47403,22 @@
     "title": "Minecraft: 1st Birthday Skin Pack"
    },
    "9N7BBLX64TRG": {
-    "checked": "2026-09-29",
+    "checked": "2026-09-30",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Pinball FX - Swords of Fury\u2122\ufe0f Trial"
+    "title": "Pinball FX - Swords of Fury\u2122\ufe0f Trial",
+    "trial": false
    },
    "9N7BKZJZG9T2": {
-    "checked": "2026-09-29",
+    "checked": "2026-09-30",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Pinball FX - MY LITTLE PONY Pinball Trial"
+    "title": "Pinball FX - MY LITTLE PONY Pinball Trial",
+    "trial": false
    },
    "9N7DH240CFF2": {
     "checked": "2026-09-29",
@@ -47339,11 +47442,13 @@
     "title": "ONE PIECE \u6d77\u8cca\u7121\u53cc\uff14 \u7279\u5178\u30d1\u30c3\u30af"
    },
    "9N7JPF7PFBLN": {
-    "checked": "2026-09-29",
+    "checked": "2026-09-30",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Metal Gear Solid: Digital Graphic Novel"
+    "title": "Metal Gear Solid: Digital Graphic Novel",
+    "trial": false
    },
    "9N7M3QPR5DLD": {
     "checked": "2026-09-29",
@@ -47437,11 +47542,13 @@
     "title": "100% off Bundle: Minion Masters + Torment DLC"
    },
    "9N82P4GTS1N8": {
-    "checked": "2026-09-29",
+    "checked": "2026-09-30",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Pinball FX - Williams\u2122 Pinball Volume 8 Trial"
+    "title": "Pinball FX - Williams\u2122 Pinball Volume 8 Trial",
+    "trial": false
    },
    "9N82R47NSLBV": {
     "checked": "2026-09-29",
@@ -47479,11 +47586,13 @@
     "title": "DLC: Playable Character - Aoko Aozaki"
    },
    "9N85JXQ0VZJ7": {
-    "checked": "2026-09-29",
+    "checked": "2026-09-30",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "ONE PIECE: PIRATE WARRIORS 4 Sanji Costume \"Soba Mask\""
+    "title": "ONE PIECE: PIRATE WARRIORS 4 Sanji Costume \"Soba Mask\"",
+    "trial": false
    },
    "9N86MQ94V8MP": {
     "checked": "2026-09-29",
@@ -47591,11 +47700,13 @@
     "title": "World of Warships: Legends \u2013 Commanding Presence"
    },
    "9N8W5QVQXNNM": {
-    "checked": "2026-09-29",
+    "checked": "2026-09-30",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "The Dark Pictures Anthology: The Devil in Me - Curator's Cut"
+    "title": "The Dark Pictures Anthology: The Devil in Me - Curator's Cut",
+    "trial": false
    },
    "9N8WRFF05SPX": {
     "checked": "2026-09-29",
@@ -47626,11 +47737,13 @@
     "title": "Baihu Armor"
    },
    "9N9BPXB6DKNT": {
-    "checked": "2026-09-29",
+    "checked": "2026-09-30",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Rhythm Towers Demo"
+    "title": "Rhythm Towers Demo",
+    "trial": false
    },
    "9N9C3MZ8V3LP": {
     "checked": "2026-09-29",
@@ -47647,18 +47760,22 @@
     "title": "Transphase Cloak"
    },
    "9N9FC2MLWW2P": {
-    "checked": "2026-09-29",
+    "checked": "2026-09-30",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Sonic Frontiers: Monster Hunter Collaboration Pack"
+    "title": "Sonic Frontiers: Monster Hunter Collaboration Pack",
+    "trial": false
    },
    "9N9GGDTBW5XG": {
-    "checked": "2026-09-29",
+    "checked": "2026-09-30",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Monster Jam\u2122 Showdown - Spike Unleashed"
+    "title": "Monster Jam\u2122 Showdown - Spike Unleashed",
+    "trial": false
    },
    "9N9GL8NX4WW8": {
     "checked": "2026-09-29",
@@ -47738,11 +47855,13 @@
     "title": "DPS Idle"
    },
    "9N9SLS5D7NBS": {
-    "checked": "2026-09-29",
+    "checked": "2026-09-30",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "SMITE 2 Open Beta Pack"
+    "title": "SMITE 2 Open Beta Pack",
+    "trial": false
    },
    "9N9VHPS8LJK6": {
     "checked": "2026-09-29",
@@ -47759,25 +47878,31 @@
     "title": "GOALS Beta"
    },
    "9N9XQRTN2MZG": {
-    "checked": "2026-09-29",
+    "checked": "2026-09-30",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Pinball FX - Williams Pinball: Twilight Zone Trial"
+    "title": "Pinball FX - Williams Pinball: Twilight Zone Trial",
+    "trial": false
    },
    "9N9Z6KTJVK4N": {
-    "checked": "2026-09-29",
+    "checked": "2026-09-30",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "ONE PIECE: PIRATE WARRIORS 4 Zoro Costume \"Zorojuro\""
+    "title": "ONE PIECE: PIRATE WARRIORS 4 Zoro Costume \"Zorojuro\"",
+    "trial": false
    },
    "9NB0BP5PSHGJ": {
-    "checked": "2026-09-29",
+    "checked": "2026-09-30",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Kao the Kangaroo: VIP DLC"
+    "title": "Kao the Kangaroo: VIP DLC",
+    "trial": false
    },
    "9NB249XLZDQC": {
     "checked": "2026-09-29",
@@ -47822,11 +47947,13 @@
     "title": "Europa Universalis IV: Catholic Majors Unit Pack"
    },
    "9NB79X98BTC7": {
-    "checked": "2026-09-29",
+    "checked": "2026-09-30",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "March of Empires"
+    "title": "March of Empires",
+    "trial": false
    },
    "9NB92NX1780V": {
     "checked": "2026-09-29",
@@ -47899,18 +48026,22 @@
     "title": "Halo: Reach - Defiant Map Pack"
    },
    "9NBK8019Q01L": {
-    "checked": "2026-09-29",
+    "checked": "2026-09-30",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Rune Factory: Guardians of Azuma - Sakuna DLC"
+    "title": "Rune Factory: Guardians of Azuma - Sakuna DLC",
+    "trial": false
    },
    "9NBKS85SS703": {
-    "checked": "2026-09-29",
+    "checked": "2026-09-30",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Pendant: Felyne Mint Chocolate"
+    "title": "Pendant: Felyne Mint Chocolate",
+    "trial": false
    },
    "9NBKT4B8TG1X": {
     "checked": "2026-09-29",
@@ -48004,18 +48135,22 @@
     "title": "Lost Planet 3"
    },
    "9NBRG2N5FQ3B": {
-    "checked": "2026-09-29",
+    "checked": "2026-09-30",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Disney Universe Daisy Duck & Absolem Costumes"
+    "title": "Disney Universe Daisy Duck & Absolem Costumes",
+    "trial": false
    },
    "9NBTKS4T2KNM": {
-    "checked": "2026-09-29",
+    "checked": "2026-09-30",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Detective Dotson Demo"
+    "title": "Detective Dotson Demo",
+    "trial": false
    },
    "9NBV21XFPHSB": {
     "checked": "2026-09-29",
@@ -48025,11 +48160,13 @@
     "title": "Kao the Kangaroo - Yooka x Kao DLC"
    },
    "9NBX20R1800V": {
-    "checked": "2026-09-29",
+    "checked": "2026-09-30",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Pinball FX - Tomb Raider Pinball Trial"
+    "title": "Pinball FX - Tomb Raider Pinball Trial",
+    "trial": false
    },
    "9NBXNQBD3410": {
     "checked": "2026-09-29",
@@ -48165,18 +48302,22 @@
     "title": "In The Abyss"
    },
    "9NCMLJBDK2VP": {
-    "checked": "2026-09-29",
+    "checked": "2026-09-30",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "ARK: Aberration Ascended"
+    "title": "ARK: Aberration Ascended",
+    "trial": false
    },
    "9NCQC979DVP3": {
-    "checked": "2026-09-29",
+    "checked": "2026-09-30",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "SONIC X SHADOW GENERATIONS Sonic Jam Skin"
+    "title": "SONIC X SHADOW GENERATIONS Sonic Jam Skin",
+    "trial": false
    },
    "9NCRJ8K25200": {
     "checked": "2026-09-29",
@@ -48186,11 +48327,13 @@
     "title": "Pendant: Rolling Poogie: Two-tone"
    },
    "9NCRQ2JDJFPP": {
-    "checked": "2026-09-29",
+    "checked": "2026-09-30",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Pinball FX - Williams\u2122 Pinball: Star Trek\u2122: The Next Generation Trial"
+    "title": "Pinball FX - Williams\u2122 Pinball: Star Trek\u2122: The Next Generation Trial",
+    "trial": false
    },
    "9NCS2RH0G93C": {
     "checked": "2026-09-29",
@@ -48228,11 +48371,13 @@
     "title": "Sudoku Power"
    },
    "9ND12RR2ZQHS": {
-    "checked": "2026-09-29",
+    "checked": "2026-09-30",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Radiant: Guardians Of Light Demo"
+    "title": "Radiant: Guardians Of Light Demo",
+    "trial": false
    },
    "9ND1LPLW7X0Z": {
     "checked": "2026-09-29",
@@ -48277,11 +48422,13 @@
     "title": "PowerWash Simulator \u2013 Muckingham Files \u2013 Part 3"
    },
    "9ND76ZKLDWFL": {
-    "checked": "2026-09-29",
+    "checked": "2026-09-30",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "SAND LAND - Decal and Special Main Weapon Pack"
+    "title": "SAND LAND - Decal and Special Main Weapon Pack",
+    "trial": false
    },
    "9NDGVWGM1Q4W": {
     "checked": "2026-09-29",
@@ -48291,11 +48438,13 @@
     "title": "Sid Meier's Civilization\u00ae VII: Tides of Power Collection"
    },
    "9NDJ4HMC3M2B": {
-    "checked": "2026-09-29",
+    "checked": "2026-09-30",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "RIDE 4 - Bonus Pack 14"
+    "title": "RIDE 4 - Bonus Pack 14",
+    "trial": false
    },
    "9NDJBR27KD78": {
     "checked": "2026-09-29",
@@ -48319,11 +48468,13 @@
     "title": "MultiVersus"
    },
    "9NDL103HBQVT": {
-    "checked": "2026-09-29",
+    "checked": "2026-09-30",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Pinball FX Midnight - Bethesda\u00ae Pinball Trial"
+    "title": "Pinball FX Midnight - Bethesda\u00ae Pinball Trial",
+    "trial": false
    },
    "9NDLBVM3HLHP": {
     "checked": "2026-09-29",
@@ -48333,11 +48484,13 @@
     "title": "3on3 FreeStyle - 4th Year Anniversary Gift"
    },
    "9NDLJHBK2VN1": {
-    "checked": "2026-09-29",
+    "checked": "2026-09-30",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Gori: Cuddly Carnage - Day One Skin Pack"
+    "title": "Gori: Cuddly Carnage - Day One Skin Pack",
+    "trial": false
    },
    "9NDM5TM8TMCR": {
     "checked": "2026-09-29",
@@ -48410,11 +48563,13 @@
     "title": "Necromunda: Hired Gun - Hellhound Pack"
    },
    "9NDSZ5M5JNBD": {
-    "checked": "2026-09-29",
+    "checked": "2026-09-30",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "The Dark Pictures Anthology House of Ashes - Curator's Cut"
+    "title": "The Dark Pictures Anthology House of Ashes - Curator's Cut",
+    "trial": false
    },
    "9NDTCLT5P6HG": {
     "checked": "2026-09-29",
@@ -60185,5 +60340,5 @@
    }
   }
  },
- "updated": "2026-09-29T11:28:46"
+ "updated": "2026-09-30T05:13:55"
 }
