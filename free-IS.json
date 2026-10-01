@@ -1,5 +1,5 @@
 {
-"count": 1347,
+"count": 1348,
 "items": {
 "9MSNZS40ZCHF": {
 "currency": "ISK",
@@ -4416,6 +4416,11 @@
 "free_since": "",
 "title": "Pinball FX - Crypt of the NecroDancer Pinball Trial"
 },
+"9P46X70JRXCW": {
+"currency": "ISK",
+"free_since": "",
+"title": "Elta: Defy All Gods - Demo"
+},
 "9P48T3S2QTW5": {
 "currency": "ISK",
 "free_since": "",
@@ -6738,5 +6743,5 @@
 }
 },
 "market": "IS",
-"updated": "2026-10-01T14:46:27"
+"updated": "2026-10-01T21:42:56"
 }

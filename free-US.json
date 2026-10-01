@@ -1,5 +1,5 @@
 {
-"count": 2505,
+"count": 2506,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "USD",
@@ -6205,6 +6205,11 @@
 "currency": "USD",
 "free_since": "",
 "title": "Pinball FX - Crypt of the NecroDancer Pinball Trial"
+},
+"9P46X70JRXCW": {
+"currency": "USD",
+"free_since": "",
+"title": "Elta: Defy All Gods - Demo"
 },
 "9P4837D6TSFD": {
 "currency": "USD",
@@ -12528,5 +12533,5 @@
 }
 },
 "market": "US",
-"updated": "2026-10-01T14:16:29"
+"updated": "2026-10-01T21:22:44"
 }
