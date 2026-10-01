@@ -1,5 +1,5 @@
 {
-"count": 1345,
+"count": 1343,
 "items": {
 "9MSNZS40ZCHF": {
 "currency": "ISK",
@@ -3209,7 +3209,7 @@
 "9NR45Q0TMLPC": {
 "currency": "ISK",
 "free_since": "",
-"title": "Warhammer 40,000: Space Marine 2 - Chapter Voice Pack 1"
+"title": "Warhammer 40,000: Space Marine 2 - Chapter Voice Pack"
 },
 "9NR4SN7LXWQQ": {
 "currency": "ISK",
@@ -4136,11 +4136,6 @@
 "free_since": "",
 "title": "LightsOut2"
 },
-"9P1SXDSG2NTG": {
-"currency": "ISK",
-"free_since": "",
-"title": "Hogwarts Legacy: Astronomer's Hat"
-},
 "9P1TF3SQZDF4": {
 "currency": "ISK",
 "free_since": "",
@@ -4580,11 +4575,6 @@
 "currency": "ISK",
 "free_since": "",
 "title": "Neverwinter - Smoldering Seeker Pack"
-},
-"9P5B2VL4Q8Q0": {
-"currency": "ISK",
-"free_since": "",
-"title": "Wo Long 2: Wings of Ember Alpha Demo"
 },
 "9P5B3BM085MN": {
 "currency": "ISK",
@@ -6728,5 +6718,5 @@
 }
 },
 "market": "IS",
-"updated": "2026-09-30T10:48:21"
+"updated": "2026-10-01T11:17:07"
 }
