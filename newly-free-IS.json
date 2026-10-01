@@ -1,13 +1,18 @@
 {
-"count": 1,
+"count": 2,
 "days": 21,
 "items": {
 "9PB1CHMGC0LS": {
 "currency": "ISK",
 "free_since": "2026-09-29",
 "title": "NEIGHBORS: Suburban Warfare"
+},
+"C0FZNGPNQQRQ": {
+"currency": "ISK",
+"free_since": "2026-10-01",
+"title": "Crossout"
 }
 },
 "market": "IS",
-"updated": "2026-10-01T11:17:07"
+"updated": "2026-10-01T13:45:33"
 }

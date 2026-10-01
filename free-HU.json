@@ -1,5 +1,5 @@
 {
-"count": 2294,
+"count": 2298,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "HUF",
@@ -355,6 +355,11 @@
 "currency": "HUF",
 "free_since": "",
 "title": "The Witch's Night Watch"
+},
+"9MW3GTRJSW64": {
+"currency": "HUF",
+"free_since": "",
+"title": "Castlevania: Belmont's Curse Demo"
 },
 "9MW4ZPP4KWFZ": {
 "currency": "HUF",
@@ -4281,6 +4286,11 @@
 "free_since": "",
 "title": "Additional Map \"Falbra Thicket\""
 },
+"9NS200WG1HGB": {
+"currency": "HUF",
+"free_since": "",
+"title": "walkin around"
+},
 "9NS2WF6GVWQ6": {
 "currency": "HUF",
 "free_since": "",
@@ -5915,6 +5925,11 @@
 "currency": "HUF",
 "free_since": "",
 "title": "Funko Fusion - Wolfie Pack"
+},
+"9P56D67RZ80V": {
+"currency": "HUF",
+"free_since": "",
+"title": "FATAL FURY: City of the Wolves - Demo Version -"
 },
 "9P570X4ZXNND": {
 "currency": "HUF",
@@ -8025,6 +8040,11 @@
 "currency": "HUF",
 "free_since": "",
 "title": "Starliner Evolved"
+},
+"9PMH53T71WBB": {
+"currency": "HUF",
+"free_since": "",
+"title": "Dead City: Red Protocol"
 },
 "9PMJH5302J16": {
 "currency": "HUF",
@@ -11473,5 +11493,5 @@
 }
 },
 "market": "HU",
-"updated": "2026-10-01T11:18:41"
+"updated": "2026-10-01T13:52:28"
 }
