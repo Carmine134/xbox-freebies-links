@@ -1,5 +1,5 @@
 {
-"count": 2305,
+"count": 2303,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "EUR",
@@ -4104,7 +4104,7 @@
 "9NR45Q0TMLPC": {
 "currency": "EUR",
 "free_since": "",
-"title": "Warhammer 40,000: Space Marine 2 - Chapter Voice Pack 1"
+"title": "Warhammer 40,000: Space Marine 2 - Chapter Voice Pack"
 },
 "9NR4SN7LXWQQ": {
 "currency": "EUR",
@@ -5326,11 +5326,6 @@
 "free_since": "",
 "title": "LightsOut2"
 },
-"9P1SXDSG2NTG": {
-"currency": "EUR",
-"free_since": "",
-"title": "Hogwarts Legacy: Astronomer's Hat"
-},
 "9P1TF3SQZDF4": {
 "currency": "EUR",
 "free_since": "",
@@ -5895,11 +5890,6 @@
 "currency": "EUR",
 "free_since": "",
 "title": "Neverwinter - Smoldering Seeker Pack"
-},
-"9P5B2VL4Q8Q0": {
-"currency": "EUR",
-"free_since": "",
-"title": "Wo Long 2: Wings of Ember Alpha Demo"
 },
 "9P5B3BM085MN": {
 "currency": "EUR",
@@ -6601,6 +6591,11 @@
 "free_since": "",
 "title": "Spanish Audio Pack (FREE)"
 },
+"9PB1CHMGC0LS": {
+"currency": "EUR",
+"free_since": "2026-10-01",
+"title": "NEIGHBORS: Suburban Warfare"
+},
 "9PB2TNR9CR2D": {
 "currency": "EUR",
 "free_since": "",
@@ -6615,11 +6610,6 @@
 "currency": "EUR",
 "free_since": "",
 "title": "Pong by Yesser Studios"
-},
-"9PB4WLWQS892": {
-"currency": "EUR",
-"free_since": "",
-"title": "Rocket Racing"
 },
 "9PB5C329MSGV": {
 "currency": "EUR",
@@ -11528,5 +11518,5 @@
 }
 },
 "market": "DE",
-"updated": "2026-09-30T10:45:05"
+"updated": "2026-10-01T11:12:51"
 }
