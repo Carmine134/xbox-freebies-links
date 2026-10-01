@@ -1,5 +1,5 @@
 {
-"count": 1343,
+"count": 1347,
 "items": {
 "9MSNZS40ZCHF": {
 "currency": "ISK",
@@ -3296,6 +3296,11 @@
 "free_since": "",
 "title": "Kevin"
 },
+"9NS200WG1HGB": {
+"currency": "ISK",
+"free_since": "",
+"title": "walkin around"
+},
 "9NS2JVJPFGTQ": {
 "currency": "ISK",
 "free_since": "",
@@ -4555,6 +4560,11 @@
 "currency": "ISK",
 "free_since": "",
 "title": "Funko Fusion - Wolfie Pack"
+},
+"9P56D67RZ80V": {
+"currency": "ISK",
+"free_since": "",
+"title": "FATAL FURY: City of the Wolves - Demo Version -"
 },
 "9P58G31CLK43": {
 "currency": "ISK",
@@ -6231,6 +6241,11 @@
 "free_since": "",
 "title": "Starliner Evolved"
 },
+"9PMH53T71WBB": {
+"currency": "ISK",
+"free_since": "",
+"title": "Dead City: Red Protocol"
+},
 "9PMJH5302J16": {
 "currency": "ISK",
 "free_since": "",
@@ -6676,6 +6691,11 @@
 "free_since": "",
 "title": "Dungeon Defenders II"
 },
+"C0FZNGPNQQRQ": {
+"currency": "ISK",
+"free_since": "2026-10-01",
+"title": "Crossout"
+},
 "C0KSW9TPJSB6": {
 "currency": "ISK",
 "free_since": "",
@@ -6718,5 +6738,5 @@
 }
 },
 "market": "IS",
-"updated": "2026-10-01T11:17:07"
+"updated": "2026-10-01T13:45:33"
 }
