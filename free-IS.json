@@ -1,5 +1,5 @@
 {
-"count": 1348,
+"count": 1350,
 "items": {
 "9MSNZS40ZCHF": {
 "currency": "ISK",
@@ -235,6 +235,11 @@
 "currency": "ISK",
 "free_since": "",
 "title": "Endless Shaft"
+},
+"9MVZ0QX8PDDP": {
+"currency": "ISK",
+"free_since": "",
+"title": "Zippy the Circle Demo"
 },
 "9MVZ2X0V5PF1": {
 "currency": "ISK",
@@ -6641,6 +6646,11 @@
 "free_since": "",
 "title": "Cities Skylines - Pearls from the East"
 },
+"BRK0SKVJLRL5": {
+"currency": "ISK",
+"free_since": "2026-10-04",
+"title": "Crossout \u2014 \u2018Snappy\u2019 Pack"
+},
 "BSN48ZP6SVZ8": {
 "currency": "ISK",
 "free_since": "",
@@ -6743,5 +6753,5 @@
 }
 },
 "market": "IS",
-"updated": "2026-10-03T10:10:08"
+"updated": "2026-10-04T10:48:57"
 }
