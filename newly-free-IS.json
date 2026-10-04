@@ -1,11 +1,16 @@
 {
-"count": 2,
+"count": 3,
 "days": 21,
 "items": {
 "9PB1CHMGC0LS": {
 "currency": "ISK",
 "free_since": "2026-09-29",
 "title": "NEIGHBORS: Suburban Warfare"
+},
+"BRK0SKVJLRL5": {
+"currency": "ISK",
+"free_since": "2026-10-04",
+"title": "Crossout \u2014 \u2018Snappy\u2019 Pack"
 },
 "C0FZNGPNQQRQ": {
 "currency": "ISK",
@@ -14,5 +19,5 @@
 }
 },
 "market": "IS",
-"updated": "2026-10-03T10:10:08"
+"updated": "2026-10-04T10:48:57"
 }
