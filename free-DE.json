@@ -3389,7 +3389,7 @@
 "9NKDM3XL3P86": {
 "currency": "EUR",
 "free_since": "",
-"title": "DEAD OR ALIVE 6 Last Round Core Fighters"
+"title": "DEAD OR ALIVE 6 Last Round Core Fighters (Free Edition)"
 },
 "9NKDWQXJ8946": {
 "currency": "EUR",
@@ -5240,6 +5240,11 @@
 "currency": "EUR",
 "free_since": "",
 "title": "PowerWash Simulator \u2013 Cruise Ship Sun Deck \u2013 Summer 2024"
+},
+"9P18MPM5M4KF": {
+"currency": "EUR",
+"free_since": "",
+"title": "ZJ the Ball Demo"
 },
 "9P19970DHLJZ": {
 "currency": "EUR",
@@ -7495,11 +7500,6 @@
 "currency": "EUR",
 "free_since": "",
 "title": "Zombie Army 4: Mission 1 - Terror Lab"
-},
-"9PHPX63XKQSD": {
-"currency": "EUR",
-"free_since": "",
-"title": "Deadlock Reign"
 },
 "9PHS0FB04010": {
 "currency": "EUR",
@@ -11548,5 +11548,5 @@
 }
 },
 "market": "DE",
-"updated": "2026-10-04T10:46:23"
+"updated": "2026-10-05T11:50:56"
 }
