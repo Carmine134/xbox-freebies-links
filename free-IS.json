@@ -4056,6 +4056,11 @@
 "free_since": "",
 "title": "PowerWash Simulator \u2013 Cruise Ship Sun Deck \u2013 Summer 2024"
 },
+"9P18MPM5M4KF": {
+"currency": "ISK",
+"free_since": "",
+"title": "ZJ the Ball Demo"
+},
 "9P19970DHLJZ": {
 "currency": "ISK",
 "free_since": "",
@@ -5846,11 +5851,6 @@
 "free_since": "",
 "title": "Zombie Army 4: Mission 1 - Terror Lab"
 },
-"9PHPX63XKQSD": {
-"currency": "ISK",
-"free_since": "",
-"title": "Deadlock Reign"
-},
 "9PHS0FB04010": {
 "currency": "ISK",
 "free_since": "",
@@ -6753,5 +6753,5 @@
 }
 },
 "market": "IS",
-"updated": "2026-10-04T10:48:57"
+"updated": "2026-10-05T11:54:02"
 }
