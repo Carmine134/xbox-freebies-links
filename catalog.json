@@ -60705,8 +60705,10 @@
     "checked": "2026-10-05",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "The STREET FIGHTER \u2163 Power Up Pack"
+    "title": "The STREET FIGHTER \u2163 Power Up Pack",
+    "trial": false
    },
    "BQT1PQNN3KPP": {
     "checked": "2026-10-05",
@@ -60740,8 +60742,10 @@
     "checked": "2026-10-05",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Dark Corners Multiplayer Map Pack"
+    "title": "Dark Corners Multiplayer Map Pack",
+    "trial": false
    },
    "BQZKFWSZX483": {
     "checked": "2026-10-05",
@@ -60803,8 +60807,10 @@
     "checked": "2026-10-05",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Breeze Skin"
+    "title": "Breeze Skin",
+    "trial": false
    },
    "BR59155P9MFC": {
     "checked": "2026-10-05",
@@ -60887,8 +60893,10 @@
     "checked": "2026-10-05",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "DOA5LR Costume Catalog LR50"
+    "title": "DOA5LR Costume Catalog LR50",
+    "trial": false
    },
    "BRD22W57LCJK": {
     "checked": "2026-10-05",
@@ -60936,8 +60944,10 @@
     "checked": "2026-10-05",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "DOA5LR Costume Catalog LR52"
+    "title": "DOA5LR Costume Catalog LR52",
+    "trial": false
    },
    "BRJBC629TV1X": {
     "checked": "2026-10-05",
@@ -61202,29 +61212,37 @@
     "checked": "2026-10-05",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Battlefield 4\u2122 Legacy Operations"
+    "title": "Battlefield 4\u2122 Legacy Operations",
+    "trial": false
    },
    "BSCSWPQ7XJK9": {
     "checked": "2026-10-05",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Hunter"
+    "title": "Hunter",
+    "trial": false
    },
    "BSFG9FSJPZRJ": {
     "checked": "2026-10-05",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Assassin's Creed\u00ae Syndicate - Runaway Train"
+    "title": "Assassin's Creed\u00ae Syndicate - Runaway Train",
+    "trial": false
    },
    "BSG165G20S0H": {
     "checked": "2026-10-05",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Memories of KING'S KNIGHT"
+    "title": "Memories of KING'S KNIGHT",
+    "trial": false
    },
    "BSGG49JZ2HR8": {
     "checked": "2026-10-05",
@@ -61307,8 +61325,10 @@
     "checked": "2026-10-05",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "New 52 Skins Pack"
+    "title": "New 52 Skins Pack",
+    "trial": false
    },
    "BSNLJRVDC6NW": {
     "checked": "2026-10-05",
@@ -61363,8 +61383,10 @@
     "checked": "2026-10-05",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Assassin's Creed\u00ae Origins - Brazilian Portuguese Audio Pack"
+    "title": "Assassin's Creed\u00ae Origins - Brazilian Portuguese Audio Pack",
+    "trial": false
    },
    "BSX5BJ3FHSL8": {
     "checked": "2026-10-05",
@@ -61419,8 +61441,10 @@
     "checked": "2026-10-05",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Chess Ultra: Easter Island Chess Set"
+    "title": "Chess Ultra: Easter Island Chess Set",
+    "trial": false
    },
    "BT7Z7ZT6QRN1": {
     "checked": "2026-10-05",
@@ -61496,8 +61520,10 @@
     "checked": "2026-10-05",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "2008 Movie Batman Skin"
+    "title": "2008 Movie Batman Skin",
+    "trial": false
    },
    "BTLTH54MTX7B": {
     "checked": "2026-10-05",
@@ -61524,8 +61550,10 @@
     "checked": "2026-10-05",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Ninja Monkey"
+    "title": "Ninja Monkey",
+    "trial": false
    },
    "BTQMHK78ZPF9": {
     "checked": "2026-10-05",
@@ -61580,8 +61608,10 @@
     "checked": "2026-10-05",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Heroines and Villainesses Character Pack"
+    "title": "Heroines and Villainesses Character Pack",
+    "trial": false
    },
    "BTXC0RGTT3XN": {
     "checked": "2026-10-05",
@@ -61671,15 +61701,19 @@
     "checked": "2026-10-05",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Player's Pack: Red Edition"
+    "title": "Player's Pack: Red Edition",
+    "trial": false
    },
    "BV2QP9W8S13C": {
     "checked": "2026-10-05",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Season Pass"
+    "title": "Season Pass",
+    "trial": false
    },
    "BV3M56BLPF8G": {
     "checked": "2026-10-05",
@@ -61734,8 +61768,10 @@
     "checked": "2026-10-05",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Europe Pack"
+    "title": "Europe Pack",
+    "trial": false
    },
    "BV9ML45J2Q5V": {
     "checked": "2026-10-05",
@@ -61762,15 +61798,19 @@
     "checked": "2026-10-05",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Additional Gesture Bundle 1"
+    "title": "Additional Gesture Bundle 1",
+    "trial": false
    },
    "BVFPXJPM2TJW": {
     "checked": "2026-10-05",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Rare Outfit Pack"
+    "title": "Rare Outfit Pack",
+    "trial": false
    },
    "BVFZQKWBBD8H": {
     "checked": "2026-10-05",
@@ -61860,8 +61900,10 @@
     "checked": "2026-10-05",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Tales of Vesperia\u2122: Definitive Edition Adventurer Starter Pack"
+    "title": "Tales of Vesperia\u2122: Definitive Edition Adventurer Starter Pack",
+    "trial": false
    },
    "BVT3C6377WFP": {
     "checked": "2026-10-05",
@@ -61874,8 +61916,10 @@
     "checked": "2026-10-05",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "11-11 Memories Retold WarChild Charity DLC"
+    "title": "11-11 Memories Retold WarChild Charity DLC",
+    "trial": false
    },
    "BVVJNPNK153V": {
     "checked": "2026-10-05",
@@ -61888,8 +61932,10 @@
     "checked": "2026-10-05",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Rackin Gravity"
+    "title": "Rackin Gravity",
+    "trial": false
    },
    "BVZNJDX2SHZ9": {
     "checked": "2026-10-05",
@@ -61958,15 +62004,19 @@
     "checked": "2026-10-05",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "The Surge - Cutting Edge Pack"
+    "title": "The Surge - Cutting Edge Pack",
+    "trial": false
    },
    "BW8RLSF7S6XB": {
     "checked": "2026-10-05",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Valkyria Revolution Scenario Pack: Maxim and Remembrance"
+    "title": "Valkyria Revolution Scenario Pack: Maxim and Remembrance",
+    "trial": false
    },
    "BW9TWC8L4JCS": {
     "checked": "2026-10-05",
@@ -62007,8 +62057,10 @@
     "checked": "2026-10-05",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Showcase Collection Pack 1"
+    "title": "Showcase Collection Pack 1",
+    "trial": false
    },
    "BWDXKHK2S56Q": {
     "checked": "2026-10-05",
@@ -62049,8 +62101,10 @@
     "checked": "2026-10-05",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Assassin's Creed\u00ae Origins - Japanese Audio Pack"
+    "title": "Assassin's Creed\u00ae Origins - Japanese Audio Pack",
+    "trial": false
    },
    "BWMFTVTQKCDQ": {
     "checked": "2026-10-05",
@@ -62063,8 +62117,10 @@
     "checked": "2026-10-05",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "WEB THREADS PRE-ORDER SUIT PACK"
+    "title": "WEB THREADS PRE-ORDER SUIT PACK",
+    "trial": false
    },
    "BWNN9M15W9V9": {
     "checked": "2026-10-05",
@@ -62091,8 +62147,10 @@
     "checked": "2026-10-05",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Assassin's Creed\u00ae Unity - Fleur De Lys Sword"
+    "title": "Assassin's Creed\u00ae Unity - Fleur De Lys Sword",
+    "trial": false
    },
    "BWQ7GGKXG28T": {
     "checked": "2026-10-05",
@@ -62133,8 +62191,10 @@
     "checked": "2026-10-05",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "D4: Dark Dreams Don't Die - Happy Wars Clothing Set"
+    "title": "D4: Dark Dreams Don't Die - Happy Wars Clothing Set",
+    "trial": false
    },
    "BX1DTCBD1HXJ": {
     "checked": "2026-10-05",
@@ -62161,8 +62221,10 @@
     "checked": "2026-10-05",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Assassin's Creed\u00ae Syndicate - Steampunk Outfit for Evie"
+    "title": "Assassin's Creed\u00ae Syndicate - Steampunk Outfit for Evie",
+    "trial": false
    },
    "BX2V684413R1": {
     "checked": "2026-10-05",
@@ -62231,8 +62293,10 @@
     "checked": "2026-10-05",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Horde Command Pack"
+    "title": "Horde Command Pack",
+    "trial": false
    },
    "BXBSGR4NG348": {
     "checked": "2026-10-05",
@@ -62371,8 +62435,10 @@
     "checked": "2026-10-05",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "MotoGP\u212215 Moto2\u2122 and Moto3\u2122"
+    "title": "MotoGP\u212215 Moto2\u2122 and Moto3\u2122",
+    "trial": false
    },
    "BXWD70Q9ZQTR": {
     "checked": "2026-10-05",
@@ -62504,8 +62570,10 @@
     "checked": "2026-10-05",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Rocksteady Themed Batmobile Skin"
+    "title": "Rocksteady Themed Batmobile Skin",
+    "trial": false
    },
    "BZ76G0D3PF65": {
     "checked": "2026-10-05",
@@ -62560,8 +62628,10 @@
     "checked": "2026-10-05",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "The Metronomicon - Deck the Dubstep"
+    "title": "The Metronomicon - Deck the Dubstep",
+    "trial": false
    },
    "BZDK396HW2G8": {
     "checked": "2026-10-05",
@@ -62602,8 +62672,10 @@
     "checked": "2026-10-05",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Deus Ex: Mankind Divided - Augmented Covert Agent Pack"
+    "title": "Deus Ex: Mankind Divided - Augmented Covert Agent Pack",
+    "trial": false
    },
    "BZHS2XCVV5T3": {
     "checked": "2026-10-05",
@@ -62686,8 +62758,10 @@
     "checked": "2026-10-05",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "DOA5LR Outcast Armor by Tamiki Wakaki Set"
+    "title": "DOA5LR Outcast Armor by Tamiki Wakaki Set",
+    "trial": false
    },
    "BZQQ7HX8PZ05": {
     "checked": "2026-10-05",
@@ -62770,8 +62844,10 @@
     "checked": "2026-10-05",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Tomb Raider: Underworld Wetsuit Costume Pack"
+    "title": "Tomb Raider: Underworld Wetsuit Costume Pack",
+    "trial": false
    },
    "C042M8GWKS34": {
     "checked": "2026-10-05",
@@ -62798,8 +62874,10 @@
     "checked": "2026-10-05",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Darkest Dungeon\u00ae: The Musketeer"
+    "title": "Darkest Dungeon\u00ae: The Musketeer",
+    "trial": false
    },
    "C068WNN5JQHH": {
     "checked": "2026-10-05",
@@ -62812,8 +62890,10 @@
     "checked": "2026-10-05",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "DOA5LR Costume Catalog LR53"
+    "title": "DOA5LR Costume Catalog LR53",
+    "trial": false
    },
    "C07T6GNZSDB2": {
     "checked": "2026-10-05",
@@ -62854,8 +62934,10 @@
     "checked": "2026-10-05",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Spider-Man Character Pack"
+    "title": "Spider-Man Character Pack",
+    "trial": false
    },
    "C0FZNGPNQQRQ": {
     "checked": "2026-10-05",
@@ -62868,8 +62950,10 @@
     "checked": "2026-10-05",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "CivRev SP Map Pack: The Surreal"
+    "title": "CivRev SP Map Pack: The Surreal",
+    "trial": false
    },
    "C0GQP41KXPVZ": {
     "checked": "2026-10-05",
@@ -62896,15 +62980,19 @@
     "checked": "2026-10-05",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Battlefield 4\u2122 Community Operations"
+    "title": "Battlefield 4\u2122 Community Operations",
+    "trial": false
    },
    "C0K2LQ4TZM52": {
     "checked": "2026-10-05",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Yooka-Laylee Toybox Demo"
+    "title": "Yooka-Laylee Toybox Demo",
+    "trial": false
    },
    "C0LGZMBCCD6T": {
     "checked": "2026-10-05",
@@ -63001,8 +63089,10 @@
     "checked": "2026-10-05",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Valkyria Revolution Scenario Pack: The Princess and the Valkyria"
+    "title": "Valkyria Revolution Scenario Pack: The Princess and the Valkyria",
+    "trial": false
    },
    "C0VH019KVRN9": {
     "checked": "2026-10-05",
@@ -63106,8 +63196,10 @@
     "checked": "2026-10-05",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Raven Strike DLC Pack Trial"
+    "title": "Raven Strike DLC Pack Trial",
+    "trial": false
    },
    "C16NB93V090Q": {
     "checked": "2026-10-05",
@@ -63232,8 +63324,10 @@
     "checked": "2026-10-05",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Batman: Noel Skin"
+    "title": "Batman: Noel Skin",
+    "trial": false
    },
    "C1MXT06VNZR0": {
     "checked": "2026-10-05",
@@ -63274,8 +63368,10 @@
     "checked": "2026-10-05",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Toby's Dream DLC"
+    "title": "Toby's Dream DLC",
+    "trial": false
    },
    "C1WB1M1VS312": {
     "checked": "2026-10-05",
@@ -63292,11 +63388,13 @@
     "title": "JUJU"
    },
    "C1ZH048WZ70F": {
-    "checked": "2026-10-05",
+    "checked": "2026-10-06",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Neon Ninja & Chromatic Cumulus"
+    "title": "Neon Ninja & Chromatic Cumulus",
+    "trial": false
    },
    "C1ZN08QGVKL3": {
     "checked": "2026-10-05",
@@ -63362,11 +63460,13 @@
     "title": "\u300c\u5049\u4eba\u3068\u7121\u983c\u6f22\u300d\u30dc\u30fc\u30ca\u30b9\u30d1\u30c3\u30af"
    },
    "C22G99ZLQ4ZC": {
-    "checked": "2026-10-05",
+    "checked": "2026-10-06",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Pure Farming 2018 - Goats"
+    "title": "Pure Farming 2018 - Goats",
+    "trial": false
    },
    "C247P35PNTZ8": {
     "checked": "2026-10-05",
@@ -63460,11 +63560,13 @@
     "title": "Rogue Pack"
    },
    "C2FHLV8LKJPT": {
-    "checked": "2026-10-05",
+    "checked": "2026-10-06",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "UK Punk Pack"
+    "title": "UK Punk Pack",
+    "trial": false
    },
    "C2H3C0BPWM97": {
     "checked": "2026-10-05",
@@ -63509,11 +63611,13 @@
     "title": "Minecraft 1st Birthday Skin Pack"
    },
    "C2LV60VMH0QG": {
-    "checked": "2026-10-05",
+    "checked": "2026-10-06",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Blood Count"
+    "title": "Blood Count",
+    "trial": false
    },
    "C2M3GD4WQJ2Z": {
     "checked": "2026-10-05",
@@ -63705,11 +63809,13 @@
     "title": "MX Unleashed"
    },
    "C3DDTL1LZFKL": {
-    "checked": "2026-10-05",
+    "checked": "2026-10-06",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Minecraft Halloween Texture Pack"
+    "title": "Minecraft Halloween Texture Pack",
+    "trial": false
    },
    "C3DQ6V97P678": {
     "checked": "2026-10-05",
@@ -63733,11 +63839,13 @@
     "title": "Call of Duty\u00ae: Infinite Warfare Beta"
    },
    "C3KRVWZNGLSH": {
-    "checked": "2026-10-05",
+    "checked": "2026-10-06",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Old West Map Pack"
+    "title": "Old West Map Pack",
+    "trial": false
    },
    "C3LF9PCRP9RP": {
     "checked": "2026-10-05",
@@ -63796,11 +63904,13 @@
     "title": "\u300e\u4e09\u56fd\u5fd7\u5927\u6226\u300f\u30bf\u30a4\u30a2\u30c3\u30d7\u6b66\u5c06CG\u30bb\u30c3\u30c8"
    },
    "C3TMM7XR4313": {
-    "checked": "2026-10-05",
+    "checked": "2026-10-06",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Tales of Vesperia\u2122: Definitive Edition Costume Pack"
+    "title": "Tales of Vesperia\u2122: Definitive Edition Costume Pack",
+    "trial": false
    },
    "C3TR0JTQ8TZM": {
     "checked": "2026-10-05",
@@ -63831,11 +63941,13 @@
     "title": "Bloons TD 5"
    },
    "C40HLV1PMKJC": {
-    "checked": "2026-10-05",
+    "checked": "2026-10-06",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Assassin's Creed\u00ae Odyssey - Japanese Audio Pack"
+    "title": "Assassin's Creed\u00ae Odyssey - Japanese Audio Pack",
+    "trial": false
    },
    "C40M1681KNK4": {
     "checked": "2026-10-05",
@@ -63929,11 +64041,13 @@
     "title": "Dark Void"
    },
    "C48VRZ5NL47R": {
-    "checked": "2026-10-05",
+    "checked": "2026-10-06",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Assassin's Creed\u00ae Origins - Russian Audio Pack"
+    "title": "Assassin's Creed\u00ae Origins - Russian Audio Pack",
+    "trial": false
    },
    "C4CS6JDLPMBL": {
     "checked": "2026-10-05",
@@ -63992,11 +64106,13 @@
     "title": "Afterlife Pack"
    },
    "C4H4TPNRGTJD": {
-    "checked": "2026-10-05",
+    "checked": "2026-10-06",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "The Dark Pictures Anthology: Man of Medan - Curator's Cut"
+    "title": "The Dark Pictures Anthology: Man of Medan - Curator's Cut",
+    "trial": false
    },
    "C4HZPD19R8B8": {
     "checked": "2026-10-05",
@@ -64083,11 +64199,13 @@
     "title": "Added Scenario Pack 1"
    },
    "C4Q5V3X4QFSV": {
-    "checked": "2026-10-05",
+    "checked": "2026-10-06",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "TEKKEN 7 - TAIKO NO TATSUJIN Pack"
+    "title": "TEKKEN 7 - TAIKO NO TATSUJIN Pack",
+    "trial": false
    },
    "C4S5J016P5LP": {
     "checked": "2026-10-05",
@@ -64153,11 +64271,13 @@
     "title": "DEAD OR ALIVE 5 Last Round Character: Momiji"
    },
    "C51XPXMRXCZL": {
-    "checked": "2026-10-05",
+    "checked": "2026-10-06",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Serah's Outfit: Style and Steel"
+    "title": "Serah's Outfit: Style and Steel",
+    "trial": false
    },
    "C535G04WLZ9R": {
     "checked": "2026-10-05",
@@ -64202,11 +64322,13 @@
     "title": "MudRunner - The Ridge DLC"
    },
    "C5B99TN227R0": {
-    "checked": "2026-10-05",
+    "checked": "2026-10-06",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "WARRIORS OROCHI 3 Ultimate HALLOWEEN COSTUME"
+    "title": "WARRIORS OROCHI 3 Ultimate HALLOWEEN COSTUME",
+    "trial": false
    },
    "C5BK93705XV0": {
     "checked": "2026-10-05",
@@ -64230,11 +64352,13 @@
     "title": "Fable Guard Weapon and Outfit Pack"
    },
    "C5CPVBVJK8DW": {
-    "checked": "2026-10-05",
+    "checked": "2026-10-06",
     "currency": "USD",
     "free": true,
+    "kind": "",
     "price": 0.0,
-    "title": "Gravel Free car Bowler Bulldog"
+    "title": "Gravel Free car Bowler Bulldog",
+    "trial": false
    },
    "C5CZ41LM1DLM": {
     "checked": "2026-10-05",
@@ -65197,5 +65321,5 @@
    }
   }
  },
- "updated": "2026-10-05T12:23:58"
+ "updated": "2026-10-06T04:37:30"
 }
