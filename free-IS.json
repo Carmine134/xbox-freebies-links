@@ -5201,11 +5201,6 @@
 "free_since": "",
 "title": "Orbital Sumo"
 },
-"9PB7CP464TLM": {
-"currency": "ISK",
-"free_since": "",
-"title": "World of Tanks Modern Armor \u2013 Masters of Mayhem Starter Pack"
-},
 "9PB7S82LFD3W": {
 "currency": "ISK",
 "free_since": "",
@@ -6056,6 +6051,11 @@
 "free_since": "",
 "title": "Space Science Investigations"
 },
+"9PKZ19BRP8X2": {
+"currency": "ISK",
+"free_since": "",
+"title": "The Zibbo Show demo"
+},
 "9PKZJ68LMZ5Z": {
 "currency": "ISK",
 "free_since": "",
@@ -6753,5 +6753,5 @@
 }
 },
 "market": "IS",
-"updated": "2026-10-05T11:54:02"
+"updated": "2026-10-06T11:34:11"
 }

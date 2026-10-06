@@ -6671,11 +6671,6 @@
 "free_since": "",
 "title": "NASCAR Heat 5 - JJ Yeley Scheme"
 },
-"9PB7CP464TLM": {
-"currency": "EUR",
-"free_since": "",
-"title": "World of Tanks Modern Armor \u2013 Masters of Mayhem Starter Pack"
-},
 "9PB7S82LFD3W": {
 "currency": "EUR",
 "free_since": "",
@@ -7781,6 +7776,11 @@
 "free_since": "",
 "title": "RIDE 5 - Free Pack 06"
 },
+"9PKZ19BRP8X2": {
+"currency": "EUR",
+"free_since": "",
+"title": "The Zibbo Show demo"
+},
 "9PKZJ68LMZ5Z": {
 "currency": "EUR",
 "free_since": "",
@@ -8509,7 +8509,7 @@
 "BNGWBXNMPJ34": {
 "currency": "EUR",
 "free_since": "",
-"title": "Mod Pack"
+"title": "FS15: Mod Pack"
 },
 "BNKGRXTDCVJG": {
 "currency": "EUR",
@@ -10749,7 +10749,7 @@
 "C1DNT47DZXLM": {
 "currency": "EUR",
 "free_since": "",
-"title": "Farming Classics"
+"title": "FS15: Farming Classics Pack"
 },
 "C1FHT5N227KF": {
 "currency": "EUR",
@@ -11548,5 +11548,5 @@
 }
 },
 "market": "DE",
-"updated": "2026-10-05T11:50:56"
+"updated": "2026-10-06T11:31:04"
 }
