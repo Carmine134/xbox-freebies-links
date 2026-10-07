@@ -1,5 +1,5 @@
 {
-"count": 2507,
+"count": 2513,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "USD",
@@ -1176,6 +1176,11 @@
 "free_since": "",
 "title": "Block Puzzle Jewels Classic"
 },
+"9N1QZ3MB3CSR": {
+"currency": "USD",
+"free_since": "",
+"title": "World of Tanks Modern Armor \u2013 Steel Asylum Starter Pack"
+},
 "9N1TC30FZTLT": {
 "currency": "USD",
 "free_since": "",
@@ -1505,6 +1510,11 @@
 "currency": "USD",
 "free_since": "",
 "title": "The Taco Libre"
+},
+"9N454V5Z70S8": {
+"currency": "USD",
+"free_since": "",
+"title": "Call Of Duty\u00ae: Infinite Warfare - UK Special Forces VO Pack"
 },
 "9N46CHHN0DQM": {
 "currency": "USD",
@@ -2395,6 +2405,11 @@
 "currency": "USD",
 "free_since": "",
 "title": "Zombie Army 4: Carbon Weapon Skins"
+},
+"9NB57KHJC4VV": {
+"currency": "USD",
+"free_since": "",
+"title": "Project: Summer Ice Bowling Demo"
 },
 "9NB5M6C4042L": {
 "currency": "USD",
@@ -3821,6 +3836,11 @@
 "free_since": "",
 "title": "Unlock Key08 CL2 SOLVALOU BISONTE"
 },
+"9NLG11CH9XJ5": {
+"currency": "USD",
+"free_since": "2026-10-07",
+"title": "Warhammer 40,000: Rogue Trader - Appearance Pack"
+},
 "9NLK9QMM0CZH": {
 "currency": "USD",
 "free_since": "",
@@ -4095,6 +4115,11 @@
 "currency": "USD",
 "free_since": "",
 "title": "Sword and Fairy: Together Forever(Demo)"
+},
+"9NNC01XM23NC": {
+"currency": "USD",
+"free_since": "",
+"title": "Warhammer Survivors Demo"
 },
 "9NNFG8BQRCXL": {
 "currency": "USD",
@@ -4720,6 +4745,11 @@
 "currency": "USD",
 "free_since": "",
 "title": "Brave Squad"
+},
+"9NSF103B5DBT": {
+"currency": "USD",
+"free_since": "",
+"title": "Ikemen X New"
 },
 "9NSF3KDBZ3F6": {
 "currency": "USD",
@@ -6140,6 +6170,11 @@
 "currency": "USD",
 "free_since": "",
 "title": "\"T-Shirt\" Costume for Yumia (Set of Three)"
+},
+"9P3NR4Q02D16": {
+"currency": "USD",
+"free_since": "",
+"title": "Unfading Lantern"
 },
 "9P3Q7PJN457X": {
 "currency": "USD",
@@ -8720,11 +8755,6 @@
 "currency": "USD",
 "free_since": "",
 "title": "Starliner Evolved"
-},
-"9PMH53T71WBB": {
-"currency": "USD",
-"free_since": "",
-"title": "Dead City: Red Protocol"
 },
 "9PMJH5302J16": {
 "currency": "USD",
@@ -12538,5 +12568,5 @@
 }
 },
 "market": "US",
-"updated": "2026-10-07T11:18:45"
+"updated": "2026-10-07T20:14:50"
 }
