@@ -1,5 +1,5 @@
 {
-"count": 2249,
+"count": 2255,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "TRY",
@@ -1101,6 +1101,11 @@
 "free_since": "",
 "title": "Block Puzzle Jewels Classic"
 },
+"9N1QZ3MB3CSR": {
+"currency": "TRY",
+"free_since": "",
+"title": "World of Tanks Modern Armor \u2013 Steel Asylum Starter Pack"
+},
 "9N1TC30FZTLT": {
 "currency": "TRY",
 "free_since": "",
@@ -1415,6 +1420,11 @@
 "currency": "TRY",
 "free_since": "",
 "title": "Endling - Extinction is Forever Demo"
+},
+"9N454V5Z70S8": {
+"currency": "TRY",
+"free_since": "",
+"title": "Call Of Duty\u00ae: Infinite Warfare - UK Special Forces VO Pack"
 },
 "9N46CHHN0DQM": {
 "currency": "TRY",
@@ -2265,6 +2275,11 @@
 "currency": "TRY",
 "free_since": "",
 "title": "Zombie Army 4: Carbon Weapon Skins"
+},
+"9NB57KHJC4VV": {
+"currency": "TRY",
+"free_since": "",
+"title": "Project: Summer Ice Bowling Demo"
 },
 "9NB5M6C4042L": {
 "currency": "TRY",
@@ -3566,6 +3581,11 @@
 "free_since": "",
 "title": "Century: Age of Ashes - Tribal Strife Edition"
 },
+"9NLG11CH9XJ5": {
+"currency": "TRY",
+"free_since": "2026-10-07",
+"title": "Warhammer 40,000: Rogue Trader - Appearance Pack"
+},
 "9NLL736V0GTV": {
 "currency": "TRY",
 "free_since": "",
@@ -3815,6 +3835,11 @@
 "currency": "TRY",
 "free_since": "",
 "title": "Sword and Fairy: Together Forever(Demo)"
+},
+"9NNC01XM23NC": {
+"currency": "TRY",
+"free_since": "",
+"title": "Warhammer Survivors Demo"
 },
 "9NNFG8BQRCXL": {
 "currency": "TRY",
@@ -4375,6 +4400,11 @@
 "currency": "TRY",
 "free_since": "",
 "title": "Brave Squad"
+},
+"9NSF103B5DBT": {
+"currency": "TRY",
+"free_since": "",
+"title": "Ikemen X New"
 },
 "9NSF3KDBZ3F6": {
 "currency": "TRY",
@@ -5750,6 +5780,11 @@
 "currency": "TRY",
 "free_since": "",
 "title": "\"T-Shirt\" Costume for Yumia (Set of Three)"
+},
+"9P3NR4Q02D16": {
+"currency": "TRY",
+"free_since": "",
+"title": "Unfading Lantern"
 },
 "9P3Q7PJN457X": {
 "currency": "TRY",
@@ -8180,11 +8215,6 @@
 "currency": "TRY",
 "free_since": "",
 "title": "Starliner Evolved"
-},
-"9PMH53T71WBB": {
-"currency": "TRY",
-"free_since": "",
-"title": "Dead City: Red Protocol"
 },
 "9PMJH5302J16": {
 "currency": "TRY",
@@ -11248,5 +11278,5 @@
 }
 },
 "market": "TR",
-"updated": "2026-10-07T11:19:30"
+"updated": "2026-10-07T20:11:40"
 }

@@ -1,7 +1,12 @@
 {
-"count": 1,
+"count": 2,
 "days": 21,
 "items": {
+"9NLG11CH9XJ5": {
+"currency": "EUR",
+"free_since": "2026-10-07",
+"title": "Warhammer 40,000: Rogue Trader - Appearance Pack"
+},
 "9PB1CHMGC0LS": {
 "currency": "EUR",
 "free_since": "2026-10-01",
@@ -9,5 +14,5 @@
 }
 },
 "market": "DE",
-"updated": "2026-10-07T11:20:15"
+"updated": "2026-10-07T20:18:01"
 }
