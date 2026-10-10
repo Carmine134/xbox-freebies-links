@@ -1,5 +1,5 @@
 {
-"count": 1356,
+"count": 1357,
 "items": {
 "9MSNZS40ZCHF": {
 "currency": "ISK",
@@ -6286,6 +6286,11 @@
 "free_since": "",
 "title": "Starliner Evolved"
 },
+"9PMH53T71WBB": {
+"currency": "ISK",
+"free_since": "2026-10-10",
+"title": "Dead City: Red Protocol"
+},
 "9PMJH5302J16": {
 "currency": "ISK",
 "free_since": "",
@@ -6783,5 +6788,5 @@
 }
 },
 "market": "IS",
-"updated": "2026-10-09T11:38:16"
+"updated": "2026-10-10T11:00:05"
 }

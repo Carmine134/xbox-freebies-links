@@ -1,5 +1,5 @@
 {
-"count": 2407,
+"count": 2411,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "NOK",
@@ -1115,6 +1115,11 @@
 "currency": "NOK",
 "free_since": "",
 "title": "World of Tanks Modern Armor \u2013 Steel Asylum Starter Pack"
+},
+"9N1RGZ81NMVK": {
+"currency": "NOK",
+"free_since": "",
+"title": "Hela: Of Mice & Magic Demo"
 },
 "9N1TC30FZTLT": {
 "currency": "NOK",
@@ -5436,6 +5441,11 @@
 "free_since": "",
 "title": "Century: Age of Ashes - Elite Sentry Edition"
 },
+"9P0XGNMQSL4X": {
+"currency": "NOK",
+"free_since": "",
+"title": "Spark: Wire Puzzle"
+},
 "9P0XLQDWNJC0": {
 "currency": "NOK",
 "free_since": "",
@@ -7761,6 +7771,11 @@
 "free_since": "",
 "title": "The Crimson Maid Demo"
 },
+"9PH3PQ6DXC7X": {
+"currency": "NOK",
+"free_since": "",
+"title": "Nik and Kit Demo"
+},
 "9PH4JZ6KST81": {
 "currency": "NOK",
 "free_since": "",
@@ -8365,6 +8380,11 @@
 "currency": "NOK",
 "free_since": "",
 "title": "Starliner Evolved"
+},
+"9PMH53T71WBB": {
+"currency": "NOK",
+"free_since": "2026-10-10",
+"title": "Dead City: Red Protocol"
 },
 "9PMJH5302J16": {
 "currency": "NOK",
@@ -9644,7 +9664,7 @@
 "BRQ4ZF73L743": {
 "currency": "NOK",
 "free_since": "",
-"title": "Farming Simulator 19 - HOLMER Terra Variant DLC"
+"title": "FS19: HOLMER Terra Variant Pack"
 },
 "BRQPLFLZFP21": {
 "currency": "NOK",
@@ -10729,7 +10749,7 @@
 "BXX86ZF5H4T0": {
 "currency": "NOK",
 "free_since": "",
-"title": "Farming Simulator 19 - Valtra N-Series Gold DLC"
+"title": "FS19: Valtra N-Series Gold"
 },
 "BXZ9P0D706S6": {
 "currency": "NOK",
@@ -12038,5 +12058,5 @@
 }
 },
 "market": "NO",
-"updated": "2026-10-09T11:36:47"
+"updated": "2026-10-10T10:57:53"
 }
