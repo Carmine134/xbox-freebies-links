@@ -1,5 +1,5 @@
 {
-"count": 2255,
+"count": 2256,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "TRY",
@@ -8216,6 +8216,11 @@
 "free_since": "",
 "title": "Starliner Evolved"
 },
+"9PMH53T71WBB": {
+"currency": "TRY",
+"free_since": "2026-10-10",
+"title": "Dead City: Red Protocol"
+},
 "9PMJH5302J16": {
 "currency": "TRY",
 "free_since": "",
@@ -9289,7 +9294,7 @@
 "BRQ4ZF73L743": {
 "currency": "TRY",
 "free_since": "",
-"title": "Farming Simulator 19 - HOLMER Terra Variant DLC"
+"title": "FS19: HOLMER Terra Variant Pack"
 },
 "BRQPLFLZFP21": {
 "currency": "TRY",
@@ -10179,7 +10184,7 @@
 "BXX86ZF5H4T0": {
 "currency": "TRY",
 "free_since": "",
-"title": "Farming Simulator 19 - Valtra N-Series Gold DLC"
+"title": "FS19: Valtra N-Series Gold"
 },
 "BXZ9P0D706S6": {
 "currency": "TRY",
@@ -11278,5 +11283,5 @@
 }
 },
 "market": "TR",
-"updated": "2026-10-09T11:31:56"
+"updated": "2026-10-10T10:50:52"
 }

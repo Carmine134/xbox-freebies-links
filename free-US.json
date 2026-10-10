@@ -1,5 +1,5 @@
 {
-"count": 2513,
+"count": 2516,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "USD",
@@ -5696,6 +5696,11 @@
 "free_since": "",
 "title": "Century: Age of Ashes - Elite Sentry Edition"
 },
+"9P0XGNMQSL4X": {
+"currency": "USD",
+"free_since": "",
+"title": "Spark: Wire Puzzle"
+},
 "9P0XLQDWNJC0": {
 "currency": "USD",
 "free_since": "",
@@ -8101,6 +8106,11 @@
 "free_since": "",
 "title": "The Crimson Maid Demo"
 },
+"9PH3PQ6DXC7X": {
+"currency": "USD",
+"free_since": "",
+"title": "Nik and Kit Demo"
+},
 "9PH4JZ6KST81": {
 "currency": "USD",
 "free_since": "",
@@ -8755,6 +8765,11 @@
 "currency": "USD",
 "free_since": "",
 "title": "Starliner Evolved"
+},
+"9PMH53T71WBB": {
+"currency": "USD",
+"free_since": "2026-10-10",
+"title": "Dead City: Red Protocol"
 },
 "9PMJH5302J16": {
 "currency": "USD",
@@ -10074,7 +10089,7 @@
 "BRQ4ZF73L743": {
 "currency": "USD",
 "free_since": "",
-"title": "Farming Simulator 19 - HOLMER Terra Variant DLC"
+"title": "FS19: HOLMER Terra Variant Pack"
 },
 "BRQPLFLZFP21": {
 "currency": "USD",
@@ -11209,7 +11224,7 @@
 "BXX86ZF5H4T0": {
 "currency": "USD",
 "free_since": "",
-"title": "Farming Simulator 19 - Valtra N-Series Gold DLC"
+"title": "FS19: Valtra N-Series Gold"
 },
 "BXZ9P0D706S6": {
 "currency": "USD",
@@ -12568,5 +12583,5 @@
 }
 },
 "market": "US",
-"updated": "2026-10-09T11:30:23"
+"updated": "2026-10-10T10:48:30"
 }

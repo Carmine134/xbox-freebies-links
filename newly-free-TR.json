@@ -1,5 +1,5 @@
 {
-"count": 2,
+"count": 3,
 "days": 21,
 "items": {
 "9NLG11CH9XJ5": {
@@ -11,8 +11,13 @@
 "currency": "TRY",
 "free_since": "2026-10-01",
 "title": "NEIGHBORS: Suburban Warfare"
+},
+"9PMH53T71WBB": {
+"currency": "TRY",
+"free_since": "2026-10-10",
+"title": "Dead City: Red Protocol"
 }
 },
 "market": "TR",
-"updated": "2026-10-09T11:31:56"
+"updated": "2026-10-10T10:50:52"
 }
