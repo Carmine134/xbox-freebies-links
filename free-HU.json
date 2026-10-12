@@ -431,6 +431,11 @@
 "free_since": "",
 "title": "Classic Survivor Armor Set"
 },
+"9MWH3VSZ1L0P": {
+"currency": "HUF",
+"free_since": "",
+"title": "Pixel Royale 3D"
+},
 "9MWHRFC5Z940": {
 "currency": "HUF",
 "free_since": "",
@@ -5276,6 +5281,11 @@
 "free_since": "",
 "title": "Century: Age of Ashes - Elite Sentry Edition"
 },
+"9P0XGNMQSL4X": {
+"currency": "HUF",
+"free_since": "",
+"title": "Spark: Wire Puzzle"
+},
 "9P0XLQDWNJC0": {
 "currency": "HUF",
 "free_since": "",
@@ -7331,11 +7341,6 @@
 "free_since": "",
 "title": "Slitterhead Demo"
 },
-"9PG2Q9K7N0BZ": {
-"currency": "HUF",
-"free_since": "",
-"title": "Meccha Paint (Free)"
-},
 "9PG3XKDFHRVW": {
 "currency": "HUF",
 "free_since": "",
@@ -8085,11 +8090,6 @@
 "currency": "HUF",
 "free_since": "",
 "title": "Starliner Evolved"
-},
-"9PMH53T71WBB": {
-"currency": "HUF",
-"free_since": "2026-10-10",
-"title": "Dead City: Red Protocol"
 },
 "9PMJH5302J16": {
 "currency": "HUF",
@@ -11538,5 +11538,5 @@
 }
 },
 "market": "HU",
-"updated": "2026-10-11T11:14:59"
+"updated": "2026-10-12T12:37:57"
 }

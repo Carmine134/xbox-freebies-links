@@ -436,6 +436,11 @@
 "free_since": "",
 "title": "Classic Survivor Armor Set"
 },
+"9MWH3VSZ1L0P": {
+"currency": "TRY",
+"free_since": "",
+"title": "Pixel Royale 3D"
+},
 "9MWHRFC5Z940": {
 "currency": "TRY",
 "free_since": "",
@@ -5331,6 +5336,11 @@
 "free_since": "",
 "title": "Century: Age of Ashes - Elite Sentry Edition"
 },
+"9P0XGNMQSL4X": {
+"currency": "TRY",
+"free_since": "",
+"title": "Spark: Wire Puzzle"
+},
 "9P0XLQDWNJC0": {
 "currency": "TRY",
 "free_since": "",
@@ -7451,11 +7461,6 @@
 "free_since": "",
 "title": "Slitterhead Demo"
 },
-"9PG2Q9K7N0BZ": {
-"currency": "TRY",
-"free_since": "",
-"title": "Meccha Paint (Free)"
-},
 "9PG3XKDFHRVW": {
 "currency": "TRY",
 "free_since": "",
@@ -8215,11 +8220,6 @@
 "currency": "TRY",
 "free_since": "",
 "title": "Starliner Evolved"
-},
-"9PMH53T71WBB": {
-"currency": "TRY",
-"free_since": "2026-10-10",
-"title": "Dead City: Red Protocol"
 },
 "9PMJH5302J16": {
 "currency": "TRY",
@@ -11283,5 +11283,5 @@
 }
 },
 "market": "TR",
-"updated": "2026-10-11T11:03:46"
+"updated": "2026-10-12T12:26:23"
 }

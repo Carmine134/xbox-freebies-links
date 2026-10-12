@@ -1,5 +1,5 @@
 {
-"count": 2411,
+"count": 2410,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "NOK",
@@ -435,6 +435,11 @@
 "currency": "NOK",
 "free_since": "",
 "title": "Classic Survivor Armor Set"
+},
+"9MWH3VSZ1L0P": {
+"currency": "NOK",
+"free_since": "",
+"title": "Pixel Royale 3D"
 },
 "9MWHRFC5Z940": {
 "currency": "NOK",
@@ -7596,11 +7601,6 @@
 "free_since": "",
 "title": "Slitterhead Demo"
 },
-"9PG2Q9K7N0BZ": {
-"currency": "NOK",
-"free_since": "",
-"title": "Meccha Paint (Free)"
-},
 "9PG3XKDFHRVW": {
 "currency": "NOK",
 "free_since": "",
@@ -8380,11 +8380,6 @@
 "currency": "NOK",
 "free_since": "",
 "title": "Starliner Evolved"
-},
-"9PMH53T71WBB": {
-"currency": "NOK",
-"free_since": "2026-10-10",
-"title": "Dead City: Red Protocol"
 },
 "9PMJH5302J16": {
 "currency": "NOK",
@@ -12058,5 +12053,5 @@
 }
 },
 "market": "NO",
-"updated": "2026-10-11T11:10:34"
+"updated": "2026-10-12T12:33:24"
 }
