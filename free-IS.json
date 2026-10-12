@@ -1,5 +1,5 @@
 {
-"count": 1357,
+"count": 1362,
 "items": {
 "9MSNZS40ZCHF": {
 "currency": "ISK",
@@ -511,6 +511,11 @@
 "free_since": "",
 "title": "EternaL Psychomachia"
 },
+"9MZ4149X1MNX": {
+"currency": "ISK",
+"free_since": "",
+"title": "Deadzone Rogue 2 Demo"
+},
 "9MZ7G5CM4R5D": {
 "currency": "ISK",
 "free_since": "",
@@ -865,6 +870,11 @@
 "currency": "ISK",
 "free_since": "",
 "title": "World of Tanks Modern Armor \u2013 Steel Asylum Starter Pack"
+},
+"9N1RGZ81NMVK": {
+"currency": "ISK",
+"free_since": "",
+"title": "Hela: Of Mice & Magic Demo"
 },
 "9N1TC30FZTLT": {
 "currency": "ISK",
@@ -3291,6 +3301,11 @@
 "free_since": "",
 "title": "Puzzle Quest 3"
 },
+"9NRL353V9VPM": {
+"currency": "ISK",
+"free_since": "",
+"title": "Bad Magpie Demo"
+},
 "9NRM5S4DN4Z2": {
 "currency": "ISK",
 "free_since": "",
@@ -5026,6 +5041,11 @@
 "free_since": "",
 "title": "DRAGON QUEST MONSTERS: The Withered World DEMO"
 },
+"9P8B6BSWM4B1": {
+"currency": "ISK",
+"free_since": "",
+"title": "Frightful Fall Decoration Pack"
+},
 "9P8BDWP526XV": {
 "currency": "ISK",
 "free_since": "",
@@ -5830,6 +5850,11 @@
 "currency": "ISK",
 "free_since": "",
 "title": "The Crimson Maid Demo"
+},
+"9PH3PQ6DXC7X": {
+"currency": "ISK",
+"free_since": "",
+"title": "Nik and Kit Demo"
 },
 "9PH4JZ6KST81": {
 "currency": "ISK",
@@ -6788,5 +6813,5 @@
 }
 },
 "market": "IS",
-"updated": "2026-10-12T12:35:35"
+"updated": "2026-10-12T16:28:11"
 }

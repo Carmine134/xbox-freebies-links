@@ -1,5 +1,5 @@
 {
-"count": 2256,
+"count": 2261,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "TRY",
@@ -666,6 +666,11 @@
 "free_since": "",
 "title": "Dakar Desert Rally: Extended Saudi Arabia Map"
 },
+"9MZ4149X1MNX": {
+"currency": "TRY",
+"free_since": "",
+"title": "Deadzone Rogue 2 Demo"
+},
 "9MZ533GL0CSS": {
 "currency": "TRY",
 "free_since": "",
@@ -1110,6 +1115,11 @@
 "currency": "TRY",
 "free_since": "",
 "title": "World of Tanks Modern Armor \u2013 Steel Asylum Starter Pack"
+},
+"9N1RGZ81NMVK": {
+"currency": "TRY",
+"free_since": "",
+"title": "Hela: Of Mice & Magic Demo"
 },
 "9N1TC30FZTLT": {
 "currency": "TRY",
@@ -4296,6 +4306,11 @@
 "free_since": "",
 "title": "Puzzle Quest 3"
 },
+"9NRL353V9VPM": {
+"currency": "TRY",
+"free_since": "",
+"title": "Bad Magpie Demo"
+},
 "9NRM5S4DN4Z2": {
 "currency": "TRY",
 "free_since": "",
@@ -6596,6 +6611,11 @@
 "free_since": "",
 "title": "DRAGON QUEST MONSTERS: The Withered World DEMO"
 },
+"9P8B6BSWM4B1": {
+"currency": "TRY",
+"free_since": "",
+"title": "Frightful Fall Decoration Pack"
+},
 "9P8BDWP526XV": {
 "currency": "TRY",
 "free_since": "",
@@ -7625,6 +7645,11 @@
 "currency": "TRY",
 "free_since": "",
 "title": "The Crimson Maid Demo"
+},
+"9PH3PQ6DXC7X": {
+"currency": "TRY",
+"free_since": "",
+"title": "Nik and Kit Demo"
 },
 "9PH4JZ6KST81": {
 "currency": "TRY",
@@ -11283,5 +11308,5 @@
 }
 },
 "market": "TR",
-"updated": "2026-10-12T12:26:23"
+"updated": "2026-10-12T16:12:00"
 }
