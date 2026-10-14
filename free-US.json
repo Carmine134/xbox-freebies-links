@@ -1396,6 +1396,11 @@
 "free_since": "",
 "title": "HOT WHEELS\u2122 - Hotweiler\u2122 - Windows Edition"
 },
+"9N36GN3R06HT": {
+"currency": "USD",
+"free_since": "",
+"title": "Forever Skies \u2013 Okapi Conservation Artifact"
+},
 "9N36L3RT1TJR": {
 "currency": "USD",
 "free_since": "",
@@ -5901,6 +5906,11 @@
 "free_since": "",
 "title": "Cities: Skylines - Carols, Candles and Candy (Win 10)"
 },
+"9P1ZFWTCJ30Z": {
+"currency": "USD",
+"free_since": "",
+"title": "GRAVHOUNDS Demo"
+},
 "9P1ZPNP03MTK": {
 "currency": "USD",
 "free_since": "",
@@ -6085,11 +6095,6 @@
 "currency": "USD",
 "free_since": "",
 "title": "BVOVB - Bruising Vengeance of the Vintage Boxer"
-},
-"9P32NTM4SSGJ": {
-"currency": "USD",
-"free_since": "",
-"title": "Horizon Chase Turbo - Rookie Series"
 },
 "9P34BZH26X6Z": {
 "currency": "USD",
@@ -9295,11 +9300,6 @@
 "currency": "USD",
 "free_since": "",
 "title": "PAC-PAC"
-},
-"9WZDNCRFJ9ZP": {
-"currency": "USD",
-"free_since": "",
-"title": "Blackjack Solitaire"
 },
 "9WZDNCRFJF53": {
 "currency": "USD",
@@ -12603,5 +12603,5 @@
 }
 },
 "market": "US",
-"updated": "2026-10-13T07:45:22"
+"updated": "2026-10-14T06:10:48"
 }
