@@ -1,5 +1,5 @@
 {
-"count": 2262,
+"count": 2260,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "TRY",
@@ -826,11 +826,6 @@
 "free_since": "",
 "title": "Trackmania\u00ae"
 },
-"9N01NLQCJGTB": {
-"currency": "TRY",
-"free_since": "",
-"title": "Ratatan - Pre-order Bonus(Spirit Sword Banbansord)"
-},
 "9N02DN0W6C5H": {
 "currency": "TRY",
 "free_since": "",
@@ -1315,11 +1310,6 @@
 "currency": "TRY",
 "free_since": "",
 "title": "HOT WHEELS\u2122 - Hotweiler\u2122 - Windows Edition"
-},
-"9N36GN3R06HT": {
-"currency": "TRY",
-"free_since": "",
-"title": "Forever Skies \u2013 Okapi Conservation Artifact"
 },
 "9N36L3RT1TJR": {
 "currency": "TRY",
@@ -11313,5 +11303,5 @@
 }
 },
 "market": "TR",
-"updated": "2026-10-14T06:18:32"
+"updated": "2026-10-15T06:01:05"
 }
