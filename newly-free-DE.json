@@ -1,5 +1,5 @@
 {
-"count": 2,
+"count": 3,
 "days": 21,
 "items": {
 "9NLG11CH9XJ5": {
@@ -11,8 +11,13 @@
 "currency": "EUR",
 "free_since": "2026-10-01",
 "title": "NEIGHBORS: Suburban Warfare"
+},
+"9PNDHL5CFP8C": {
+"currency": "EUR",
+"free_since": "2026-10-16",
+"title": "Gold Mining Simulator 2 Demo"
 }
 },
 "market": "DE",
-"updated": "2026-10-15T06:07:09"
+"updated": "2026-10-16T05:56:48"
 }

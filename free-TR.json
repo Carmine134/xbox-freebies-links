@@ -1,5 +1,5 @@
 {
-"count": 2260,
+"count": 2262,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "TRY",
@@ -3111,6 +3111,11 @@
 "free_since": "",
 "title": "REANIMAL: Friend's Pass"
 },
+"9NGTHQ44DPTV": {
+"currency": "TRY",
+"free_since": "",
+"title": "Gallipoli - Long March Pack"
+},
 "9NGVWMLM4T51": {
 "currency": "TRY",
 "free_since": "",
@@ -4885,6 +4890,11 @@
 "currency": "TRY",
 "free_since": "",
 "title": "HOT WHEELS\u2122 - Bye Focal\u2122 II - Xbox Series X|S"
+},
+"9NWBBBJL4BGC": {
+"currency": "TRY",
+"free_since": "",
+"title": "K53 Simulator Pro"
 },
 "9NWCWLK6Z4M0": {
 "currency": "TRY",
@@ -8421,6 +8431,11 @@
 "free_since": "",
 "title": "NBA 2K25 International Commentary Pack"
 },
+"9PNDHL5CFP8C": {
+"currency": "TRY",
+"free_since": "2026-10-16",
+"title": "Gold Mining Simulator 2 Demo"
+},
 "9PNJ0DQG713G": {
 "currency": "TRY",
 "free_since": "",
@@ -8710,11 +8725,6 @@
 "currency": "TRY",
 "free_since": "",
 "title": "Poppy Kart"
-},
-"9WZDNCRFJ9ZM": {
-"currency": "TRY",
-"free_since": "",
-"title": "PAC-PAC"
 },
 "BNBV7FW86B6R": {
 "currency": "TRY",
@@ -11303,5 +11313,5 @@
 }
 },
 "market": "TR",
-"updated": "2026-10-15T06:01:05"
+"updated": "2026-10-16T05:53:14"
 }

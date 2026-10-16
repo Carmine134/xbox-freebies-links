@@ -1,5 +1,5 @@
 {
-"count": 1361,
+"count": 1363,
 "items": {
 "9MSNZS40ZCHF": {
 "currency": "ISK",
@@ -2401,6 +2401,11 @@
 "free_since": "",
 "title": "The Surge: Cutting Edge pack"
 },
+"9NGTHQ44DPTV": {
+"currency": "ISK",
+"free_since": "",
+"title": "Gallipoli - Long March Pack"
+},
 "9NGVWMLM4T51": {
 "currency": "ISK",
 "free_since": "",
@@ -3710,6 +3715,11 @@
 "currency": "ISK",
 "free_since": "",
 "title": "SkyCityRebirth"
+},
+"9NWBBBJL4BGC": {
+"currency": "ISK",
+"free_since": "",
+"title": "K53 Simulator Pro"
 },
 "9NWCWLK6Z4M0": {
 "currency": "ISK",
@@ -6446,6 +6456,11 @@
 "free_since": "",
 "title": "Angry Video Game Nerd 8-bit Demo"
 },
+"9PNDHL5CFP8C": {
+"currency": "ISK",
+"free_since": "2026-10-16",
+"title": "Gold Mining Simulator 2 Demo"
+},
 "9PNPGV4WKS47": {
 "currency": "ISK",
 "free_since": "",
@@ -6671,11 +6686,6 @@
 "free_since": "",
 "title": "Microsoft Jigsaw"
 },
-"9WZDNCRFJ9ZM": {
-"currency": "ISK",
-"free_since": "",
-"title": "PAC-PAC"
-},
 "BNZB8TQFKQ7V": {
 "currency": "ISK",
 "free_since": "",
@@ -6808,5 +6818,5 @@
 }
 },
 "market": "IS",
-"updated": "2026-10-15T06:25:30"
+"updated": "2026-10-16T06:07:13"
 }

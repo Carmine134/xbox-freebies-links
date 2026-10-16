@@ -1,5 +1,5 @@
 {
-"count": 2433,
+"count": 2435,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "GBP",
@@ -3181,6 +3181,11 @@
 "free_since": "",
 "title": "REANIMAL: Friend's Pass"
 },
+"9NGTHQ44DPTV": {
+"currency": "GBP",
+"free_since": "",
+"title": "Gallipoli - Long March Pack"
+},
 "9NGVWMLM4T51": {
 "currency": "GBP",
 "free_since": "",
@@ -5005,6 +5010,11 @@
 "currency": "GBP",
 "free_since": "",
 "title": "HOT WHEELS\u2122 - Bye Focal\u2122 II - Xbox Series X|S"
+},
+"9NWBBBJL4BGC": {
+"currency": "GBP",
+"free_since": "",
+"title": "K53 Simulator Pro"
 },
 "9NWCWLK6Z4M0": {
 "currency": "GBP",
@@ -8596,6 +8606,11 @@
 "free_since": "",
 "title": "NBA 2K25 International Commentary Pack"
 },
+"9PNDHL5CFP8C": {
+"currency": "GBP",
+"free_since": "2026-10-16",
+"title": "Gold Mining Simulator 2 Demo"
+},
 "9PNJ0DQG713G": {
 "currency": "GBP",
 "free_since": "",
@@ -8910,11 +8925,6 @@
 "currency": "GBP",
 "free_since": "",
 "title": "Microsoft Jigsaw"
-},
-"9WZDNCRFJ9ZM": {
-"currency": "GBP",
-"free_since": "",
-"title": "PAC-PAC"
 },
 "9WZDNCRFJF53": {
 "currency": "GBP",
@@ -12168,5 +12178,5 @@
 }
 },
 "market": "GB",
-"updated": "2026-10-15T06:13:09"
+"updated": "2026-10-16T06:00:20"
 }
