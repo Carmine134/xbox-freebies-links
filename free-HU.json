@@ -1,5 +1,5 @@
 {
-"count": 2311,
+"count": 2313,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "HUF",
@@ -3086,6 +3086,11 @@
 "free_since": "",
 "title": "REANIMAL: Friend's Pass"
 },
+"9NGTHQ44DPTV": {
+"currency": "HUF",
+"free_since": "",
+"title": "Gallipoli - Long March Pack"
+},
 "9NGVWMLM4T51": {
 "currency": "HUF",
 "free_since": "",
@@ -4830,6 +4835,11 @@
 "currency": "HUF",
 "free_since": "",
 "title": "HOT WHEELS\u2122 - Bye Focal\u2122 II - Xbox Series X|S"
+},
+"9NWBBBJL4BGC": {
+"currency": "HUF",
+"free_since": "",
+"title": "K53 Simulator Pro"
 },
 "9NWCWLK6Z4M0": {
 "currency": "HUF",
@@ -8291,6 +8301,11 @@
 "free_since": "",
 "title": "NBA 2K25 International Commentary Pack"
 },
+"9PNDHL5CFP8C": {
+"currency": "HUF",
+"free_since": "2026-10-16",
+"title": "Gold Mining Simulator 2 Demo"
+},
 "9PNJ0DQG713G": {
 "currency": "HUF",
 "free_since": "",
@@ -8590,11 +8605,6 @@
 "currency": "HUF",
 "free_since": "",
 "title": "Microsoft Jigsaw"
-},
-"9WZDNCRFJ9ZM": {
-"currency": "HUF",
-"free_since": "",
-"title": "PAC-PAC"
 },
 "BNBV7FW86B6R": {
 "currency": "HUF",
@@ -11558,5 +11568,5 @@
 }
 },
 "market": "HU",
-"updated": "2026-10-15T06:31:38"
+"updated": "2026-10-16T06:10:53"
 }
