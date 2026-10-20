@@ -1,6 +1,11 @@
 {
-"count": 1362,
+"count": 1366,
 "items": {
+"9MSNJ9K0K211": {
+"currency": "ISK",
+"free_since": "",
+"title": "Tropico 7 - Demo (PC)"
+},
 "9MSNZS40ZCHF": {
 "currency": "ISK",
 "free_since": "",
@@ -25,6 +30,11 @@
 "currency": "ISK",
 "free_since": "",
 "title": "Rain World Demo"
+},
+"9MST7RPHJM9X": {
+"currency": "ISK",
+"free_since": "",
+"title": "World of Warships: Legends \u2013 Eastern Shipment"
 },
 "9MSX92HHMF1W": {
 "currency": "ISK",
@@ -1080,6 +1090,11 @@
 "currency": "ISK",
 "free_since": "",
 "title": "OCTOPATH TRAVELER 0 Prologue Demo"
+},
+"9N3SRKLZ6T1V": {
+"currency": "ISK",
+"free_since": "",
+"title": "Rideshare \"Stimulator\" Demo"
 },
 "9N3SW4WZ791L": {
 "currency": "ISK",
@@ -2995,6 +3010,11 @@
 "currency": "ISK",
 "free_since": "",
 "title": "Star Trek Online \u2013 Exclusive Verdant Multibarrel Phaser Pistol Pack"
+},
+"9NNVK1DTR206": {
+"currency": "ISK",
+"free_since": "",
+"title": "World of Warships: Legends \u2013 Eastern Shipment"
 },
 "9NNW1BD54XPS": {
 "currency": "ISK",
@@ -6813,5 +6833,5 @@
 }
 },
 "market": "IS",
-"updated": "2026-10-19T07:06:28"
+"updated": "2026-10-20T06:42:15"
 }
