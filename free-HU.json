@@ -1,10 +1,15 @@
 {
-"count": 2312,
+"count": 2316,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "HUF",
 "free_since": "",
 "title": "HOT WHEELS\u2122 - Aston Martin DBS 2010"
+},
+"9MSNJ9K0K211": {
+"currency": "HUF",
+"free_since": "",
+"title": "Tropico 7 - Demo (PC)"
 },
 "9MSNZS40ZCHF": {
 "currency": "HUF",
@@ -35,6 +40,11 @@
 "currency": "HUF",
 "free_since": "",
 "title": "Rain World Demo"
+},
+"9MST7RPHJM9X": {
+"currency": "HUF",
+"free_since": "",
+"title": "World of Warships: Legends \u2013 Eastern Shipment"
 },
 "9MSX92HHMF1W": {
 "currency": "HUF",
@@ -1365,6 +1375,11 @@
 "currency": "HUF",
 "free_since": "",
 "title": "OCTOPATH TRAVELER 0 Prologue Demo"
+},
+"9N3SRKLZ6T1V": {
+"currency": "HUF",
+"free_since": "",
+"title": "Rideshare \"Stimulator\" Demo"
 },
 "9N3SW4WZ791L": {
 "currency": "HUF",
@@ -3865,6 +3880,11 @@
 "currency": "HUF",
 "free_since": "",
 "title": "HOT WHEELS\u2122 - Fun Pack"
+},
+"9NNVK1DTR206": {
+"currency": "HUF",
+"free_since": "",
+"title": "World of Warships: Legends \u2013 Eastern Shipment"
 },
 "9NNW1BD54XPS": {
 "currency": "HUF",
@@ -11563,5 +11583,5 @@
 }
 },
 "market": "HU",
-"updated": "2026-10-19T07:17:10"
+"updated": "2026-10-20T06:50:12"
 }
