@@ -1,5 +1,5 @@
 {
-"count": 2316,
+"count": 2320,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "HUF",
@@ -4126,6 +4126,11 @@
 "free_since": "",
 "title": "Nowhere Manor DEMO"
 },
+"9NQHJ9K9PDKH": {
+"currency": "HUF",
+"free_since": "2026-10-21",
+"title": "Mountain Legends 3: Local PVP"
+},
 "9NQHKPVWRV3B": {
 "currency": "HUF",
 "free_since": "",
@@ -5900,6 +5905,11 @@
 "currency": "HUF",
 "free_since": "",
 "title": "Elemental Warriors"
+},
+"9P4K6J3B43GL": {
+"currency": "HUF",
+"free_since": "",
+"title": "Achilles: Survivor - Odysseus The King of Ithaca"
 },
 "9P4ND7M5PKPC": {
 "currency": "HUF",
@@ -7691,6 +7701,11 @@
 "free_since": "",
 "title": "Accessory: Protective Band"
 },
+"9PJ0XFR8CVH2": {
+"currency": "HUF",
+"free_since": "2026-10-21",
+"title": "Survivor Cells - DEMO"
+},
 "9PJ2892FZB1T": {
 "currency": "HUF",
 "free_since": "",
@@ -8509,7 +8524,7 @@
 "9PPPG4QLD9J1": {
 "currency": "HUF",
 "free_since": "",
-"title": "War Tanks: Online Tank Warfare Game, Tanks Simulator"
+"title": "War Tanks: Online Shooter Game"
 },
 "9PPPZRF2SZJ1": {
 "currency": "HUF",
@@ -8535,6 +8550,11 @@
 "currency": "HUF",
 "free_since": "",
 "title": "Platformer Catch Me"
+},
+"9PPTGDZNM457": {
+"currency": "HUF",
+"free_since": "",
+"title": "Dumpster Gang Demo"
 },
 "9WZDNCRCSBD1": {
 "currency": "HUF",
@@ -11583,5 +11603,5 @@
 }
 },
 "market": "HU",
-"updated": "2026-10-20T06:50:12"
+"updated": "2026-10-21T06:38:56"
 }

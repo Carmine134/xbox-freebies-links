@@ -1,5 +1,5 @@
 {
-"count": 2523,
+"count": 2528,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "USD",
@@ -3876,6 +3876,11 @@
 "free_since": "",
 "title": "Pariah Garage Kit 3"
 },
+"9NLKMMQ5R954": {
+"currency": "USD",
+"free_since": "",
+"title": "Elite Sports Gaming Football"
+},
 "9NLL736V0GTV": {
 "currency": "USD",
 "free_since": "",
@@ -4485,6 +4490,11 @@
 "currency": "USD",
 "free_since": "",
 "title": "Nowhere Manor DEMO"
+},
+"9NQHJ9K9PDKH": {
+"currency": "USD",
+"free_since": "2026-10-21",
+"title": "Mountain Legends 3: Local PVP"
 },
 "9NQHKPVWRV3B": {
 "currency": "USD",
@@ -6365,6 +6375,11 @@
 "currency": "USD",
 "free_since": "",
 "title": "Elemental Warriors"
+},
+"9P4K6J3B43GL": {
+"currency": "USD",
+"free_since": "",
+"title": "Achilles: Survivor - Odysseus The King of Ithaca"
 },
 "9P4ND7M5PKPC": {
 "currency": "USD",
@@ -8296,6 +8311,11 @@
 "free_since": "",
 "title": "Accessory: Protective Band"
 },
+"9PJ0XFR8CVH2": {
+"currency": "USD",
+"free_since": "2026-10-21",
+"title": "Survivor Cells - DEMO"
+},
 "9PJ1M9N5RZJQ": {
 "currency": "USD",
 "free_since": "",
@@ -9194,7 +9214,7 @@
 "9PPPG4QLD9J1": {
 "currency": "USD",
 "free_since": "",
-"title": "War Tanks: Online Tank Warfare Game, Tanks Simulator"
+"title": "War Tanks: Online Shooter Game"
 },
 "9PPPZRF2SZJ1": {
 "currency": "USD",
@@ -9220,6 +9240,11 @@
 "currency": "USD",
 "free_since": "",
 "title": "Platformer Catch Me"
+},
+"9PPTGDZNM457": {
+"currency": "USD",
+"free_since": "",
+"title": "Dumpster Gang Demo"
 },
 "9WZDNCRCSBD1": {
 "currency": "USD",
@@ -12618,5 +12643,5 @@
 }
 },
 "market": "US",
-"updated": "2026-10-20T06:03:22"
+"updated": "2026-10-21T06:02:14"
 }
