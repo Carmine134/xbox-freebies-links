@@ -1,5 +1,5 @@
 {
-"count": 1366,
+"count": 1370,
 "items": {
 "9MSNJ9K0K211": {
 "currency": "ISK",
@@ -3206,6 +3206,11 @@
 "free_since": "",
 "title": "Nowhere Manor DEMO"
 },
+"9NQHJ9K9PDKH": {
+"currency": "ISK",
+"free_since": "2026-10-21",
+"title": "Mountain Legends 3: Local PVP"
+},
 "9NQHKPVWRV3B": {
 "currency": "ISK",
 "free_since": "",
@@ -4570,6 +4575,11 @@
 "currency": "ISK",
 "free_since": "",
 "title": "Elemental Warriors"
+},
+"9P4K6J3B43GL": {
+"currency": "ISK",
+"free_since": "",
+"title": "Achilles: Survivor - Odysseus The King of Ithaca"
 },
 "9P4ND7M5PKPC": {
 "currency": "ISK",
@@ -5981,6 +5991,11 @@
 "free_since": "",
 "title": "Bonus Pack: Elgado Special Pack"
 },
+"9PJ0XFR8CVH2": {
+"currency": "ISK",
+"free_since": "2026-10-21",
+"title": "Survivor Cells - DEMO"
+},
 "9PJ2892FZB1T": {
 "currency": "ISK",
 "free_since": "",
@@ -6589,7 +6604,7 @@
 "9PPPG4QLD9J1": {
 "currency": "ISK",
 "free_since": "",
-"title": "War Tanks: Online Tank Warfare Game, Tanks Simulator"
+"title": "War Tanks: Online Shooter Game"
 },
 "9PPQJR8TLW62": {
 "currency": "ISK",
@@ -6605,6 +6620,11 @@
 "currency": "ISK",
 "free_since": "",
 "title": "Platformer Catch Me"
+},
+"9PPTGDZNM457": {
+"currency": "ISK",
+"free_since": "",
+"title": "Dumpster Gang Demo"
 },
 "9WZDNCRCSBD1": {
 "currency": "ISK",
@@ -6833,5 +6853,5 @@
 }
 },
 "market": "IS",
-"updated": "2026-10-20T06:42:15"
+"updated": "2026-10-21T06:32:59"
 }

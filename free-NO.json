@@ -1,5 +1,5 @@
 {
-"count": 2417,
+"count": 2421,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "NOK",
@@ -4251,6 +4251,11 @@
 "free_since": "",
 "title": "Nowhere Manor DEMO"
 },
+"9NQHJ9K9PDKH": {
+"currency": "NOK",
+"free_since": "2026-10-21",
+"title": "Mountain Legends 3: Local PVP"
+},
 "9NQHKPVWRV3B": {
 "currency": "NOK",
 "free_since": "",
@@ -6090,6 +6095,11 @@
 "currency": "NOK",
 "free_since": "",
 "title": "Elemental Warriors"
+},
+"9P4K6J3B43GL": {
+"currency": "NOK",
+"free_since": "",
+"title": "Achilles: Survivor - Odysseus The King of Ithaca"
 },
 "9P4ND7M5PKPC": {
 "currency": "NOK",
@@ -7951,6 +7961,11 @@
 "free_since": "",
 "title": "Accessory: Protective Band"
 },
+"9PJ0XFR8CVH2": {
+"currency": "NOK",
+"free_since": "2026-10-21",
+"title": "Survivor Cells - DEMO"
+},
 "9PJ2892FZB1T": {
 "currency": "NOK",
 "free_since": "",
@@ -8794,7 +8809,7 @@
 "9PPPG4QLD9J1": {
 "currency": "NOK",
 "free_since": "",
-"title": "War Tanks: Online Tank Warfare Game, Tanks Simulator"
+"title": "War Tanks: Online Shooter Game"
 },
 "9PPPZRF2SZJ1": {
 "currency": "NOK",
@@ -8820,6 +8835,11 @@
 "currency": "NOK",
 "free_since": "",
 "title": "Platformer Catch Me"
+},
+"9PPTGDZNM457": {
+"currency": "NOK",
+"free_since": "",
+"title": "Dumpster Gang Demo"
 },
 "9WZDNCRCSBD1": {
 "currency": "NOK",
@@ -12088,5 +12108,5 @@
 }
 },
 "market": "NO",
-"updated": "2026-10-20T06:34:28"
+"updated": "2026-10-21T06:26:16"
 }

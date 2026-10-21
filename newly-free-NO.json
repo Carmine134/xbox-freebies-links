@@ -1,5 +1,5 @@
 {
-"count": 3,
+"count": 5,
 "days": 21,
 "items": {
 "9NLG11CH9XJ5": {
@@ -7,10 +7,20 @@
 "free_since": "2026-10-07",
 "title": "Warhammer 40,000: Rogue Trader - Appearance Pack"
 },
+"9NQHJ9K9PDKH": {
+"currency": "NOK",
+"free_since": "2026-10-21",
+"title": "Mountain Legends 3: Local PVP"
+},
 "9PB1CHMGC0LS": {
 "currency": "NOK",
 "free_since": "2026-10-01",
 "title": "NEIGHBORS: Suburban Warfare"
+},
+"9PJ0XFR8CVH2": {
+"currency": "NOK",
+"free_since": "2026-10-21",
+"title": "Survivor Cells - DEMO"
 },
 "9PNDHL5CFP8C": {
 "currency": "NOK",
@@ -19,5 +29,5 @@
 }
 },
 "market": "NO",
-"updated": "2026-10-20T06:34:28"
+"updated": "2026-10-21T06:26:16"
 }
