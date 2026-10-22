@@ -1,5 +1,5 @@
 {
-"count": 2528,
+"count": 2531,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "USD",
@@ -1200,6 +1200,11 @@
 "currency": "USD",
 "free_since": "",
 "title": "Hela: Of Mice & Magic Demo"
+},
+"9N1RRVLK0JCL": {
+"currency": "USD",
+"free_since": "",
+"title": "Once Human \u2014 Ocean Expansion: Isles of Abyss Bundle"
 },
 "9N1TC30FZTLT": {
 "currency": "USD",
@@ -2775,6 +2780,11 @@
 "currency": "USD",
 "free_since": "",
 "title": "Techwars Global Conflict - Birthday Edition"
+},
+"9NCC1D2RF7ZS": {
+"currency": "USD",
+"free_since": "",
+"title": "Once Human \u2014 Ocean Expansion: Isles of Abyss Bundle"
 },
 "9NCD341CHC8G": {
 "currency": "USD",
@@ -6380,6 +6390,11 @@
 "currency": "USD",
 "free_since": "",
 "title": "Achilles: Survivor - Odysseus The King of Ithaca"
+},
+"9P4M9MLXWW17": {
+"currency": "USD",
+"free_since": "",
+"title": "New York Mysteries 6: The Undying"
 },
 "9P4ND7M5PKPC": {
 "currency": "USD",
@@ -12643,5 +12658,5 @@
 }
 },
 "market": "US",
-"updated": "2026-10-21T06:02:14"
+"updated": "2026-10-22T06:05:18"
 }
