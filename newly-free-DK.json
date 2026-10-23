@@ -1,7 +1,13 @@
 {
-"count": 0,
+"count": 1,
 "days": 21,
-"items": {},
+"items": {
+"9NXDFCZ0VZJG": {
+"currency": "DKK",
+"free_since": "2026-10-23",
+"title": "Pinball FX - Williams\u2122 Pinball: Judge Dredd\u2122 Trial"
+}
+},
 "market": "DK",
-"updated": "2026-10-22T06:44:25"
+"updated": "2026-10-23T07:24:10"
 }

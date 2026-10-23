@@ -1,5 +1,5 @@
 {
-"count": 2366,
+"count": 2370,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "SEK",
@@ -490,6 +490,11 @@
 "currency": "SEK",
 "free_since": "",
 "title": "Total War: THREE KINGDOMS - Tao Qian"
+},
+"9MWTS98M9W4P": {
+"currency": "SEK",
+"free_since": "",
+"title": "Pinball FX Midnight - Williams\u2122 Pinball: Judge Dredd\u2122 Trial"
 },
 "9MWVCPBR5Q3N": {
 "currency": "SEK",
@@ -1120,6 +1125,11 @@
 "currency": "SEK",
 "free_since": "",
 "title": "Hela: Of Mice & Magic Demo"
+},
+"9N1RRVLK0JCL": {
+"currency": "SEK",
+"free_since": "",
+"title": "Once Human \u2014 Ocean Expansion: Isles of Abyss Bundle"
 },
 "9N1TC30FZTLT": {
 "currency": "SEK",
@@ -2610,6 +2620,11 @@
 "currency": "SEK",
 "free_since": "",
 "title": "Microsoft Jewel"
+},
+"9NCC1D2RF7ZS": {
+"currency": "SEK",
+"free_since": "",
+"title": "Once Human \u2014 Ocean Expansion: Isles of Abyss Bundle"
 },
 "9NCD341CHC8G": {
 "currency": "SEK",
@@ -5020,6 +5035,11 @@
 "currency": "SEK",
 "free_since": "",
 "title": "Tracks - The Train Set Game: Suburban Pack"
+},
+"9NXDFCZ0VZJG": {
+"currency": "SEK",
+"free_since": "2026-10-23",
+"title": "Pinball FX - Williams\u2122 Pinball: Judge Dredd\u2122 Trial"
 },
 "9NXKGZWJ64QV": {
 "currency": "SEK",
@@ -10829,7 +10849,7 @@
 "C0FZNGPNQQRQ": {
 "currency": "SEK",
 "free_since": "",
-"title": "Crossout"
+"title": "Crossout Remastered"
 },
 "C0G4GZL741XZ": {
 "currency": "SEK",
@@ -11833,5 +11853,5 @@
 }
 },
 "market": "SE",
-"updated": "2026-10-22T06:40:45"
+"updated": "2026-10-23T07:16:15"
 }

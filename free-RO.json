@@ -1,5 +1,5 @@
 {
-"count": 1326,
+"count": 1330,
 "items": {
 "9MSNJ9K0K211": {
 "currency": "RON",
@@ -390,6 +390,11 @@
 "currency": "RON",
 "free_since": "",
 "title": "Total War: THREE KINGDOMS - Tao Qian"
+},
+"9MWTS98M9W4P": {
+"currency": "RON",
+"free_since": "",
+"title": "Pinball FX Midnight - Williams\u2122 Pinball: Judge Dredd\u2122 Trial"
 },
 "9MWVCPBR5Q3N": {
 "currency": "RON",
@@ -875,6 +880,11 @@
 "currency": "RON",
 "free_since": "",
 "title": "Hela: Of Mice & Magic Demo"
+},
+"9N1RRVLK0JCL": {
+"currency": "RON",
+"free_since": "",
+"title": "Once Human \u2014 Ocean Expansion: Isles of Abyss Bundle"
 },
 "9N1TC30FZTLT": {
 "currency": "RON",
@@ -1985,6 +1995,11 @@
 "currency": "RON",
 "free_since": "",
 "title": "Microsoft Jewel"
+},
+"9NCC1D2RF7ZS": {
+"currency": "RON",
+"free_since": "",
+"title": "Once Human \u2014 Ocean Expansion: Isles of Abyss Bundle"
 },
 "9NCD341CHC8G": {
 "currency": "RON",
@@ -3750,6 +3765,11 @@
 "currency": "RON",
 "free_since": "",
 "title": "Legendary Tales 2: Cataclysm"
+},
+"9NXDFCZ0VZJG": {
+"currency": "RON",
+"free_since": "2026-10-23",
+"title": "Pinball FX - Williams\u2122 Pinball: Judge Dredd\u2122 Trial"
 },
 "9NXMD5QX1DH8": {
 "currency": "RON",
@@ -6589,7 +6609,7 @@
 "C0FZNGPNQQRQ": {
 "currency": "RON",
 "free_since": "",
-"title": "Crossout"
+"title": "Crossout Remastered"
 },
 "C0KSW9TPJSB6": {
 "currency": "RON",
@@ -6633,5 +6653,5 @@
 }
 },
 "market": "RO",
-"updated": "2026-10-22T06:48:16"
+"updated": "2026-10-23T07:33:14"
 }

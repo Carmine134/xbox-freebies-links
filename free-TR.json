@@ -1,5 +1,5 @@
 {
-"count": 2272,
+"count": 2274,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "TRY",
@@ -495,6 +495,11 @@
 "currency": "TRY",
 "free_since": "",
 "title": "Total War: THREE KINGDOMS - Tao Qian"
+},
+"9MWTS98M9W4P": {
+"currency": "TRY",
+"free_since": "",
+"title": "Pinball FX Midnight - Williams\u2122 Pinball: Judge Dredd\u2122 Trial"
 },
 "9MWVCPBR5Q3N": {
 "currency": "TRY",
@@ -5070,6 +5075,11 @@
 "currency": "TRY",
 "free_since": "",
 "title": "Tracks - The Train Set Game: Suburban Pack"
+},
+"9NXDFCZ0VZJG": {
+"currency": "TRY",
+"free_since": "2026-10-23",
+"title": "Pinball FX - Williams\u2122 Pinball: Judge Dredd\u2122 Trial"
 },
 "9NXKGZWJ64QV": {
 "currency": "TRY",
@@ -10519,7 +10529,7 @@
 "C0FZNGPNQQRQ": {
 "currency": "TRY",
 "free_since": "",
-"title": "Crossout"
+"title": "Crossout Remastered"
 },
 "C0G4GZL741XZ": {
 "currency": "TRY",
@@ -11363,5 +11373,5 @@
 }
 },
 "market": "TR",
-"updated": "2026-10-22T06:09:09"
+"updated": "2026-10-23T06:13:09"
 }

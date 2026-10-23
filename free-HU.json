@@ -1,5 +1,5 @@
 {
-"count": 2323,
+"count": 2325,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "HUF",
@@ -490,6 +490,11 @@
 "currency": "HUF",
 "free_since": "",
 "title": "Total War: THREE KINGDOMS - Tao Qian"
+},
+"9MWTS98M9W4P": {
+"currency": "HUF",
+"free_since": "",
+"title": "Pinball FX Midnight - Williams\u2122 Pinball: Judge Dredd\u2122 Trial"
 },
 "9MWVCPBR5Q3N": {
 "currency": "HUF",
@@ -5010,6 +5015,11 @@
 "currency": "HUF",
 "free_since": "",
 "title": "Tracks - The Train Set Game: Suburban Pack"
+},
+"9NXDFCZ0VZJG": {
+"currency": "HUF",
+"free_since": "2026-10-23",
+"title": "Pinball FX - Williams\u2122 Pinball: Judge Dredd\u2122 Trial"
 },
 "9NXKGZWJ64QV": {
 "currency": "HUF",
@@ -10659,7 +10669,7 @@
 "C0FZNGPNQQRQ": {
 "currency": "HUF",
 "free_since": "",
-"title": "Crossout"
+"title": "Crossout Remastered"
 },
 "C0G4GZL741XZ": {
 "currency": "HUF",
@@ -11618,5 +11628,5 @@
 }
 },
 "market": "HU",
-"updated": "2026-10-22T06:29:04"
+"updated": "2026-10-23T06:52:42"
 }
