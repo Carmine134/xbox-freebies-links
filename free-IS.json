@@ -1,5 +1,5 @@
 {
-"count": 1373,
+"count": 1375,
 "items": {
 "9MSNJ9K0K211": {
 "currency": "ISK",
@@ -395,6 +395,11 @@
 "currency": "ISK",
 "free_since": "",
 "title": "Total War: THREE KINGDOMS - Tao Qian"
+},
+"9MWTS98M9W4P": {
+"currency": "ISK",
+"free_since": "",
+"title": "Pinball FX Midnight - Williams\u2122 Pinball: Judge Dredd\u2122 Trial"
 },
 "9MWVCPBR5Q3N": {
 "currency": "ISK",
@@ -3871,6 +3876,11 @@
 "free_since": "",
 "title": "Legendary Tales 2: Cataclysm"
 },
+"9NXDFCZ0VZJG": {
+"currency": "ISK",
+"free_since": "2026-10-23",
+"title": "Pinball FX - Williams\u2122 Pinball: Judge Dredd\u2122 Trial"
+},
 "9NXMD5QX1DH8": {
 "currency": "ISK",
 "free_since": "",
@@ -6824,7 +6834,7 @@
 "C0FZNGPNQQRQ": {
 "currency": "ISK",
 "free_since": "2026-10-01",
-"title": "Crossout"
+"title": "Crossout Remastered"
 },
 "C0KSW9TPJSB6": {
 "currency": "ISK",
@@ -6868,5 +6878,5 @@
 }
 },
 "market": "IS",
-"updated": "2026-10-22T06:25:02"
+"updated": "2026-10-23T06:44:51"
 }
