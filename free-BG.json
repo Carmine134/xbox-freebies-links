@@ -1,5 +1,5 @@
 {
-"count": 1327,
+"count": 1326,
 "items": {
 "9MSNJ9K0K211": {
 "currency": "EUR",
@@ -6101,11 +6101,6 @@
 "free_since": "",
 "title": "Egg Game"
 },
-"9PM4978W7K61": {
-"currency": "EUR",
-"free_since": "",
-"title": "KIBORG DEMO"
-},
 "9PM4GDPHP26W": {
 "currency": "EUR",
 "free_since": "",
@@ -6638,5 +6633,5 @@
 }
 },
 "market": "BG",
-"updated": "2026-10-23T07:43:14"
+"updated": "2026-10-24T06:52:11"
 }

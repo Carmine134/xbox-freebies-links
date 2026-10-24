@@ -1,5 +1,5 @@
 {
-"count": 1330,
+"count": 1329,
 "items": {
 "9MSNJ9K0K211": {
 "currency": "RON",
@@ -6101,11 +6101,6 @@
 "free_since": "",
 "title": "Egg Game"
 },
-"9PM4978W7K61": {
-"currency": "RON",
-"free_since": "",
-"title": "KIBORG DEMO"
-},
 "9PM4GDPHP26W": {
 "currency": "RON",
 "free_since": "",
@@ -6653,5 +6648,5 @@
 }
 },
 "market": "RO",
-"updated": "2026-10-23T07:33:14"
+"updated": "2026-10-24T06:45:45"
 }

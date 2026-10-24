@@ -1,5 +1,5 @@
 {
-"count": 2339,
+"count": 2338,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "PLN",
@@ -8111,11 +8111,6 @@
 "free_since": "",
 "title": "FATAL FRAME II: Crimson Butterfly REMAKE Demo"
 },
-"9PM4978W7K61": {
-"currency": "PLN",
-"free_since": "",
-"title": "KIBORG DEMO"
-},
 "9PM4GDPHP26W": {
 "currency": "PLN",
 "free_since": "",
@@ -11698,5 +11693,5 @@
 }
 },
 "market": "PL",
-"updated": "2026-10-23T07:00:32"
+"updated": "2026-10-24T06:24:15"
 }
