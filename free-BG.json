@@ -1,5 +1,5 @@
 {
-"count": 1326,
+"count": 1327,
 "items": {
 "9MSNJ9K0K211": {
 "currency": "EUR",
@@ -6176,6 +6176,11 @@
 "free_since": "",
 "title": "Soul Finder"
 },
+"9PMKVFQWZR2Q": {
+"currency": "EUR",
+"free_since": "",
+"title": "New beginnings and beyond"
+},
 "9PML9802LTMN": {
 "currency": "EUR",
 "free_since": "",
@@ -6633,5 +6638,5 @@
 }
 },
 "market": "BG",
-"updated": "2026-10-24T06:52:11"
+"updated": "2026-10-25T06:46:07"
 }

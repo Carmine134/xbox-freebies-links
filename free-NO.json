@@ -1,5 +1,5 @@
 {
-"count": 2425,
+"count": 2426,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "NOK",
@@ -8466,6 +8466,11 @@
 "free_since": "",
 "title": "Soul Finder"
 },
+"9PMKVFQWZR2Q": {
+"currency": "NOK",
+"free_since": "",
+"title": "New beginnings and beyond"
+},
 "9PML9802LTMN": {
 "currency": "NOK",
 "free_since": "",
@@ -12128,5 +12133,5 @@
 }
 },
 "market": "NO",
-"updated": "2026-10-24T06:08:31"
+"updated": "2026-10-25T06:16:33"
 }
