@@ -1,5 +1,5 @@
 {
-"count": 2325,
+"count": 2327,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "HUF",
@@ -475,6 +475,11 @@
 "currency": "HUF",
 "free_since": "",
 "title": "Human Zoo Tycoon"
+},
+"9MWP2WKBN6FK": {
+"currency": "HUF",
+"free_since": "",
+"title": "Slot Plus"
 },
 "9MWPW1LZPFJR": {
 "currency": "HUF",
@@ -7196,6 +7201,11 @@
 "free_since": "",
 "title": "Let's Cook Together 2 Demo"
 },
+"9PDNBNCCCQ4H": {
+"currency": "HUF",
+"free_since": "",
+"title": "Becastled: Traits and Some Magic"
+},
 "9PDP7MZ9BRPR": {
 "currency": "HUF",
 "free_since": "",
@@ -11628,5 +11638,5 @@
 }
 },
 "market": "HU",
-"updated": "2026-10-25T06:23:44"
+"updated": "2026-10-26T06:50:31"
 }

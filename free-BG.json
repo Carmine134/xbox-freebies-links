@@ -1,5 +1,5 @@
 {
-"count": 1327,
+"count": 1329,
 "items": {
 "9MSNJ9K0K211": {
 "currency": "EUR",
@@ -375,6 +375,11 @@
 "currency": "EUR",
 "free_since": "",
 "title": "Human Zoo Tycoon"
+},
+"9MWP2WKBN6FK": {
+"currency": "EUR",
+"free_since": "",
+"title": "Slot Plus"
 },
 "9MWPW1LZPFJR": {
 "currency": "EUR",
@@ -5416,6 +5421,11 @@
 "free_since": "",
 "title": "Another World the Artifact"
 },
+"9PDNBNCCCQ4H": {
+"currency": "EUR",
+"free_since": "",
+"title": "Becastled: Traits and Some Magic"
+},
 "9PDP8KJ3XVKM": {
 "currency": "EUR",
 "free_since": "",
@@ -6638,5 +6648,5 @@
 }
 },
 "market": "BG",
-"updated": "2026-10-25T06:46:07"
+"updated": "2026-10-26T07:32:33"
 }

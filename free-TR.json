@@ -1,5 +1,5 @@
 {
-"count": 2274,
+"count": 2276,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "TRY",
@@ -480,6 +480,11 @@
 "currency": "TRY",
 "free_since": "",
 "title": "Human Zoo Tycoon"
+},
+"9MWP2WKBN6FK": {
+"currency": "TRY",
+"free_since": "",
+"title": "Slot Plus"
 },
 "9MWPW1LZPFJR": {
 "currency": "TRY",
@@ -7316,6 +7321,11 @@
 "free_since": "",
 "title": "Let's Cook Together 2 Demo"
 },
+"9PDNBNCCCQ4H": {
+"currency": "TRY",
+"free_since": "",
+"title": "Becastled: Traits and Some Magic"
+},
 "9PDP7MZ9BRPR": {
 "currency": "TRY",
 "free_since": "",
@@ -11373,5 +11383,5 @@
 }
 },
 "market": "TR",
-"updated": "2026-10-25T06:05:33"
+"updated": "2026-10-26T06:15:29"
 }
