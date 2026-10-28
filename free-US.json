@@ -1,5 +1,5 @@
 {
-"count": 2535,
+"count": 2537,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "USD",
@@ -555,6 +555,11 @@
 "currency": "USD",
 "free_since": "",
 "title": "RESIDENT EVIL 2 R.P.D. Demo"
+},
+"9MX224383QR0": {
+"currency": "USD",
+"free_since": "",
+"title": "Pinball FX Midnight - Williams\u2122 Pinball: Scared Stiff Trial"
 },
 "9MX2QMD859TW": {
 "currency": "USD",
@@ -1255,6 +1260,11 @@
 "currency": "USD",
 "free_since": "",
 "title": "Cities: Skylines - Pearls from the East"
+},
+"9N21K00X01JW": {
+"currency": "USD",
+"free_since": "",
+"title": "Pinball FX Midnight - Williams\u2122 Pinball: Elvira and the Party Monsters Trial"
 },
 "9N21NSBGBL8N": {
 "currency": "USD",
@@ -3631,6 +3641,11 @@
 "free_since": "",
 "title": "Little Nightmares III - Klonoa Costumes Set"
 },
+"9NJRMZF02Q6X": {
+"currency": "USD",
+"free_since": "",
+"title": "The S\u00e9ance of Blake Manor Demo"
+},
 "9NJRVSF47MXM": {
 "currency": "USD",
 "free_since": "",
@@ -5390,11 +5405,6 @@
 "currency": "USD",
 "free_since": "",
 "title": "Bonus Pack: A Gift from Chichae 1"
-},
-"9NX6P4DHZCGD": {
-"currency": "USD",
-"free_since": "",
-"title": "Jumper Maria"
 },
 "9NX7VBX801D0": {
 "currency": "USD",
@@ -12678,5 +12688,5 @@
 }
 },
 "market": "US",
-"updated": "2026-10-27T06:15:19"
+"updated": "2026-10-28T06:54:57"
 }

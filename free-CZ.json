@@ -1,5 +1,5 @@
 {
-"count": 2329,
+"count": 2331,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "CZK",
@@ -530,6 +530,11 @@
 "currency": "CZK",
 "free_since": "",
 "title": "RESIDENT EVIL 2 R.P.D. Demo"
+},
+"9MX224383QR0": {
+"currency": "CZK",
+"free_since": "",
+"title": "Pinball FX Midnight - Williams\u2122 Pinball: Scared Stiff Trial"
 },
 "9MX2QMD859TW": {
 "currency": "CZK",
@@ -1170,6 +1175,11 @@
 "currency": "CZK",
 "free_since": "",
 "title": "Cities: Skylines - Pearls from the East"
+},
+"9N21K00X01JW": {
+"currency": "CZK",
+"free_since": "",
+"title": "Pinball FX Midnight - Williams\u2122 Pinball: Elvira and the Party Monsters Trial"
 },
 "9N21NSBGBL8N": {
 "currency": "CZK",
@@ -3381,6 +3391,11 @@
 "free_since": "",
 "title": "Little Nightmares III - Klonoa Costumes Set"
 },
+"9NJRMZF02Q6X": {
+"currency": "CZK",
+"free_since": "",
+"title": "The S\u00e9ance of Blake Manor Demo"
+},
 "9NJRVSF47MXM": {
 "currency": "CZK",
 "free_since": "",
@@ -4985,11 +5000,6 @@
 "currency": "CZK",
 "free_since": "",
 "title": "Bonus Pack: A Gift from Chichae 1"
-},
-"9NX6P4DHZCGD": {
-"currency": "CZK",
-"free_since": "",
-"title": "Jumper Maria"
 },
 "9NX7VBX801D0": {
 "currency": "CZK",
@@ -11648,5 +11658,5 @@
 }
 },
 "market": "CZ",
-"updated": "2026-10-27T06:48:12"
+"updated": "2026-10-28T07:53:01"
 }
