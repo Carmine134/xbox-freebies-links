@@ -1,5 +1,5 @@
 {
-"count": 2343,
+"count": 2345,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "PLN",
@@ -2165,6 +2165,11 @@
 "currency": "PLN",
 "free_since": "",
 "title": "Life is Strange 2 Japanese Language Pack"
+},
+"9N9B4MXGV54H": {
+"currency": "PLN",
+"free_since": "",
+"title": "Witches and Butchers Demo"
 },
 "9N9BPXB6DKNT": {
 "currency": "PLN",
@@ -6670,6 +6675,11 @@
 "currency": "PLN",
 "free_since": "",
 "title": "Sniper Dan - Demo"
+},
+"9P8MKLV51PHC": {
+"currency": "PLN",
+"free_since": "",
+"title": "Trench Digger"
 },
 "9P8NX462BXD2": {
 "currency": "PLN",
@@ -11718,5 +11728,5 @@
 }
 },
 "market": "PL",
-"updated": "2026-10-28T07:45:51"
+"updated": "2026-10-29T07:29:59"
 }

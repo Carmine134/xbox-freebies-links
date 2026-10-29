@@ -1,12 +1,7 @@
 {
-"count": 5,
+"count": 4,
 "days": 21,
 "items": {
-"9NLG11CH9XJ5": {
-"currency": "ISK",
-"free_since": "2026-10-07",
-"title": "Warhammer 40,000: Rogue Trader - Appearance Pack"
-},
 "9NQHJ9K9PDKH": {
 "currency": "ISK",
 "free_since": "2026-10-21",
@@ -29,5 +24,5 @@
 }
 },
 "market": "IS",
-"updated": "2026-10-28T07:31:13"
+"updated": "2026-10-29T07:22:18"
 }

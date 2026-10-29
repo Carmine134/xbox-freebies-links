@@ -1,5 +1,5 @@
 {
-"count": 1331,
+"count": 1333,
 "items": {
 "9MSNJ9K0K211": {
 "currency": "EUR",
@@ -1650,6 +1650,11 @@
 "currency": "EUR",
 "free_since": "",
 "title": "Star Trek Online - Unparalleled Verdant Pack"
+},
+"9N9B4MXGV54H": {
+"currency": "EUR",
+"free_since": "",
+"title": "Witches and Butchers Demo"
 },
 "9N9BPXB6DKNT": {
 "currency": "EUR",
@@ -5011,6 +5016,11 @@
 "free_since": "",
 "title": "Sniper Dan - Demo"
 },
+"9P8MKLV51PHC": {
+"currency": "EUR",
+"free_since": "",
+"title": "Trench Digger"
+},
 "9P8NX462BXD2": {
 "currency": "EUR",
 "free_since": "",
@@ -6658,5 +6668,5 @@
 }
 },
 "market": "BG",
-"updated": "2026-10-28T08:21:04"
+"updated": "2026-10-29T07:52:21"
 }
