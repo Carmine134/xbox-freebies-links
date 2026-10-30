@@ -1,5 +1,5 @@
 {
-"count": 2377,
+"count": 2380,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "DKK",
@@ -415,6 +415,11 @@
 "currency": "DKK",
 "free_since": "",
 "title": "RIDE 4 - Bonus Pack 03"
+},
+"9MWDDXS57C3T": {
+"currency": "DKK",
+"free_since": "",
+"title": "\u062c\u064f\u0645\u064f\u0639\u064e\u0629"
 },
 "9MWF2GJVQS6L": {
 "currency": "DKK",
@@ -2666,6 +2671,11 @@
 "free_since": "",
 "title": "Labyrinth-Void"
 },
+"9NCHS8Z80MMX": {
+"currency": "DKK",
+"free_since": "",
+"title": "Football Manager 27 Launch Preview"
+},
 "9NCHV19611K5": {
 "currency": "DKK",
 "free_since": "",
@@ -3571,6 +3581,11 @@
 "free_since": "",
 "title": "\u661f\u4e4b\u7ffc(Starward)"
 },
+"9NKW4T3SX98P": {
+"currency": "DKK",
+"free_since": "",
+"title": "Sker Ritual - Shrunken Head"
+},
 "9NKWBXSHNR2R": {
 "currency": "DKK",
 "free_since": "",
@@ -4471,6 +4486,11 @@
 "free_since": "",
 "title": "Tales Of Brevis: A Beast Called God"
 },
+"9NS99JM9JLM9": {
+"currency": "DKK",
+"free_since": "",
+"title": "S2Xperience"
+},
 "9NSC9NSC2LLS": {
 "currency": "DKK",
 "free_since": "",
@@ -4629,7 +4649,7 @@
 "9NTG1CG74F2L": {
 "currency": "DKK",
 "free_since": "",
-"title": "HITMAN WOA Free Demo ft. The Undying"
+"title": "HITMAN WOA Free Demo ft. The Host"
 },
 "9NTH8ZLDHJ4M": {
 "currency": "DKK",
@@ -4814,7 +4834,7 @@
 "9NVJWR50KRXX": {
 "currency": "DKK",
 "free_since": "",
-"title": "HITMAN WOA Free Demo ft. The Undying"
+"title": "HITMAN WOA Free Demo ft. The Host"
 },
 "9NVKQ49LZ6DT": {
 "currency": "DKK",
@@ -8416,11 +8436,6 @@
 "free_since": "",
 "title": "Angry Video Game Nerd 8-bit Demo"
 },
-"9PNDFZ1J8Q85": {
-"currency": "DKK",
-"free_since": "",
-"title": "NBA 2K25 International Commentary Pack"
-},
 "9PNDHL5CFP8C": {
 "currency": "DKK",
 "free_since": "",
@@ -11888,5 +11903,5 @@
 }
 },
 "market": "DK",
-"updated": "2026-10-29T07:42:04"
+"updated": "2026-10-30T07:36:18"
 }

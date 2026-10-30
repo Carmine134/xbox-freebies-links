@@ -1,5 +1,5 @@
 {
-"count": 1381,
+"count": 1385,
 "items": {
 "9MSNJ9K0K211": {
 "currency": "ISK",
@@ -335,6 +335,11 @@
 "currency": "ISK",
 "free_since": "",
 "title": "Disneyland Adventures Demo"
+},
+"9MWDDXS57C3T": {
+"currency": "ISK",
+"free_since": "",
+"title": "\u062c\u064f\u0645\u064f\u0639\u064e\u0629"
 },
 "9MWFZXGJXJ89": {
 "currency": "ISK",
@@ -2076,6 +2081,11 @@
 "free_since": "",
 "title": "Labyrinth-Void"
 },
+"9NCHS8Z80MMX": {
+"currency": "ISK",
+"free_since": "",
+"title": "Football Manager 27 Launch Preview"
+},
 "9NCHV19611K5": {
 "currency": "ISK",
 "free_since": "",
@@ -2776,6 +2786,11 @@
 "free_since": "",
 "title": "Predecessor"
 },
+"9NKW4T3SX98P": {
+"currency": "ISK",
+"free_since": "",
+"title": "Sker Ritual - Shrunken Head"
+},
 "9NKWBXSHNR2R": {
 "currency": "ISK",
 "free_since": "",
@@ -3451,6 +3466,11 @@
 "free_since": "",
 "title": "Tales Of Brevis: A Beast Called God"
 },
+"9NS99JM9JLM9": {
+"currency": "ISK",
+"free_since": "",
+"title": "S2Xperience"
+},
 "9NSC9NSC2LLS": {
 "currency": "ISK",
 "free_since": "",
@@ -3584,7 +3604,7 @@
 "9NTG1CG74F2L": {
 "currency": "ISK",
 "free_since": "",
-"title": "HITMAN WOA Free Demo ft. The Undying"
+"title": "HITMAN WOA Free Demo ft. The Host"
 },
 "9NTH8ZLDHJ4M": {
 "currency": "ISK",
@@ -6908,5 +6928,5 @@
 }
 },
 "market": "IS",
-"updated": "2026-10-29T07:22:18"
+"updated": "2026-10-30T07:19:40"
 }

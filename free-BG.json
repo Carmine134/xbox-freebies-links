@@ -1,5 +1,5 @@
 {
-"count": 1333,
+"count": 1337,
 "items": {
 "9MSNJ9K0K211": {
 "currency": "EUR",
@@ -330,6 +330,11 @@
 "currency": "EUR",
 "free_since": "",
 "title": "Disneyland Adventures Demo"
+},
+"9MWDDXS57C3T": {
+"currency": "EUR",
+"free_since": "",
+"title": "\u062c\u064f\u0645\u064f\u0639\u064e\u0629"
 },
 "9MWFZXGJXJ89": {
 "currency": "EUR",
@@ -2036,6 +2041,11 @@
 "free_since": "",
 "title": "Labyrinth-Void"
 },
+"9NCHS8Z80MMX": {
+"currency": "EUR",
+"free_since": "",
+"title": "Football Manager 27 Launch Preview"
+},
 "9NCHV19611K5": {
 "currency": "EUR",
 "free_since": "",
@@ -2716,6 +2726,11 @@
 "free_since": "",
 "title": "\u661f\u4e4b\u7ffc(Starward)"
 },
+"9NKW4T3SX98P": {
+"currency": "EUR",
+"free_since": "",
+"title": "Sker Ritual - Shrunken Head"
+},
 "9NKWBXSHNR2R": {
 "currency": "EUR",
 "free_since": "",
@@ -3366,6 +3381,11 @@
 "free_since": "",
 "title": "Tales Of Brevis: A Beast Called God"
 },
+"9NS99JM9JLM9": {
+"currency": "EUR",
+"free_since": "",
+"title": "S2Xperience"
+},
 "9NSC9NSC2LLS": {
 "currency": "EUR",
 "free_since": "",
@@ -3479,7 +3499,7 @@
 "9NTG1CG74F2L": {
 "currency": "EUR",
 "free_since": "",
-"title": "HITMAN WOA Free Demo ft. The Undying"
+"title": "HITMAN WOA Free Demo ft. The Host"
 },
 "9NTH8ZLDHJ4M": {
 "currency": "EUR",
@@ -6668,5 +6688,5 @@
 }
 },
 "market": "BG",
-"updated": "2026-10-29T07:52:21"
+"updated": "2026-10-30T07:43:08"
 }
