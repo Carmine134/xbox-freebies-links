@@ -1,5 +1,5 @@
 {
-"count": 1340,
+"count": 1341,
 "items": {
 "9MSNJ9K0K211": {
 "currency": "RON",
@@ -5616,6 +5616,11 @@
 "free_since": "",
 "title": "Infinite Survival (Land / Sea / Space) Demo"
 },
+"9PFWZRV1DLZV": {
+"currency": "RON",
+"free_since": "",
+"title": "KIBORG: Body Split"
+},
 "9PFX04J7JXNL": {
 "currency": "RON",
 "free_since": "",
@@ -6703,5 +6708,5 @@
 }
 },
 "market": "RO",
-"updated": "2026-10-30T07:39:44"
+"updated": "2026-10-31T07:47:16"
 }

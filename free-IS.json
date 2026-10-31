@@ -1,5 +1,5 @@
 {
-"count": 1385,
+"count": 1386,
 "items": {
 "9MSNJ9K0K211": {
 "currency": "ISK",
@@ -5816,6 +5816,11 @@
 "free_since": "",
 "title": "Infinite Survival (Land / Sea / Space) Demo"
 },
+"9PFWZRV1DLZV": {
+"currency": "ISK",
+"free_since": "",
+"title": "KIBORG: Body Split"
+},
 "9PFX04J7JXNL": {
 "currency": "ISK",
 "free_since": "",
@@ -6928,5 +6933,5 @@
 }
 },
 "market": "IS",
-"updated": "2026-10-30T07:19:40"
+"updated": "2026-10-31T07:20:48"
 }
