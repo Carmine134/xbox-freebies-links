@@ -5,12 +5,13 @@ these files straight from this repository and claims what you are missing.
 
 | File | What it holds |
 | --- | --- |
-| `links.json` | Store product IDs, for example `9NKXLP3BZCSL`, collected from saved TrueAchievements pages |
+| `links.json` | Store product IDs, for example `9NKXLP3BZCSL`, of things that have been free |
 | `free-<MARKET>.json` | Everything free in that store right now |
 | `newly-free-<MARKET>.json` | What turned free in the last three weeks |
 | `catalog.json`, `catalog.csv` | Prices already looked up, so nobody looks them up twice |
 
-Markets covered: US, TR, DE, GB, NO, IS, HU. No account data, and no copied forum content.
+Markets covered: US, TR, DE, GB, NO, IS, HU, PL, CZ, SE, DK, RO, BG. Product IDs and
+prices only: no account data, and nothing copied from anywhere else.
 
 ## The app
 
