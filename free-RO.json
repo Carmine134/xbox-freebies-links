@@ -1,5 +1,5 @@
 {
-"count": 1341,
+"count": 1340,
 "items": {
 "9MSNJ9K0K211": {
 "currency": "RON",
@@ -330,11 +330,6 @@
 "currency": "RON",
 "free_since": "",
 "title": "Disneyland Adventures Demo"
-},
-"9MWDDXS57C3T": {
-"currency": "RON",
-"free_since": "",
-"title": "\u062c\u064f\u0645\u064f\u0639\u064e\u0629"
 },
 "9MWFZXGJXJ89": {
 "currency": "RON",
@@ -6708,5 +6703,5 @@
 }
 },
 "market": "RO",
-"updated": "2026-10-31T07:47:16"
+"updated": "2026-11-01T08:15:00"
 }

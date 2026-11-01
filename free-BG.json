@@ -1,5 +1,5 @@
 {
-"count": 1338,
+"count": 1337,
 "items": {
 "9MSNJ9K0K211": {
 "currency": "EUR",
@@ -330,11 +330,6 @@
 "currency": "EUR",
 "free_since": "",
 "title": "Disneyland Adventures Demo"
-},
-"9MWDDXS57C3T": {
-"currency": "EUR",
-"free_since": "",
-"title": "\u062c\u064f\u0645\u064f\u0639\u064e\u0629"
 },
 "9MWFZXGJXJ89": {
 "currency": "EUR",
@@ -6693,5 +6688,5 @@
 }
 },
 "market": "BG",
-"updated": "2026-10-31T07:51:34"
+"updated": "2026-11-01T08:19:23"
 }

@@ -1,5 +1,5 @@
 {
-"count": 1386,
+"count": 1385,
 "items": {
 "9MSNJ9K0K211": {
 "currency": "ISK",
@@ -335,11 +335,6 @@
 "currency": "ISK",
 "free_since": "",
 "title": "Disneyland Adventures Demo"
-},
-"9MWDDXS57C3T": {
-"currency": "ISK",
-"free_since": "",
-"title": "\u062c\u064f\u0645\u064f\u0639\u064e\u0629"
 },
 "9MWFZXGJXJ89": {
 "currency": "ISK",
@@ -6933,5 +6928,5 @@
 }
 },
 "market": "IS",
-"updated": "2026-10-31T07:20:48"
+"updated": "2026-11-01T07:49:46"
 }
