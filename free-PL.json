@@ -1351,6 +1351,11 @@
 "free_since": "",
 "title": "Bonus Pack: A Gift from Chichae 2"
 },
+"9N3JQ89FZ4NF": {
+"currency": "PLN",
+"free_since": "2026-11-02",
+"title": "Delta Force Pack"
+},
 "9N3KJT4MHM4Z": {
 "currency": "PLN",
 "free_since": "",
@@ -5576,11 +5581,6 @@
 "free_since": "",
 "title": "Cities: Skylines - Carols, Candles and Candy (Win 10)"
 },
-"9P1ZFWTCJ30Z": {
-"currency": "PLN",
-"free_since": "",
-"title": "GRAVHOUNDS Demo"
-},
 "9P1ZPNP03MTK": {
 "currency": "PLN",
 "free_since": "",
@@ -6495,6 +6495,11 @@
 "currency": "PLN",
 "free_since": "",
 "title": "Possessions Demo"
+},
+"9P7M0LQ3JJMP": {
+"currency": "PLN",
+"free_since": "2026-11-02",
+"title": "Skull and Bones Legendary Kingpin Boost Pack"
 },
 "9P7MM9JMVST0": {
 "currency": "PLN",
@@ -8640,11 +8645,6 @@
 "currency": "PLN",
 "free_since": "",
 "title": "Dumpster Gang Demo"
-},
-"9WZDNCRCSBD1": {
-"currency": "PLN",
-"free_since": "",
-"title": "Solitaire 40 cards"
 },
 "9WZDNCRDC2BQ": {
 "currency": "PLN",
@@ -11743,5 +11743,5 @@
 }
 },
 "market": "PL",
-"updated": "2026-11-01T07:58:03"
+"updated": "2026-11-02T08:51:17"
 }

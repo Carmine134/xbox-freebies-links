@@ -1,13 +1,23 @@
 {
-"count": 1,
+"count": 3,
 "days": 21,
 "items": {
+"9N3JQ89FZ4NF": {
+"currency": "SEK",
+"free_since": "2026-11-02",
+"title": "Delta Force Pack"
+},
 "9NXDFCZ0VZJG": {
 "currency": "SEK",
 "free_since": "2026-10-23",
 "title": "Pinball FX - Williams\u2122 Pinball: Judge Dredd\u2122 Trial"
+},
+"9P7M0LQ3JJMP": {
+"currency": "SEK",
+"free_since": "2026-11-02",
+"title": "Skull and Bones Legendary Kingpin Boost Pack"
 }
 },
 "market": "SE",
-"updated": "2026-11-01T08:06:22"
+"updated": "2026-11-02T09:09:53"
 }

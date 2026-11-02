@@ -1,5 +1,5 @@
 {
-"count": 1337,
+"count": 1335,
 "items": {
 "9MSNJ9K0K211": {
 "currency": "EUR",
@@ -4201,11 +4201,6 @@
 "free_since": "",
 "title": "Cities: Skylines - Carols, Candles and Candy (Win 10)"
 },
-"9P1ZFWTCJ30Z": {
-"currency": "EUR",
-"free_since": "",
-"title": "GRAVHOUNDS Demo"
-},
 "9P22THR57FV7": {
 "currency": "EUR",
 "free_since": "",
@@ -6486,11 +6481,6 @@
 "free_since": "",
 "title": "Dumpster Gang Demo"
 },
-"9WZDNCRCSBD1": {
-"currency": "EUR",
-"free_since": "",
-"title": "Solitaire 40 cards"
-},
 "9WZDNCRDC2BQ": {
 "currency": "EUR",
 "free_since": "",
@@ -6688,5 +6678,5 @@
 }
 },
 "market": "BG",
-"updated": "2026-11-01T08:19:23"
+"updated": "2026-11-02T09:37:41"
 }
