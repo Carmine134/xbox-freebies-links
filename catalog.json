@@ -59233,6 +59233,15 @@
     "price": null,
     "title": "Peaky Blinders: Mastermind"
    },
+   "9N3JQ89FZ4NF": {
+    "checked": "2026-11-03",
+    "currency": "USD",
+    "free": true,
+    "kind": "Durable",
+    "price": 0.0,
+    "title": "Delta Force Pack",
+    "trial": false
+   },
    "9N3KBC2C62G9": {
     "checked": "2026-11-03",
     "currency": "USD",
@@ -60514,6 +60523,15 @@
     "kind": "Game",
     "price": 0.0,
     "title": "Rune Dice DEMO",
+    "trial": false
+   },
+   "9N75RXZW8PWS": {
+    "checked": "2026-11-03",
+    "currency": "USD",
+    "free": true,
+    "kind": "UnmanagedConsumable",
+    "price": 0.0,
+    "title": "World of Warships \u2014 Y\u016bbari",
     "trial": false
    },
    "9N76QGDS5GJR": {
@@ -71950,6 +71968,15 @@
     "price": null,
     "title": "Possessions Demo"
    },
+   "9P7M0LQ3JJMP": {
+    "checked": "2026-11-03",
+    "currency": "USD",
+    "free": true,
+    "kind": "Durable",
+    "price": 0.0,
+    "title": "Skull and Bones Legendary Kingpin Boost Pack",
+    "trial": false
+   },
    "9P7MM9JMVST0": {
     "checked": "2026-11-03",
     "currency": "USD",
@@ -74375,6 +74402,15 @@
     "kind": "Game",
     "price": 0.0,
     "title": "Infinite Survival (Land / Sea / Space) Demo",
+    "trial": false
+   },
+   "9PFWZRV1DLZV": {
+    "checked": "2026-11-03",
+    "currency": "USD",
+    "free": true,
+    "kind": "Durable",
+    "price": 0.0,
+    "title": "KIBORG: Body Split",
     "trial": false
    },
    "9PFX04J7JXNL": {
@@ -86243,5 +86279,5 @@
    }
   }
  },
- "updated": "2026-11-03T08:42:22"
+ "updated": "2026-11-03T16:37:36"
 }
