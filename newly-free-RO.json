@@ -1,7 +1,12 @@
 {
-"count": 1,
+"count": 2,
 "days": 21,
 "items": {
+"9N75RXZW8PWS": {
+"currency": "RON",
+"free_since": "2026-11-03",
+"title": "World of Warships \u2014 Y\u016bbari"
+},
 "9NXDFCZ0VZJG": {
 "currency": "RON",
 "free_since": "2026-10-23",
@@ -9,5 +14,5 @@
 }
 },
 "market": "RO",
-"updated": "2026-11-02T09:28:21"
+"updated": "2026-11-03T09:15:37"
 }

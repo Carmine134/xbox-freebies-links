@@ -1856,6 +1856,11 @@
 "free_since": "",
 "title": "Rune Dice DEMO"
 },
+"9N75RXZW8PWS": {
+"currency": "PLN",
+"free_since": "2026-11-03",
+"title": "World of Warships \u2014 Y\u016bbari"
+},
 "9N76QGDS5GJR": {
 "currency": "PLN",
 "free_since": "",
@@ -6490,11 +6495,6 @@
 "currency": "PLN",
 "free_since": "",
 "title": "Zaccaria Pinball"
-},
-"9P7L81STNT9D": {
-"currency": "PLN",
-"free_since": "",
-"title": "Possessions Demo"
 },
 "9P7M0LQ3JJMP": {
 "currency": "PLN",
@@ -11743,5 +11743,5 @@
 }
 },
 "market": "PL",
-"updated": "2026-11-02T08:51:17"
+"updated": "2026-11-03T08:46:53"
 }

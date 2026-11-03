@@ -1,7 +1,12 @@
 {
-"count": 4,
+"count": 5,
 "days": 21,
 "items": {
+"9N75RXZW8PWS": {
+"currency": "ISK",
+"free_since": "2026-11-03",
+"title": "World of Warships \u2014 Y\u016bbari"
+},
 "9NQHJ9K9PDKH": {
 "currency": "ISK",
 "free_since": "2026-10-21",
@@ -24,5 +29,5 @@
 }
 },
 "market": "IS",
-"updated": "2026-11-02T08:32:21"
+"updated": "2026-11-03T08:32:29"
 }
