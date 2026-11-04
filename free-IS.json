@@ -1,5 +1,5 @@
 {
-"count": 1383,
+"count": 1385,
 "items": {
 "9MSNJ9K0K211": {
 "currency": "ISK",
@@ -185,6 +185,11 @@
 "currency": "ISK",
 "free_since": "",
 "title": "SCARLET NEXUS Story Demo"
+},
+"9MV6WT911PH8": {
+"currency": "ISK",
+"free_since": "",
+"title": "K\u0131z\u0131l S\u00fcr\u00fc Zombi Temizleme"
 },
 "9MV8GBQJFLQR": {
 "currency": "ISK",
@@ -5016,6 +5021,11 @@
 "free_since": "",
 "title": "Zaccaria Pinball"
 },
+"9P7MGG8WWNMC": {
+"currency": "ISK",
+"free_since": "",
+"title": "World of Tanks Modern Armor \u2013 Star Trek Starter Pack"
+},
 "9P7NHDQPR93Q": {
 "currency": "ISK",
 "free_since": "",
@@ -6918,5 +6928,5 @@
 }
 },
 "market": "IS",
-"updated": "2026-11-03T08:32:29"
+"updated": "2026-11-04T08:12:27"
 }

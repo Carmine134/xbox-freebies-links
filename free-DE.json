@@ -1,5 +1,5 @@
 {
-"count": 2343,
+"count": 2346,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "EUR",
@@ -225,6 +225,11 @@
 "currency": "EUR",
 "free_since": "",
 "title": "SCARLET NEXUS Story Demo"
+},
+"9MV6WT911PH8": {
+"currency": "EUR",
+"free_since": "",
+"title": "K\u0131z\u0131l S\u00fcr\u00fc Zombi Temizleme"
 },
 "9MV8GBQJFLQR": {
 "currency": "EUR",
@@ -6416,6 +6421,11 @@
 "free_since": "",
 "title": "Black Flower Demo"
 },
+"9P7DBRZKHZJG": {
+"currency": "EUR",
+"free_since": "2026-11-04",
+"title": "BRIGANDINE ABYSS DEMO"
+},
 "9P7FMTRK4NQB": {
 "currency": "EUR",
 "free_since": "",
@@ -6440,6 +6450,11 @@
 "currency": "EUR",
 "free_since": "2026-11-02",
 "title": "Skull and Bones Legendary Kingpin Boost Pack"
+},
+"9P7MGG8WWNMC": {
+"currency": "EUR",
+"free_since": "",
+"title": "World of Tanks Modern Armor \u2013 Star Trek Starter Pack"
 },
 "9P7MM9JMVST0": {
 "currency": "EUR",
@@ -11718,5 +11733,5 @@
 }
 },
 "market": "DE",
-"updated": "2026-11-03T08:11:03"
+"updated": "2026-11-04T07:50:13"
 }

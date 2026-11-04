@@ -1,5 +1,5 @@
 {
-"count": 2435,
+"count": 2437,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "NOK",
@@ -230,6 +230,11 @@
 "currency": "NOK",
 "free_since": "",
 "title": "SCARLET NEXUS Story Demo"
+},
+"9MV6WT911PH8": {
+"currency": "NOK",
+"free_since": "",
+"title": "K\u0131z\u0131l S\u00fcr\u00fc Zombi Temizleme"
 },
 "9MV8GBQJFLQR": {
 "currency": "NOK",
@@ -6686,6 +6691,11 @@
 "free_since": "2026-11-02",
 "title": "Skull and Bones Legendary Kingpin Boost Pack"
 },
+"9P7MGG8WWNMC": {
+"currency": "NOK",
+"free_since": "",
+"title": "World of Tanks Modern Armor \u2013 Star Trek Starter Pack"
+},
 "9P7MM9JMVST0": {
 "currency": "NOK",
 "free_since": "",
@@ -12178,5 +12188,5 @@
 }
 },
 "market": "NO",
-"updated": "2026-11-03T08:25:20"
+"updated": "2026-11-04T08:05:08"
 }

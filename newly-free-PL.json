@@ -1,5 +1,5 @@
 {
-"count": 4,
+"count": 5,
 "days": 21,
 "items": {
 "9N3JQ89FZ4NF": {
@@ -17,6 +17,11 @@
 "free_since": "2026-10-23",
 "title": "Pinball FX - Williams\u2122 Pinball: Judge Dredd\u2122 Trial"
 },
+"9P7DBRZKHZJG": {
+"currency": "PLN",
+"free_since": "2026-11-04",
+"title": "BRIGANDINE ABYSS DEMO"
+},
 "9P7M0LQ3JJMP": {
 "currency": "PLN",
 "free_since": "2026-11-02",
@@ -24,5 +29,5 @@
 }
 },
 "market": "PL",
-"updated": "2026-11-03T08:46:53"
+"updated": "2026-11-04T08:27:25"
 }
