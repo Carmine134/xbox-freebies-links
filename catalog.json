@@ -67255,6 +67255,15 @@
     "title": "Rising Hell Demo",
     "trial": false
    },
+   "9NSSCL0J0HDR": {
+    "checked": "2026-11-05",
+    "currency": "USD",
+    "free": true,
+    "kind": "Durable",
+    "price": 0.0,
+    "title": "Ready or Not: Aftermath Set",
+    "trial": false
+   },
    "9NSSDJRBX2HD": {
     "checked": "2026-11-05",
     "currency": "USD",
@@ -67888,6 +67897,15 @@
     "kind": "Game",
     "price": 0.0,
     "title": "Game of 24",
+    "trial": false
+   },
+   "9NVGGL61DHL7": {
+    "checked": "2026-11-05",
+    "currency": "USD",
+    "free": true,
+    "kind": "Game",
+    "price": 0.0,
+    "title": "Terra Strike 3D",
     "trial": false
    },
    "9NVGT0JM1BSZ": {
@@ -71293,6 +71311,15 @@
     "price": 0.0,
     "title": "The Isle Tide Hotel Demo",
     "trial": false
+   },
+   "9P5NCRMGRRXR": {
+    "checked": "2026-11-05",
+    "currency": "USD",
+    "free": true,
+    "kind": "Game",
+    "price": 0.0,
+    "title": "Starlit World",
+    "trial": true
    },
    "9P5NGB572M43": {
     "checked": "2026-11-05",
@@ -86297,5 +86324,5 @@
    }
   }
  },
- "updated": "2026-11-05T08:38:09"
+ "updated": "2026-11-05T11:05:43"
 }
