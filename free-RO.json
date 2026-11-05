@@ -1,5 +1,5 @@
 {
-"count": 1341,
+"count": 1344,
 "items": {
 "9MSNJ9K0K211": {
 "currency": "RON",
@@ -3431,6 +3431,11 @@
 "free_since": "",
 "title": "Rising Hell Demo"
 },
+"9NSSCL0J0HDR": {
+"currency": "RON",
+"free_since": "",
+"title": "Ready or Not: Aftermath Set"
+},
 "9NSTB900VCND": {
 "currency": "RON",
 "free_since": "",
@@ -3620,6 +3625,11 @@
 "currency": "RON",
 "free_since": "",
 "title": "Game of 24"
+},
+"9NVGGL61DHL7": {
+"currency": "RON",
+"free_since": "",
+"title": "Terra Strike 3D"
 },
 "9NVGT0JM1BSZ": {
 "currency": "RON",
@@ -4675,6 +4685,11 @@
 "currency": "RON",
 "free_since": "",
 "title": "The Isle Tide Hotel Demo"
+},
+"9P5NCRMGRRXR": {
+"currency": "RON",
+"free_since": "",
+"title": "Starlit World"
 },
 "9P5P4G0LLSSB": {
 "currency": "RON",
@@ -6708,5 +6723,5 @@
 }
 },
 "market": "RO",
-"updated": "2026-11-04T08:57:24"
+"updated": "2026-11-05T09:16:44"
 }
