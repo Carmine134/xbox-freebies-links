@@ -1,5 +1,5 @@
 {
-"count": 1344,
+"count": 1345,
 "items": {
 "9MSNJ9K0K211": {
 "currency": "RON",
@@ -3345,6 +3345,11 @@
 "currency": "RON",
 "free_since": "",
 "title": "The Dark Zone 3D Demo"
+},
+"9NRS91MNQKM0": {
+"currency": "RON",
+"free_since": "",
+"title": "Leap to the Top+"
 },
 "9NRXP0180PW5": {
 "currency": "RON",
@@ -6723,5 +6728,5 @@
 }
 },
 "market": "RO",
-"updated": "2026-11-05T09:16:44"
+"updated": "2026-11-06T08:29:57"
 }

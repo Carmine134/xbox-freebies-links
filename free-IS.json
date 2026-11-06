@@ -1,5 +1,5 @@
 {
-"count": 1388,
+"count": 1389,
 "items": {
 "9MSNJ9K0K211": {
 "currency": "ISK",
@@ -3425,6 +3425,11 @@
 "currency": "ISK",
 "free_since": "",
 "title": "The Dark Zone 3D Demo"
+},
+"9NRS91MNQKM0": {
+"currency": "ISK",
+"free_since": "",
+"title": "Leap to the Top+"
 },
 "9NRXP0180PW5": {
 "currency": "ISK",
@@ -6943,5 +6948,5 @@
 }
 },
 "market": "IS",
-"updated": "2026-11-05T08:34:06"
+"updated": "2026-11-06T08:10:47"
 }

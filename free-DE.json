@@ -1,5 +1,5 @@
 {
-"count": 2349,
+"count": 2350,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "EUR",
@@ -4365,6 +4365,11 @@
 "currency": "EUR",
 "free_since": "",
 "title": "The Dark Zone 3D Demo"
+},
+"9NRS91MNQKM0": {
+"currency": "EUR",
+"free_since": "",
+"title": "Leap to the Top+"
 },
 "9NRVX3HMSGLS": {
 "currency": "EUR",
@@ -11748,5 +11753,5 @@
 }
 },
 "market": "DE",
-"updated": "2026-11-05T08:13:13"
+"updated": "2026-11-06T08:01:16"
 }

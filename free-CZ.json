@@ -1,5 +1,5 @@
 {
-"count": 2342,
+"count": 2343,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "CZK",
@@ -4415,6 +4415,11 @@
 "currency": "CZK",
 "free_since": "",
 "title": "The Dark Zone 3D Demo"
+},
+"9NRS91MNQKM0": {
+"currency": "CZK",
+"free_since": "",
+"title": "Leap to the Top+"
 },
 "9NRVX3HMSGLS": {
 "currency": "CZK",
@@ -11713,5 +11718,5 @@
 }
 },
 "market": "CZ",
-"updated": "2026-11-05T08:55:33"
+"updated": "2026-11-06T08:20:29"
 }
