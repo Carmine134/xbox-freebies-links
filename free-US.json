@@ -1,5 +1,5 @@
 {
-"count": 2548,
+"count": 2554,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "USD",
@@ -920,6 +920,11 @@
 "currency": "USD",
 "free_since": "",
 "title": "Stampede: Racing Royale (Game Preview)"
+},
+"9N05L1W9319F": {
+"currency": "USD",
+"free_since": "",
+"title": "Bus Stop Shuffle: Rush Hour"
 },
 "9N05LVMJ9V2Q": {
 "currency": "USD",
@@ -2536,6 +2541,11 @@
 "free_since": "",
 "title": "Onimusha 2: Samurai's Destiny Demo"
 },
+"9NBDSV9M33HC": {
+"currency": "USD",
+"free_since": "",
+"title": "Hell of Fear: Mind Breach Demo"
+},
 "9NBF9G1VB0QN": {
 "currency": "USD",
 "free_since": "",
@@ -2840,6 +2850,11 @@
 "currency": "USD",
 "free_since": "",
 "title": "Forspoken Demo"
+},
+"9NCGFXW057GN": {
+"currency": "USD",
+"free_since": "",
+"title": "Bus Stop Shuffle: Rush Hour"
 },
 "9NCGH8FSVD7W": {
 "currency": "USD",
@@ -3725,6 +3740,11 @@
 "currency": "USD",
 "free_since": "",
 "title": "Mayor Quest"
+},
+"9NK6Q4T0K20X": {
+"currency": "USD",
+"free_since": "",
+"title": "Bus Stop Shuffle: Rush Hour"
 },
 "9NK794N518K2": {
 "currency": "USD",
@@ -4960,6 +4980,11 @@
 "currency": "USD",
 "free_since": "",
 "title": "Metro Racer"
+},
+"9NT38J2PGJLR": {
+"currency": "USD",
+"free_since": "",
+"title": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - DMZ Free Trial"
 },
 "9NT3C9NBSDDK": {
 "currency": "USD",
@@ -8715,6 +8740,11 @@
 "currency": "USD",
 "free_since": "",
 "title": "ARK: Ragnarok Ascended"
+},
+"9PL3KW681MSD": {
+"currency": "USD",
+"free_since": "",
+"title": "007 First Light - Free Starter Pack"
 },
 "9PL5KBQ1SV5V": {
 "currency": "USD",
@@ -12743,5 +12773,5 @@
 }
 },
 "market": "US",
-"updated": "2026-11-06T07:55:01"
+"updated": "2026-11-07T07:04:47"
 }

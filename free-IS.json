@@ -1,5 +1,5 @@
 {
-"count": 1389,
+"count": 1395,
 "items": {
 "9MSNJ9K0K211": {
 "currency": "ISK",
@@ -655,6 +655,11 @@
 "currency": "ISK",
 "free_since": "",
 "title": "Stampede: Racing Royale (Game Preview)"
+},
+"9N05L1W9319F": {
+"currency": "ISK",
+"free_since": "",
+"title": "Bus Stop Shuffle: Rush Hour"
 },
 "9N05LVMJ9V2Q": {
 "currency": "ISK",
@@ -1831,6 +1836,11 @@
 "free_since": "",
 "title": "Cannon Man 2"
 },
+"9NBDSV9M33HC": {
+"currency": "ISK",
+"free_since": "",
+"title": "Hell of Fear: Mind Breach Demo"
+},
 "9NBGFDNPV82R": {
 "currency": "ISK",
 "free_since": "",
@@ -2080,6 +2090,11 @@
 "currency": "ISK",
 "free_since": "",
 "title": "Forspoken Demo"
+},
+"9NCGFXW057GN": {
+"currency": "ISK",
+"free_since": "",
+"title": "Bus Stop Shuffle: Rush Hour"
 },
 "9NCGH8FSVD7W": {
 "currency": "ISK",
@@ -2695,6 +2710,11 @@
 "currency": "ISK",
 "free_since": "",
 "title": "ONE PIECE: PIRATE WARRIORS 4 Nami Costume \"Onami\""
+},
+"9NK6Q4T0K20X": {
+"currency": "ISK",
+"free_since": "",
+"title": "Bus Stop Shuffle: Rush Hour"
 },
 "9NK794N518K2": {
 "currency": "ISK",
@@ -3555,6 +3575,11 @@
 "currency": "ISK",
 "free_since": "",
 "title": "Metro Racer"
+},
+"9NT38J2PGJLR": {
+"currency": "ISK",
+"free_since": "",
+"title": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - DMZ Free Trial"
 },
 "9NT3C9NBSDDK": {
 "currency": "ISK",
@@ -6271,6 +6296,11 @@
 "free_since": "",
 "title": "ARK: Ragnarok Ascended"
 },
+"9PL3KW681MSD": {
+"currency": "ISK",
+"free_since": "",
+"title": "007 First Light - Free Starter Pack"
+},
 "9PL5KBQ1SV5V": {
 "currency": "ISK",
 "free_since": "",
@@ -6948,5 +6978,5 @@
 }
 },
 "market": "IS",
-"updated": "2026-11-06T08:10:47"
+"updated": "2026-11-07T07:20:36"
 }

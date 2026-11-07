@@ -1,5 +1,5 @@
 {
-"count": 1345,
+"count": 1351,
 "items": {
 "9MSNJ9K0K211": {
 "currency": "RON",
@@ -655,6 +655,11 @@
 "currency": "RON",
 "free_since": "",
 "title": "Stampede: Racing Royale (Game Preview)"
+},
+"9N05L1W9319F": {
+"currency": "RON",
+"free_since": "",
+"title": "Bus Stop Shuffle: Rush Hour"
 },
 "9N05LVMJ9V2Q": {
 "currency": "RON",
@@ -1796,6 +1801,11 @@
 "free_since": "",
 "title": "Zombie Army 4: Season Pass One"
 },
+"9NBDSV9M33HC": {
+"currency": "RON",
+"free_since": "",
+"title": "Hell of Fear: Mind Breach Demo"
+},
 "9NBGFDNPV82R": {
 "currency": "RON",
 "free_since": "",
@@ -2040,6 +2050,11 @@
 "currency": "RON",
 "free_since": "",
 "title": "Forspoken Demo"
+},
+"9NCGFXW057GN": {
+"currency": "RON",
+"free_since": "",
+"title": "Bus Stop Shuffle: Rush Hour"
 },
 "9NCGH8FSVD7W": {
 "currency": "RON",
@@ -2640,6 +2655,11 @@
 "currency": "RON",
 "free_since": "",
 "title": "ONE PIECE: PIRATE WARRIORS 4 Nami Costume \"Onami\""
+},
+"9NK6Q4T0K20X": {
+"currency": "RON",
+"free_since": "",
+"title": "Bus Stop Shuffle: Rush Hour"
 },
 "9NK794N518K2": {
 "currency": "RON",
@@ -3455,6 +3475,11 @@
 "currency": "RON",
 "free_since": "",
 "title": "eFootball\u2122"
+},
+"9NT38J2PGJLR": {
+"currency": "RON",
+"free_since": "",
+"title": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - DMZ Free Trial"
 },
 "9NT3C9NBSDDK": {
 "currency": "RON",
@@ -6071,6 +6096,11 @@
 "free_since": "",
 "title": "ARK: Ragnarok Ascended"
 },
+"9PL3KW681MSD": {
+"currency": "RON",
+"free_since": "",
+"title": "007 First Light - Free Starter Pack"
+},
 "9PL5KBQ1SV5V": {
 "currency": "RON",
 "free_since": "",
@@ -6728,5 +6758,5 @@
 }
 },
 "market": "RO",
-"updated": "2026-11-06T08:29:57"
+"updated": "2026-11-07T07:39:20"
 }
