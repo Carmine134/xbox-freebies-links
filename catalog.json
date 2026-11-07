@@ -66902,6 +66902,16 @@
     "title": "The Dark Zone 3D Demo",
     "trial": false
    },
+   "9NRS91MNQKM0": {
+    "achievements": false,
+    "checked": "2026-11-07",
+    "currency": "USD",
+    "free": true,
+    "kind": "Game",
+    "price": 0.0,
+    "title": "Leap to the Top+",
+    "trial": false
+   },
    "9NRSDSQMPCGR": {
     "checked": "2026-11-06",
     "currency": "",
@@ -86324,5 +86334,5 @@
    }
   }
  },
- "updated": "2026-11-06T08:37:12"
+ "updated": "2026-11-07T04:03:49"
 }
