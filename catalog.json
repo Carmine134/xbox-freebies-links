@@ -58076,6 +58076,16 @@
     "price": null,
     "title": "Knockout City\u2122"
    },
+   "9N05L1W9319F": {
+    "achievements": false,
+    "checked": "2026-11-08",
+    "currency": "USD",
+    "free": true,
+    "kind": "Durable",
+    "price": 0.0,
+    "title": "Bus Stop Shuffle: Rush Hour",
+    "trial": false
+   },
    "9N05LVMJ9V2Q": {
     "checked": "2026-10-09",
     "currency": "USD",
@@ -61738,6 +61748,16 @@
     "price": 0.0,
     "title": "VR Bonus Level 2"
    },
+   "9NBDSV9M33HC": {
+    "achievements": false,
+    "checked": "2026-11-08",
+    "currency": "USD",
+    "free": true,
+    "kind": "Game",
+    "price": 0.0,
+    "title": "Hell of Fear: Mind Breach Demo",
+    "trial": false
+   },
    "9NBF9G1VB0QN": {
     "checked": "2026-11-07",
     "currency": "USD",
@@ -62344,6 +62364,16 @@
     "kind": "Game",
     "price": 0.0,
     "title": "DRAGON BALL Z: KAKAROT Demo Version",
+    "trial": false
+   },
+   "9NCGFXW057GN": {
+    "achievements": false,
+    "checked": "2026-11-08",
+    "currency": "USD",
+    "free": true,
+    "kind": "Durable",
+    "price": 0.0,
+    "title": "Bus Stop Shuffle: Rush Hour",
     "trial": false
    },
    "9NCGH8FSVD7W": {
@@ -64497,6 +64527,16 @@
     "kind": "Game",
     "price": 0.0,
     "title": "Mayor Quest",
+    "trial": false
+   },
+   "9NK6Q4T0K20X": {
+    "achievements": false,
+    "checked": "2026-11-08",
+    "currency": "USD",
+    "free": true,
+    "kind": "Durable",
+    "price": 0.0,
+    "title": "Bus Stop Shuffle: Rush Hour",
     "trial": false
    },
    "9NK71391WTNJ": {
@@ -67363,6 +67403,16 @@
     "kind": "Game",
     "price": 0.0,
     "title": "Metro Racer",
+    "trial": false
+   },
+   "9NT38J2PGJLR": {
+    "achievements": false,
+    "checked": "2026-11-08",
+    "currency": "USD",
+    "free": true,
+    "kind": "Game",
+    "price": 0.0,
+    "title": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - DMZ Free Trial",
     "trial": false
    },
    "9NT3C9NBSDDK": {
@@ -75962,6 +76012,16 @@
     "kind": "Game",
     "price": 9.99,
     "title": "Rubber Bandits"
+   },
+   "9PL3KW681MSD": {
+    "achievements": false,
+    "checked": "2026-11-08",
+    "currency": "USD",
+    "free": true,
+    "kind": "Game",
+    "price": 0.0,
+    "title": "007 First Light - Free Starter Pack",
+    "trial": false
    },
    "9PL5KBQ1SV5V": {
     "checked": "2026-10-25",
@@ -86334,5 +86394,5 @@
    }
   }
  },
- "updated": "2026-11-07T07:53:26"
+ "updated": "2026-11-08T04:08:35"
 }
