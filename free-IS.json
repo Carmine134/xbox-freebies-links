@@ -1,5 +1,5 @@
 {
-"count": 1395,
+"count": 1394,
 "items": {
 "9MSNJ9K0K211": {
 "currency": "ISK",
@@ -1560,11 +1560,6 @@
 "currency": "ISK",
 "free_since": "",
 "title": "Eternal Card Game"
-},
-"9N7SDDZ3ZW32": {
-"currency": "ISK",
-"free_since": "",
-"title": "Proto Cuckoo 64"
 },
 "9N7TQTGQV6Z6": {
 "currency": "ISK",
@@ -6978,5 +6973,5 @@
 }
 },
 "market": "IS",
-"updated": "2026-11-08T07:57:05"
+"updated": "2026-11-09T08:10:35"
 }
