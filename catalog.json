@@ -71405,6 +71405,16 @@
     "price": 0.0,
     "title": "Plague Doctor Pack"
    },
+   "9P5PS3RBZCWG": {
+    "achievements": false,
+    "checked": "2026-11-11",
+    "currency": "USD",
+    "free": true,
+    "kind": "Durable",
+    "price": 0.0,
+    "title": "World of Tanks Modern Armor \u2013 Dune: Part Three Starter Pack",
+    "trial": false
+   },
    "9P5QSZ29XNP6": {
     "checked": "2026-10-21",
     "currency": "USD",
@@ -72811,6 +72821,16 @@
     "price": 0.0,
     "title": "Lonely Mountains: Downhill - Rivera's Revenge"
    },
+   "9P9G6FMBSDHB": {
+    "achievements": false,
+    "checked": "2026-11-11",
+    "currency": "USD",
+    "free": true,
+    "kind": "Game",
+    "price": 0.0,
+    "title": "Football Manager 27 Demo",
+    "trial": false
+   },
    "9P9GH5L54WL7": {
     "checked": "2026-11-11",
     "currency": "",
@@ -73459,6 +73479,16 @@
     "kind": "Durable",
     "price": 0.0,
     "title": "Truck Driver - Hidden Places & Damage System DLC"
+   },
+   "9PC55H0K71RF": {
+    "achievements": true,
+    "checked": "2026-11-11",
+    "currency": "USD",
+    "free": true,
+    "kind": "Game",
+    "price": 0.0,
+    "title": "Throne and Liberty",
+    "trial": false
    },
    "9PC5KKHSMCT5": {
     "checked": "2026-11-11",
@@ -86394,5 +86424,5 @@
    }
   }
  },
- "updated": "2026-11-11T08:30:40"
+ "updated": "2026-11-11T12:35:41"
 }
