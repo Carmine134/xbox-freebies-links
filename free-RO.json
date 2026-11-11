@@ -1,5 +1,5 @@
 {
-"count": 1350,
+"count": 1352,
 "items": {
 "9MSNJ9K0K211": {
 "currency": "RON",
@@ -415,11 +415,6 @@
 "currency": "RON",
 "free_since": "",
 "title": "DPS IDLE 2 (Xbox One)"
-},
-"9MWWJQLQ590G": {
-"currency": "RON",
-"free_since": "",
-"title": "Throne and Liberty AGS"
 },
 "9MX224383QR0": {
 "currency": "RON",
@@ -4721,6 +4716,11 @@
 "free_since": "",
 "title": "Plague Doctor Pack"
 },
+"9P5PS3RBZCWG": {
+"currency": "RON",
+"free_since": "",
+"title": "World of Tanks Modern Armor \u2013 Dune: Part Three Starter Pack"
+},
 "9P5QSZ29XNP6": {
 "currency": "RON",
 "free_since": "",
@@ -5156,6 +5156,11 @@
 "free_since": "",
 "title": "Lonely Mountains: Downhill - Rivera's Revenge"
 },
+"9P9G6FMBSDHB": {
+"currency": "RON",
+"free_since": "",
+"title": "Football Manager 27 Demo"
+},
 "9P9H0GBM12QN": {
 "currency": "RON",
 "free_since": "",
@@ -5340,6 +5345,11 @@
 "currency": "RON",
 "free_since": "",
 "title": "Truck Driver - Hidden Places & Damage System DLC"
+},
+"9PC55H0K71RF": {
+"currency": "RON",
+"free_since": "",
+"title": "Throne and Liberty"
 },
 "9PC61Q244Z4Z": {
 "currency": "RON",
@@ -6753,5 +6763,5 @@
 }
 },
 "market": "RO",
-"updated": "2026-11-10T08:57:23"
+"updated": "2026-11-11T09:06:10"
 }

@@ -1,5 +1,5 @@
 {
-"count": 2446,
+"count": 2448,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "NOK",
@@ -530,11 +530,6 @@
 "currency": "NOK",
 "free_since": "",
 "title": "DPS IDLE 2 (Xbox One)"
-},
-"9MWWJQLQ590G": {
-"currency": "NOK",
-"free_since": "",
-"title": "Throne and Liberty AGS"
 },
 "9MWX64PH5DT1": {
 "currency": "NOK",
@@ -6451,6 +6446,11 @@
 "free_since": "",
 "title": "Plague Doctor Pack"
 },
+"9P5PS3RBZCWG": {
+"currency": "NOK",
+"free_since": "",
+"title": "World of Tanks Modern Armor \u2013 Dune: Part Three Starter Pack"
+},
 "9P5QSZ29XNP6": {
 "currency": "NOK",
 "free_since": "",
@@ -7041,6 +7041,11 @@
 "free_since": "",
 "title": "Lonely Mountains: Downhill - Rivera's Revenge"
 },
+"9P9G6FMBSDHB": {
+"currency": "NOK",
+"free_since": "",
+"title": "Football Manager 27 Demo"
+},
 "9P9H0GBM12QN": {
 "currency": "NOK",
 "free_since": "",
@@ -7310,6 +7315,11 @@
 "currency": "NOK",
 "free_since": "",
 "title": "Truck Driver - Hidden Places & Damage System DLC"
+},
+"9PC55H0K71RF": {
+"currency": "NOK",
+"free_since": "",
+"title": "Throne and Liberty"
 },
 "9PC5KKHSMCT5": {
 "currency": "NOK",
@@ -12233,5 +12243,5 @@
 }
 },
 "market": "NO",
-"updated": "2026-11-10T08:35:10"
+"updated": "2026-11-11T08:16:42"
 }
