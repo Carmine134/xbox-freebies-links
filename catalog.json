@@ -63670,6 +63670,16 @@
     "price": 0.0,
     "title": "Neverwinter - Moondancer\u2019s Hero Pack"
    },
+   "9NGQ11Q6T3R1": {
+    "achievements": false,
+    "checked": "2026-11-12",
+    "currency": "USD",
+    "free": true,
+    "kind": "Game",
+    "price": 0.0,
+    "title": "Clive Barker's Hellraiser: Revival Demo",
+    "trial": false
+   },
    "9NGQ2KTL8RHH": {
     "checked": "2026-11-12",
     "currency": "USD",
@@ -83939,7 +83949,8 @@
     "free": true,
     "kind": "Game",
     "price": 0.0,
-    "title": "Slime Rancher"
+    "title": "Slime Rancher",
+    "trial": false
    },
    "C2NTHPFBM94W": {
     "checked": "2026-11-12",
@@ -86424,5 +86435,5 @@
    }
   }
  },
- "updated": "2026-11-12T08:56:24"
+ "updated": "2026-11-12T12:05:01"
 }
