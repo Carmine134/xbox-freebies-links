@@ -1,5 +1,5 @@
 {
-"count": 2357,
+"count": 2358,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "EUR",
@@ -3135,6 +3135,11 @@
 "currency": "EUR",
 "free_since": "",
 "title": "Neverwinter - Moondancer\u2019s Hero Pack"
+},
+"9NGQ11Q6T3R1": {
+"currency": "EUR",
+"free_since": "",
+"title": "Clive Barker's Hellraiser: Revival Demo"
 },
 "9NGQ8GZGLZ6Q": {
 "currency": "EUR",
@@ -11788,5 +11793,5 @@
 }
 },
 "market": "DE",
-"updated": "2026-11-11T08:02:44"
+"updated": "2026-11-12T08:21:17"
 }
