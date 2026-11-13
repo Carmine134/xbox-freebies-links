@@ -1,5 +1,5 @@
 {
-"count": 1397,
+"count": 1399,
 "items": {
 "9MSNJ9K0K211": {
 "currency": "ISK",
@@ -3081,6 +3081,11 @@
 "free_since": "",
 "title": "Funko Fusion - Trap Jaw"
 },
+"9NNSS44TRMTW": {
+"currency": "ISK",
+"free_since": "",
+"title": "Bus Simulator 27 - BYD Bus Pack"
+},
 "9NNTCV79TLS5": {
 "currency": "ISK",
 "free_since": "",
@@ -3590,6 +3595,11 @@
 "currency": "ISK",
 "free_since": "",
 "title": "To the Moon and Beyond"
+},
+"9NT5Z9B7TQG9": {
+"currency": "ISK",
+"free_since": "2026-11-13",
+"title": "QUTAS67 - Qubic Ultimate Tap Adventure Simulator 2067"
 },
 "9NT6LR082GJV": {
 "currency": "ISK",
@@ -6988,5 +6998,5 @@
 }
 },
 "market": "IS",
-"updated": "2026-11-12T08:29:51"
+"updated": "2026-11-13T08:34:33"
 }

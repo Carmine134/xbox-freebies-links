@@ -1,5 +1,5 @@
 {
-"count": 5,
+"count": 6,
 "days": 21,
 "items": {
 "9N3JQ89FZ4NF": {
@@ -11,6 +11,11 @@
 "currency": "SEK",
 "free_since": "2026-11-03",
 "title": "World of Warships \u2014 Y\u016bbari"
+},
+"9NT5Z9B7TQG9": {
+"currency": "SEK",
+"free_since": "2026-11-13",
+"title": "QUTAS67 - Qubic Ultimate Tap Adventure Simulator 2067"
 },
 "9NXDFCZ0VZJG": {
 "currency": "SEK",
@@ -29,5 +34,5 @@
 }
 },
 "market": "SE",
-"updated": "2026-11-12T08:41:25"
+"updated": "2026-11-13T09:02:40"
 }

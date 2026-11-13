@@ -1,5 +1,5 @@
 {
-"count": 2358,
+"count": 2360,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "EUR",
@@ -3936,6 +3936,11 @@
 "free_since": "",
 "title": "Funko Fusion - Trap Jaw"
 },
+"9NNSS44TRMTW": {
+"currency": "EUR",
+"free_since": "",
+"title": "Bus Simulator 27 - BYD Bus Pack"
+},
 "9NNTCV79TLS5": {
 "currency": "EUR",
 "free_since": "",
@@ -4560,6 +4565,11 @@
 "currency": "EUR",
 "free_since": "",
 "title": "Pixel Skater Demo"
+},
+"9NT5Z9B7TQG9": {
+"currency": "EUR",
+"free_since": "2026-11-13",
+"title": "QUTAS67 - Qubic Ultimate Tap Adventure Simulator 2067"
 },
 "9NT6LR082GJV": {
 "currency": "EUR",
@@ -11793,5 +11803,5 @@
 }
 },
 "market": "DE",
-"updated": "2026-11-12T08:21:17"
+"updated": "2026-11-13T08:09:43"
 }

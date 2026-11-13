@@ -1,11 +1,16 @@
 {
-"count": 2,
+"count": 3,
 "days": 21,
 "items": {
 "9N75RXZW8PWS": {
 "currency": "ISK",
 "free_since": "2026-11-03",
 "title": "World of Warships \u2014 Y\u016bbari"
+},
+"9NT5Z9B7TQG9": {
+"currency": "ISK",
+"free_since": "2026-11-13",
+"title": "QUTAS67 - Qubic Ultimate Tap Adventure Simulator 2067"
 },
 "9NXDFCZ0VZJG": {
 "currency": "ISK",
@@ -14,5 +19,5 @@
 }
 },
 "market": "IS",
-"updated": "2026-11-12T08:29:51"
+"updated": "2026-11-13T08:34:33"
 }
