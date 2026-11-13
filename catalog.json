@@ -65723,6 +65723,16 @@
     "price": 0.0,
     "title": "Funko Fusion - Trap Jaw"
    },
+   "9NNSS44TRMTW": {
+    "achievements": false,
+    "checked": "2026-11-13",
+    "currency": "USD",
+    "free": true,
+    "kind": "Durable",
+    "price": 0.0,
+    "title": "Bus Simulator 27 - BYD Bus Pack",
+    "trial": false
+   },
    "9NNTCV79TLS5": {
     "checked": "2026-11-13",
     "currency": "USD",
@@ -67483,6 +67493,16 @@
     "kind": "Game",
     "price": null,
     "title": "The Jackbox Party Pack 11 Demo"
+   },
+   "9NT5Z9B7TQG9": {
+    "achievements": true,
+    "checked": "2026-11-13",
+    "currency": "USD",
+    "free": true,
+    "kind": "Game",
+    "price": 0.0,
+    "title": "QUTAS67 - Qubic Ultimate Tap Adventure Simulator 2067",
+    "trial": false
    },
    "9NT6B13CQ7R9": {
     "checked": "2026-11-13",
@@ -76527,7 +76547,8 @@
     "trial": false
    },
    "9PMKVFQWZR2Q": {
-    "checked": "2026-11-04",
+    "achievements": false,
+    "checked": "2026-11-13",
     "currency": "USD",
     "free": true,
     "kind": "Game",
@@ -86434,5 +86455,5 @@
    }
   }
  },
- "updated": "2026-11-13T08:53:09"
+ "updated": "2026-11-13T12:05:48"
 }
