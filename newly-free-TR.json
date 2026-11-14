@@ -1,5 +1,5 @@
 {
-"count": 5,
+"count": 4,
 "days": 21,
 "items": {
 "9N3JQ89FZ4NF": {
@@ -17,11 +17,6 @@
 "free_since": "2026-11-13",
 "title": "QUTAS67 - Qubic Ultimate Tap Adventure Simulator 2067"
 },
-"9NXDFCZ0VZJG": {
-"currency": "TRY",
-"free_since": "2026-10-23",
-"title": "Pinball FX - Williams\u2122 Pinball: Judge Dredd\u2122 Trial"
-},
 "9P7M0LQ3JJMP": {
 "currency": "TRY",
 "free_since": "2026-11-02",
@@ -29,5 +24,5 @@
 }
 },
 "market": "TR",
-"updated": "2026-11-13T08:02:11"
+"updated": "2026-11-14T07:42:42"
 }
