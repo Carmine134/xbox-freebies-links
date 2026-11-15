@@ -1,5 +1,5 @@
 {
-"count": 1355,
+"count": 1356,
 "items": {
 "9MSNJ9K0K211": {
 "currency": "RON",
@@ -610,6 +610,11 @@
 "currency": "RON",
 "free_since": "",
 "title": "\u63a5\u661f\u661f"
+},
+"9MZZMK67WPFZ": {
+"currency": "RON",
+"free_since": "2026-11-15",
+"title": "SuperMarket Manager Simulator"
 },
 "9N007M534N8N": {
 "currency": "RON",
@@ -6778,5 +6783,5 @@
 }
 },
 "market": "RO",
-"updated": "2026-11-14T08:36:27"
+"updated": "2026-11-15T08:31:47"
 }

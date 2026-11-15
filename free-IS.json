@@ -1,5 +1,5 @@
 {
-"count": 1399,
+"count": 1400,
 "items": {
 "9MSNJ9K0K211": {
 "currency": "ISK",
@@ -610,6 +610,11 @@
 "currency": "ISK",
 "free_since": "",
 "title": "\u63a5\u661f\u661f"
+},
+"9MZZMK67WPFZ": {
+"currency": "ISK",
+"free_since": "2026-11-15",
+"title": "SuperMarket Manager Simulator"
 },
 "9N007M534N8N": {
 "currency": "ISK",
@@ -6998,5 +7003,5 @@
 }
 },
 "market": "IS",
-"updated": "2026-11-14T08:04:01"
+"updated": "2026-11-15T08:08:29"
 }

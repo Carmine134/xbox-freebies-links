@@ -1,5 +1,5 @@
 {
-"count": 2558,
+"count": 2559,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "USD",
@@ -865,6 +865,11 @@
 "currency": "USD",
 "free_since": "",
 "title": "\u63a5\u661f\u661f"
+},
+"9MZZMK67WPFZ": {
+"currency": "USD",
+"free_since": "2026-11-15",
+"title": "SuperMarket Manager Simulator"
 },
 "9MZZQB1JKJ0G": {
 "currency": "USD",
@@ -12793,5 +12798,5 @@
 }
 },
 "market": "US",
-"updated": "2026-11-14T07:37:29"
+"updated": "2026-11-15T07:50:01"
 }

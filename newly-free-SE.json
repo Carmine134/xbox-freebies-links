@@ -1,7 +1,12 @@
 {
-"count": 5,
+"count": 6,
 "days": 21,
 "items": {
+"9MZZMK67WPFZ": {
+"currency": "SEK",
+"free_since": "2026-11-15",
+"title": "SuperMarket Manager Simulator"
+},
 "9N3JQ89FZ4NF": {
 "currency": "SEK",
 "free_since": "2026-11-02",
@@ -29,5 +34,5 @@
 }
 },
 "market": "SE",
-"updated": "2026-11-14T08:25:43"
+"updated": "2026-11-15T08:24:27"
 }

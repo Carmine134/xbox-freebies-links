@@ -1,5 +1,5 @@
 {
-"count": 1352,
+"count": 1353,
 "items": {
 "9MSNJ9K0K211": {
 "currency": "EUR",
@@ -610,6 +610,11 @@
 "currency": "EUR",
 "free_since": "",
 "title": "\u63a5\u661f\u661f"
+},
+"9MZZMK67WPFZ": {
+"currency": "EUR",
+"free_since": "2026-11-15",
+"title": "SuperMarket Manager Simulator"
 },
 "9N007M534N8N": {
 "currency": "EUR",
@@ -6763,5 +6768,5 @@
 }
 },
 "market": "BG",
-"updated": "2026-11-14T08:41:47"
+"updated": "2026-11-15T08:35:28"
 }

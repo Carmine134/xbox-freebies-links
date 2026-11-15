@@ -1,7 +1,12 @@
 {
-"count": 5,
+"count": 6,
 "days": 21,
 "items": {
+"9MZZMK67WPFZ": {
+"currency": "HUF",
+"free_since": "2026-11-15",
+"title": "SuperMarket Manager Simulator"
+},
 "9N3JQ89FZ4NF": {
 "currency": "HUF",
 "free_since": "2026-11-02",
@@ -29,5 +34,5 @@
 }
 },
 "market": "HU",
-"updated": "2026-11-14T08:09:22"
+"updated": "2026-11-15T08:12:14"
 }
