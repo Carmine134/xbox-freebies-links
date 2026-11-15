@@ -57958,6 +57958,16 @@
     "price": 0.0,
     "title": "Evolution Race Suit"
    },
+   "9MZZMK67WPFZ": {
+    "achievements": false,
+    "checked": "2026-11-15",
+    "currency": "USD",
+    "free": true,
+    "kind": "Game",
+    "price": 0.0,
+    "title": "SuperMarket Manager Simulator",
+    "trial": false
+   },
    "9MZZQB1JKJ0G": {
     "checked": "2026-10-08",
     "currency": "USD",
@@ -86455,5 +86465,5 @@
    }
   }
  },
- "updated": "2026-11-15T08:33:30"
+ "updated": "2026-11-15T12:04:38"
 }
