@@ -69175,6 +69175,16 @@
     "price": null,
     "title": "World of Tanks Modern Armor \u2013 Juggernauts Starter Pack"
    },
+   "9NZXZQRTN2MM": {
+    "achievements": false,
+    "checked": "2026-11-16",
+    "currency": "USD",
+    "free": true,
+    "kind": "Game",
+    "price": 0.0,
+    "title": "Stellar Strike Demo",
+    "trial": false
+   },
    "9P00KMP76BC1": {
     "checked": "2026-11-16",
     "currency": "USD",
@@ -72005,6 +72015,16 @@
     "kind": "Durable",
     "price": 0.0,
     "title": "Century: Age of Ashes - Tribal Strife Pack"
+   },
+   "9P78G86QSVXS": {
+    "achievements": false,
+    "checked": "2026-11-16",
+    "currency": "USD",
+    "free": true,
+    "kind": "Game",
+    "price": 0.0,
+    "title": "Checkers - Game",
+    "trial": false
    },
    "9P79H7FJ6TNK": {
     "checked": "2026-11-16",
@@ -86465,5 +86485,5 @@
    }
   }
  },
- "updated": "2026-11-16T08:41:34"
+ "updated": "2026-11-16T12:06:49"
 }
