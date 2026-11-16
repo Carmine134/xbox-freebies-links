@@ -1,5 +1,5 @@
 {
-"count": 2354,
+"count": 2356,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "CZK",
@@ -5331,6 +5331,11 @@
 "free_since": "",
 "title": "Split Fiction - Friend's Pass"
 },
+"9NZXZQRTN2MM": {
+"currency": "CZK",
+"free_since": "",
+"title": "Stellar Strike Demo"
+},
 "9P04SDHXRL0D": {
 "currency": "CZK",
 "free_since": "",
@@ -6500,6 +6505,11 @@
 "currency": "CZK",
 "free_since": "",
 "title": "Fight for the Gods"
+},
+"9P78G86QSVXS": {
+"currency": "CZK",
+"free_since": "",
+"title": "Checkers - Game"
 },
 "9P798W4VDT91": {
 "currency": "CZK",
@@ -11773,5 +11783,5 @@
 }
 },
 "market": "CZ",
-"updated": "2026-11-15T08:20:40"
+"updated": "2026-11-16T08:19:54"
 }

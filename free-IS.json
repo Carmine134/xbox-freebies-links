@@ -1,5 +1,5 @@
 {
-"count": 1400,
+"count": 1402,
 "items": {
 "9MSNJ9K0K211": {
 "currency": "ISK",
@@ -4116,6 +4116,11 @@
 "free_since": "",
 "title": "Onimusha: Way of the Sword DEMO"
 },
+"9NZXZQRTN2MM": {
+"currency": "ISK",
+"free_since": "",
+"title": "Stellar Strike Demo"
+},
 "9P04SDHXRL0D": {
 "currency": "ISK",
 "free_since": "",
@@ -5030,6 +5035,11 @@
 "currency": "ISK",
 "free_since": "",
 "title": "Fight for the Gods"
+},
+"9P78G86QSVXS": {
+"currency": "ISK",
+"free_since": "",
+"title": "Checkers - Game"
 },
 "9P798W4VDT91": {
 "currency": "ISK",
@@ -7003,5 +7013,5 @@
 }
 },
 "market": "IS",
-"updated": "2026-11-15T08:08:29"
+"updated": "2026-11-16T08:10:57"
 }

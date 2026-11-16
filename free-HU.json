@@ -1,5 +1,5 @@
 {
-"count": 2352,
+"count": 2354,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "HUF",
@@ -5326,6 +5326,11 @@
 "free_since": "",
 "title": "Split Fiction - Friend's Pass"
 },
+"9NZXZQRTN2MM": {
+"currency": "HUF",
+"free_since": "",
+"title": "Stellar Strike Demo"
+},
 "9P04SDHXRL0D": {
 "currency": "HUF",
 "free_since": "",
@@ -6495,6 +6500,11 @@
 "currency": "HUF",
 "free_since": "",
 "title": "Fight for the Gods"
+},
+"9P78G86QSVXS": {
+"currency": "HUF",
+"free_since": "",
+"title": "Checkers - Game"
 },
 "9P798W4VDT91": {
 "currency": "HUF",
@@ -11763,5 +11773,5 @@
 }
 },
 "market": "HU",
-"updated": "2026-11-15T08:12:14"
+"updated": "2026-11-16T08:13:53"
 }

@@ -1,5 +1,5 @@
 {
-"count": 2361,
+"count": 2363,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "EUR",
@@ -5281,6 +5281,11 @@
 "free_since": "",
 "title": "Split Fiction - Friend's Pass"
 },
+"9NZXZQRTN2MM": {
+"currency": "EUR",
+"free_since": "",
+"title": "Stellar Strike Demo"
+},
 "9P04SDHXRL0D": {
 "currency": "EUR",
 "free_since": "",
@@ -6450,6 +6455,11 @@
 "currency": "EUR",
 "free_since": "",
 "title": "Fight for the Gods"
+},
+"9P78G86QSVXS": {
+"currency": "EUR",
+"free_since": "",
+"title": "Checkers - Game"
 },
 "9P798W4VDT91": {
 "currency": "EUR",
@@ -11808,5 +11818,5 @@
 }
 },
 "market": "DE",
-"updated": "2026-11-15T07:57:33"
+"updated": "2026-11-16T08:02:02"
 }

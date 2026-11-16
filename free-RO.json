@@ -1,5 +1,5 @@
 {
-"count": 1356,
+"count": 1358,
 "items": {
 "9MSNJ9K0K211": {
 "currency": "RON",
@@ -4006,6 +4006,11 @@
 "free_since": "",
 "title": "Onimusha: Way of the Sword DEMO"
 },
+"9NZXZQRTN2MM": {
+"currency": "RON",
+"free_since": "",
+"title": "Stellar Strike Demo"
+},
 "9P04SDHXRL0D": {
 "currency": "RON",
 "free_since": "",
@@ -4890,6 +4895,11 @@
 "currency": "RON",
 "free_since": "",
 "title": "Fight for the Gods"
+},
+"9P78G86QSVXS": {
+"currency": "RON",
+"free_since": "",
+"title": "Checkers - Game"
 },
 "9P798W4VDT91": {
 "currency": "RON",
@@ -6783,5 +6793,5 @@
 }
 },
 "market": "RO",
-"updated": "2026-11-15T08:31:47"
+"updated": "2026-11-16T08:28:49"
 }
