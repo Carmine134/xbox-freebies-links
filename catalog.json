@@ -58660,6 +58660,16 @@
     "title": "Mortal Shell II Open Beta",
     "trial": false
    },
+   "9N1Q6R8ZR8NT": {
+    "achievements": false,
+    "checked": "2026-11-17",
+    "currency": "USD",
+    "free": true,
+    "kind": "Durable",
+    "price": 0.0,
+    "title": "Way of the Hunter 2: Pulsar Pack",
+    "trial": false
+   },
    "9N1QS4BDLPJX": {
     "checked": "2026-10-09",
     "currency": "USD",
@@ -71117,6 +71127,16 @@
     "kind": "Durable",
     "price": 0.0,
     "title": "Demonic Designations: Summoner Titles"
+   },
+   "9P5295J13WZQ": {
+    "achievements": true,
+    "checked": "2026-11-17",
+    "currency": "USD",
+    "free": true,
+    "kind": "Game",
+    "price": 0.0,
+    "title": "Cocodrillas Saga",
+    "trial": false
    },
    "9P52B03MV8H8": {
     "checked": "2026-11-17",
@@ -86485,5 +86505,5 @@
    }
   }
  },
- "updated": "2026-11-17T09:50:10"
+ "updated": "2026-11-17T12:06:49"
 }
