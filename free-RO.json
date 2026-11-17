@@ -1461,11 +1461,6 @@
 "free_since": "",
 "title": "Rune Dice DEMO"
 },
-"9N75RXZW8PWS": {
-"currency": "RON",
-"free_since": "2026-11-03",
-"title": "World of Warships \u2014 Y\u016bbari"
-},
 "9N76QGDS5GJR": {
 "currency": "RON",
 "free_since": "",
@@ -4636,6 +4631,11 @@
 "free_since": "",
 "title": "Apolune 2 Demo"
 },
+"9P5295J13WZQ": {
+"currency": "RON",
+"free_since": "",
+"title": "Cocodrillas Saga"
+},
 "9P52LBBNX2B0": {
 "currency": "RON",
 "free_since": "",
@@ -6793,5 +6793,5 @@
 }
 },
 "market": "RO",
-"updated": "2026-11-16T08:28:49"
+"updated": "2026-11-17T10:21:38"
 }

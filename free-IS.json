@@ -1,5 +1,5 @@
 {
-"count": 1402,
+"count": 1403,
 "items": {
 "9MSNJ9K0K211": {
 "currency": "ISK",
@@ -4776,6 +4776,11 @@
 "free_since": "",
 "title": "Apolune 2 Demo"
 },
+"9P5295J13WZQ": {
+"currency": "ISK",
+"free_since": "",
+"title": "Cocodrillas Saga"
+},
 "9P52LBBNX2B0": {
 "currency": "ISK",
 "free_since": "",
@@ -7013,5 +7018,5 @@
 }
 },
 "market": "IS",
-"updated": "2026-11-16T08:10:57"
+"updated": "2026-11-17T09:42:39"
 }

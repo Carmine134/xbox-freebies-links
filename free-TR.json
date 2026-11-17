@@ -1,5 +1,5 @@
 {
-"count": 2302,
+"count": 2304,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "TRY",
@@ -1135,6 +1135,11 @@
 "currency": "TRY",
 "free_since": "",
 "title": "Mortal Shell II Open Beta"
+},
+"9N1Q6R8ZR8NT": {
+"currency": "TRY",
+"free_since": "",
+"title": "Way of the Hunter 2: Pulsar Pack"
 },
 "9N1QS4BDLPJX": {
 "currency": "TRY",
@@ -6215,6 +6220,11 @@
 "currency": "TRY",
 "free_since": "",
 "title": "Demonic Designations: Summoner Titles"
+},
+"9P5295J13WZQ": {
+"currency": "TRY",
+"free_since": "",
+"title": "Cocodrillas Saga"
 },
 "9P52J9J6QKW6": {
 "currency": "TRY",
@@ -11513,5 +11523,5 @@
 }
 },
 "market": "TR",
-"updated": "2026-11-16T07:59:01"
+"updated": "2026-11-17T09:17:11"
 }
