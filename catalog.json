@@ -57730,6 +57730,16 @@
     "title": "Tetragon Demo",
     "trial": false
    },
+   "9MZ979WDH5RW": {
+    "achievements": false,
+    "checked": "2026-11-18",
+    "currency": "USD",
+    "free": true,
+    "kind": "Durable",
+    "price": 0.0,
+    "title": "Accessory: Pom-Pom Earrings",
+    "trial": false
+   },
    "9MZ9VB57D3X9": {
     "checked": "2026-11-18",
     "currency": "USD",
@@ -61073,6 +61083,16 @@
     "price": 0.0,
     "title": "Century: Age of Ashes - Scorched Edition"
    },
+   "9N8G603C6BLN": {
+    "achievements": false,
+    "checked": "2026-11-18",
+    "currency": "USD",
+    "free": true,
+    "kind": "Durable",
+    "price": 0.0,
+    "title": "Accessory: Square-Framed Glasses",
+    "trial": false
+   },
    "9N8JWR902KQC": {
     "checked": "2026-11-18",
     "currency": "USD",
@@ -64286,6 +64306,16 @@
     "kind": "Game",
     "price": 0.0,
     "title": "Belt Barons",
+    "trial": false
+   },
+   "9NJB2RGS725C": {
+    "achievements": false,
+    "checked": "2026-11-18",
+    "currency": "USD",
+    "free": true,
+    "kind": "Durable",
+    "price": 0.0,
+    "title": "Accessory: Elegant Earring",
     "trial": false
    },
    "9NJBHJXZQT1G": {
@@ -86505,5 +86535,5 @@
    }
   }
  },
- "updated": "2026-11-18T09:17:42"
+ "updated": "2026-11-18T12:06:47"
 }
