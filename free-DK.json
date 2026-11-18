@@ -1,5 +1,5 @@
 {
-"count": 2401,
+"count": 2404,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "DKK",
@@ -715,6 +715,11 @@
 "currency": "DKK",
 "free_since": "",
 "title": "Incantation Demo"
+},
+"9MZ979WDH5RW": {
+"currency": "DKK",
+"free_since": "",
+"title": "Accessory: Pom-Pom Earrings"
 },
 "9MZ9VB57D3X9": {
 "currency": "DKK",
@@ -2091,6 +2096,11 @@
 "free_since": "",
 "title": "Coastal Hill: Hidden Objects & Detective Mystery Adventure"
 },
+"9N8G603C6BLN": {
+"currency": "DKK",
+"free_since": "",
+"title": "Accessory: Square-Framed Glasses"
+},
 "9N8JPVK1ZQH8": {
 "currency": "DKK",
 "free_since": "",
@@ -3390,6 +3400,11 @@
 "currency": "DKK",
 "free_since": "",
 "title": "Belt Barons"
+},
+"9NJB2RGS725C": {
+"currency": "DKK",
+"free_since": "",
+"title": "Accessory: Elegant Earring"
 },
 "9NJBHJXZQT1G": {
 "currency": "DKK",
@@ -12008,5 +12023,5 @@
 }
 },
 "market": "DK",
-"updated": "2026-11-17T10:15:16"
+"updated": "2026-11-18T09:43:41"
 }

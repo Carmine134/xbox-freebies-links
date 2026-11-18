@@ -1,23 +1,58 @@
 {
-"count": 3,
+"count": 10,
 "days": 21,
 "items": {
+"9MWF6N6SBWLM": {
+"currency": "ISK",
+"free_since": "2026-11-18",
+"title": "Accessory: Pearl Earrings"
+},
+"9MZPMVW0B1PZ": {
+"currency": "ISK",
+"free_since": "2026-11-18",
+"title": "Accessory: Ornament of Bonds"
+},
 "9MZZMK67WPFZ": {
 "currency": "ISK",
 "free_since": "2026-11-15",
 "title": "SuperMarket Manager Simulator"
 },
-"9N75RXZW8PWS": {
+"9N1WTD52MLBW": {
 "currency": "ISK",
-"free_since": "2026-11-03",
-"title": "World of Warships \u2014 Y\u016bbari"
+"free_since": "2026-11-18",
+"title": "Accessory: Crystalline Ornament"
+},
+"9NCV72TM1LTG": {
+"currency": "ISK",
+"free_since": "2026-11-18",
+"title": "Layered Armor for Simon: Wind Wyvern's Friend"
+},
+"9NG09Q6M2BGZ": {
+"currency": "ISK",
+"free_since": "2026-11-18",
+"title": "Accessory: Royal Monocle"
+},
+"9NPF13F5MTGW": {
+"currency": "ISK",
+"free_since": "2026-11-18",
+"title": "Accessory: Fang Talisman"
 },
 "9NT5Z9B7TQG9": {
 "currency": "ISK",
 "free_since": "2026-11-13",
 "title": "QUTAS67 - Qubic Ultimate Tap Adventure Simulator 2067"
+},
+"9PC26DZVF3SK": {
+"currency": "ISK",
+"free_since": "2026-11-18",
+"title": "Accessory: Gold Circlet"
+},
+"9PHXXDLH4F4M": {
+"currency": "ISK",
+"free_since": "2026-11-18",
+"title": "Accessory: Protective Band"
 }
 },
 "market": "IS",
-"updated": "2026-11-17T09:42:39"
+"updated": "2026-11-18T09:09:17"
 }

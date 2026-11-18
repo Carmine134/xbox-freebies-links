@@ -1,5 +1,5 @@
 {
-"count": 1403,
+"count": 1413,
 "items": {
 "9MSNJ9K0K211": {
 "currency": "ISK",
@@ -341,6 +341,11 @@
 "free_since": "",
 "title": "Disneyland Adventures Demo"
 },
+"9MWF6N6SBWLM": {
+"currency": "ISK",
+"free_since": "2026-11-18",
+"title": "Accessory: Pearl Earrings"
+},
 "9MWFZXGJXJ89": {
 "currency": "ISK",
 "free_since": "",
@@ -551,6 +556,11 @@
 "free_since": "",
 "title": "My Little Universe Demo"
 },
+"9MZ979WDH5RW": {
+"currency": "ISK",
+"free_since": "",
+"title": "Accessory: Pom-Pom Earrings"
+},
 "9MZ9ZVQXRJN5": {
 "currency": "ISK",
 "free_since": "",
@@ -590,6 +600,11 @@
 "currency": "ISK",
 "free_since": "",
 "title": "The Legend of Fireball"
+},
+"9MZPMVW0B1PZ": {
+"currency": "ISK",
+"free_since": "2026-11-18",
+"title": "Accessory: Ornament of Bonds"
 },
 "9MZRW0FWNT9D": {
 "currency": "ISK",
@@ -925,6 +940,11 @@
 "currency": "ISK",
 "free_since": "",
 "title": "Pacific Wings (Xbox-Edition)"
+},
+"9N1WTD52MLBW": {
+"currency": "ISK",
+"free_since": "2026-11-18",
+"title": "Accessory: Crystalline Ornament"
 },
 "9N1ZTNCRC6N7": {
 "currency": "ISK",
@@ -1481,11 +1501,6 @@
 "free_since": "",
 "title": "Rune Dice DEMO"
 },
-"9N75RXZW8PWS": {
-"currency": "ISK",
-"free_since": "2026-11-03",
-"title": "World of Warships \u2014 Y\u016bbari"
-},
 "9N76QGDS5GJR": {
 "currency": "ISK",
 "free_since": "",
@@ -1625,6 +1640,11 @@
 "currency": "ISK",
 "free_since": "",
 "title": "Coastal Hill: Hidden Objects & Detective Mystery Adventure"
+},
+"9N8G603C6BLN": {
+"currency": "ISK",
+"free_since": "",
+"title": "Accessory: Square-Framed Glasses"
 },
 "9N8JPVK1ZQH8": {
 "currency": "ISK",
@@ -2156,6 +2176,11 @@
 "free_since": "",
 "title": "Living Weapons Pack"
 },
+"9NCV72TM1LTG": {
+"currency": "ISK",
+"free_since": "2026-11-18",
+"title": "Layered Armor for Simon: Wind Wyvern's Friend"
+},
 "9ND00FD7RLN1": {
 "currency": "ISK",
 "free_since": "",
@@ -2416,6 +2441,11 @@
 "free_since": "",
 "title": "Teardown: Mod Pack #6"
 },
+"9NG09Q6M2BGZ": {
+"currency": "ISK",
+"free_since": "2026-11-18",
+"title": "Accessory: Royal Monocle"
+},
 "9NG3VN0MB1GD": {
 "currency": "ISK",
 "free_since": "",
@@ -2625,6 +2655,11 @@
 "currency": "ISK",
 "free_since": "",
 "title": "Belt Barons"
+},
+"9NJB2RGS725C": {
+"currency": "ISK",
+"free_since": "",
+"title": "Accessory: Elegant Earring"
 },
 "9NJBHJXZQT1G": {
 "currency": "ISK",
@@ -3185,6 +3220,11 @@
 "currency": "ISK",
 "free_since": "",
 "title": "I Hate Heroes"
+},
+"9NPF13F5MTGW": {
+"currency": "ISK",
+"free_since": "2026-11-18",
+"title": "Accessory: Fang Talisman"
 },
 "9NPF7K78VF6F": {
 "currency": "ISK",
@@ -5556,6 +5596,11 @@
 "free_since": "",
 "title": "Moonbrella Demo"
 },
+"9PC26DZVF3SK": {
+"currency": "ISK",
+"free_since": "2026-11-18",
+"title": "Accessory: Gold Circlet"
+},
 "9PC4B5NKR4DG": {
 "currency": "ISK",
 "free_since": "",
@@ -6155,6 +6200,11 @@
 "currency": "ISK",
 "free_since": "",
 "title": "Bonus Pack: Elgado Special Pack"
+},
+"9PHXXDLH4F4M": {
+"currency": "ISK",
+"free_since": "2026-11-18",
+"title": "Accessory: Protective Band"
 },
 "9PJ0XFR8CVH2": {
 "currency": "ISK",
@@ -7018,5 +7068,5 @@
 }
 },
 "market": "IS",
-"updated": "2026-11-17T09:42:39"
+"updated": "2026-11-18T09:09:17"
 }

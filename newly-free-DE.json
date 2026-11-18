@@ -1,5 +1,5 @@
 {
-"count": 6,
+"count": 5,
 "days": 21,
 "items": {
 "9MZZMK67WPFZ": {
@@ -11,11 +11,6 @@
 "currency": "EUR",
 "free_since": "2026-11-02",
 "title": "Delta Force Pack"
-},
-"9N75RXZW8PWS": {
-"currency": "EUR",
-"free_since": "2026-11-03",
-"title": "World of Warships \u2014 Y\u016bbari"
 },
 "9NT5Z9B7TQG9": {
 "currency": "EUR",
@@ -34,5 +29,5 @@
 }
 },
 "market": "DE",
-"updated": "2026-11-17T09:23:41"
+"updated": "2026-11-18T08:48:28"
 }

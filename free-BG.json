@@ -1,5 +1,5 @@
 {
-"count": 1355,
+"count": 1366,
 "items": {
 "9MSNJ9K0K211": {
 "currency": "EUR",
@@ -336,6 +336,11 @@
 "free_since": "",
 "title": "Disneyland Adventures Demo"
 },
+"9MWF6N6SBWLM": {
+"currency": "EUR",
+"free_since": "2026-11-18",
+"title": "Accessory: Pearl Earrings"
+},
 "9MWFZXGJXJ89": {
 "currency": "EUR",
 "free_since": "",
@@ -546,6 +551,11 @@
 "free_since": "",
 "title": "My Little Universe Demo"
 },
+"9MZ979WDH5RW": {
+"currency": "EUR",
+"free_since": "",
+"title": "Accessory: Pom-Pom Earrings"
+},
 "9MZ9ZVQXRJN5": {
 "currency": "EUR",
 "free_since": "",
@@ -585,6 +595,11 @@
 "currency": "EUR",
 "free_since": "",
 "title": "The Legend of Fireball"
+},
+"9MZPMVW0B1PZ": {
+"currency": "EUR",
+"free_since": "2026-11-18",
+"title": "Accessory: Ornament of Bonds"
 },
 "9MZRSLML0NWP": {
 "currency": "EUR",
@@ -920,6 +935,11 @@
 "currency": "EUR",
 "free_since": "",
 "title": "Pacific Wings (Xbox-Edition)"
+},
+"9N1WTD52MLBW": {
+"currency": "EUR",
+"free_since": "2026-11-18",
+"title": "Accessory: Crystalline Ornament"
 },
 "9N1ZTNCRC6N7": {
 "currency": "EUR",
@@ -1601,6 +1621,11 @@
 "free_since": "",
 "title": "Coastal Hill: Hidden Objects & Detective Mystery Adventure"
 },
+"9N8G603C6BLN": {
+"currency": "EUR",
+"free_since": "",
+"title": "Accessory: Square-Framed Glasses"
+},
 "9N8JPVK1ZQH8": {
 "currency": "EUR",
 "free_since": "",
@@ -2111,6 +2136,11 @@
 "free_since": "",
 "title": "Living Weapons Pack"
 },
+"9NCV72TM1LTG": {
+"currency": "EUR",
+"free_since": "2026-11-18",
+"title": "Layered Armor for Simon: Wind Wyvern's Friend"
+},
 "9ND00FD7RLN1": {
 "currency": "EUR",
 "free_since": "",
@@ -2361,6 +2391,11 @@
 "free_since": "",
 "title": "Teardown: Mod Pack #6"
 },
+"9NG09Q6M2BGZ": {
+"currency": "EUR",
+"free_since": "2026-11-18",
+"title": "Accessory: Royal Monocle"
+},
 "9NG3VN0MB1GD": {
 "currency": "EUR",
 "free_since": "",
@@ -2565,6 +2600,11 @@
 "currency": "EUR",
 "free_since": "",
 "title": "Belt Barons"
+},
+"9NJB2RGS725C": {
+"currency": "EUR",
+"free_since": "",
+"title": "Accessory: Elegant Earring"
 },
 "9NJBHJXZQT1G": {
 "currency": "EUR",
@@ -3100,6 +3140,11 @@
 "currency": "EUR",
 "free_since": "",
 "title": "I Hate Heroes"
+},
+"9NPF13F5MTGW": {
+"currency": "EUR",
+"free_since": "2026-11-18",
+"title": "Accessory: Fang Talisman"
 },
 "9NPF7K78VF6F": {
 "currency": "EUR",
@@ -5366,6 +5411,11 @@
 "free_since": "",
 "title": "Moonbrella Demo"
 },
+"9PC26DZVF3SK": {
+"currency": "EUR",
+"free_since": "2026-11-18",
+"title": "Accessory: Gold Circlet"
+},
 "9PC4B5NKR4DG": {
 "currency": "EUR",
 "free_since": "",
@@ -5955,6 +6005,11 @@
 "currency": "EUR",
 "free_since": "",
 "title": "Bonus Pack: Elgado Special Pack"
+},
+"9PHXXDLH4F4M": {
+"currency": "EUR",
+"free_since": "2026-11-18",
+"title": "Accessory: Protective Band"
 },
 "9PJ0XFR8CVH2": {
 "currency": "EUR",
@@ -6778,5 +6833,5 @@
 }
 },
 "market": "BG",
-"updated": "2026-11-17T10:27:54"
+"updated": "2026-11-18T09:57:14"
 }

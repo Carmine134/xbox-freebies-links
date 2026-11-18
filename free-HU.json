@@ -1,5 +1,5 @@
 {
-"count": 2356,
+"count": 2358,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "HUF",
@@ -715,6 +715,11 @@
 "currency": "HUF",
 "free_since": "",
 "title": "Incantation Demo"
+},
+"9MZ979WDH5RW": {
+"currency": "HUF",
+"free_since": "",
+"title": "Accessory: Pom-Pom Earrings"
 },
 "9MZ9VB57D3X9": {
 "currency": "HUF",
@@ -1866,11 +1871,6 @@
 "free_since": "",
 "title": "Rune Dice DEMO"
 },
-"9N75RXZW8PWS": {
-"currency": "HUF",
-"free_since": "2026-11-03",
-"title": "World of Warships \u2014 Y\u016bbari"
-},
 "9N76QGDS5GJR": {
 "currency": "HUF",
 "free_since": "",
@@ -2085,6 +2085,11 @@
 "currency": "HUF",
 "free_since": "",
 "title": "Coastal Hill: Hidden Objects & Detective Mystery Adventure"
+},
+"9N8G603C6BLN": {
+"currency": "HUF",
+"free_since": "",
+"title": "Accessory: Square-Framed Glasses"
 },
 "9N8JPVK1ZQH8": {
 "currency": "HUF",
@@ -3375,6 +3380,11 @@
 "currency": "HUF",
 "free_since": "",
 "title": "Belt Barons"
+},
+"9NJB2RGS725C": {
+"currency": "HUF",
+"free_since": "",
+"title": "Accessory: Elegant Earring"
 },
 "9NJBHJXZQT1G": {
 "currency": "HUF",
@@ -11783,5 +11793,5 @@
 }
 },
 "market": "HU",
-"updated": "2026-11-17T09:49:09"
+"updated": "2026-11-18T09:16:05"
 }
