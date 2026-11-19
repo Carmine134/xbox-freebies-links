@@ -1,5 +1,5 @@
 {
-"count": 1369,
+"count": 1371,
 "items": {
 "9MSNJ9K0K211": {
 "currency": "RON",
@@ -4271,6 +4271,11 @@
 "free_since": "",
 "title": "INSTEAD-GAMES"
 },
+"9P1Q7540BNKT": {
+"currency": "RON",
+"free_since": "2026-11-19",
+"title": "You're Nuts! Friend's Pass"
+},
 "9P1QG9Q5L222": {
 "currency": "RON",
 "free_since": "",
@@ -4925,6 +4930,11 @@
 "currency": "RON",
 "free_since": "",
 "title": "Fragile Equilibrium"
+},
+"9P6XDZRTD299": {
+"currency": "RON",
+"free_since": "",
+"title": "Walk Around And Do Nothing 2"
 },
 "9P6ZMVH34N9V": {
 "currency": "RON",
@@ -6848,5 +6858,5 @@
 }
 },
 "market": "RO",
-"updated": "2026-11-18T09:50:29"
+"updated": "2026-11-19T10:05:43"
 }

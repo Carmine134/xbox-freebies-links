@@ -1,5 +1,5 @@
 {
-"count": 2565,
+"count": 2566,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "USD",
@@ -6976,6 +6976,11 @@
 "free_since": "",
 "title": "Fragile Equilibrium"
 },
+"9P6XDZRTD299": {
+"currency": "USD",
+"free_since": "",
+"title": "Walk Around And Do Nothing 2"
+},
 "9P6XS14712LJ": {
 "currency": "USD",
 "free_since": "",
@@ -12828,5 +12833,5 @@
 }
 },
 "market": "US",
-"updated": "2026-11-18T08:34:52"
+"updated": "2026-11-19T08:47:04"
 }

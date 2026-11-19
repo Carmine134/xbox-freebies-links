@@ -1,5 +1,5 @@
 {
-"count": 5,
+"count": 6,
 "days": 21,
 "items": {
 "9MZZMK67WPFZ": {
@@ -17,6 +17,11 @@
 "free_since": "2026-11-13",
 "title": "QUTAS67 - Qubic Ultimate Tap Adventure Simulator 2067"
 },
+"9P1Q7540BNKT": {
+"currency": "HUF",
+"free_since": "2026-11-19",
+"title": "You're Nuts! Friend's Pass"
+},
 "9P7DBRZKHZJG": {
 "currency": "HUF",
 "free_since": "2026-11-04",
@@ -29,5 +34,5 @@
 }
 },
 "market": "HU",
-"updated": "2026-11-18T09:16:05"
+"updated": "2026-11-19T09:30:00"
 }

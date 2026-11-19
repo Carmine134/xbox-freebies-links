@@ -1,5 +1,5 @@
 {
-"count": 2358,
+"count": 2360,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "HUF",
@@ -5596,6 +5596,11 @@
 "free_since": "",
 "title": "INSTEAD-GAMES"
 },
+"9P1Q7540BNKT": {
+"currency": "HUF",
+"free_since": "2026-11-19",
+"title": "You're Nuts! Friend's Pass"
+},
 "9P1QG9Q5L222": {
 "currency": "HUF",
 "free_since": "",
@@ -6490,6 +6495,11 @@
 "currency": "HUF",
 "free_since": "",
 "title": "Fragile Equilibrium"
+},
+"9P6XDZRTD299": {
+"currency": "HUF",
+"free_since": "",
+"title": "Walk Around And Do Nothing 2"
 },
 "9P6XS14712LJ": {
 "currency": "HUF",
@@ -11793,5 +11803,5 @@
 }
 },
 "market": "HU",
-"updated": "2026-11-18T09:16:05"
+"updated": "2026-11-19T09:30:00"
 }
