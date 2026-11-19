@@ -71957,6 +71957,16 @@
     "price": null,
     "title": "Pinball FX - World Cup Soccer Trial"
    },
+   "9P6XDZRTD299": {
+    "achievements": false,
+    "checked": "2026-11-19",
+    "currency": "USD",
+    "free": true,
+    "kind": "Game",
+    "price": 0.0,
+    "title": "Walk Around And Do Nothing 2",
+    "trial": false
+   },
    "9P6XS14712LJ": {
     "checked": "2026-11-19",
     "currency": "USD",
@@ -86535,5 +86545,5 @@
    }
   }
  },
- "updated": "2026-11-19T09:36:40"
+ "updated": "2026-11-19T12:05:39"
 }
