@@ -1,5 +1,5 @@
 {
-"count": 2566,
+"count": 2569,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "USD",
@@ -1970,6 +1970,11 @@
 "currency": "USD",
 "free_since": "",
 "title": "Pinball FX Midnight - Camp Bloodbrook Trial"
+},
+"9N6V9SD9SCHS": {
+"currency": "USD",
+"free_since": "",
+"title": "Taiko no Tatsujin: Rhythm Festival - Bolero"
 },
 "9N6X49F6S472": {
 "currency": "USD",
@@ -6021,6 +6026,11 @@
 "free_since": "",
 "title": "INSTEAD-GAMES"
 },
+"9P1Q7540BNKT": {
+"currency": "USD",
+"free_since": "2026-11-20",
+"title": "You're Nuts! Friend's Pass"
+},
 "9P1QG9Q5L222": {
 "currency": "USD",
 "free_since": "",
@@ -7575,6 +7585,11 @@
 "currency": "USD",
 "free_since": "",
 "title": "Hell Let Loose - Jericho Cap"
+},
+"9PBCSPVH57N2": {
+"currency": "USD",
+"free_since": "2026-11-20",
+"title": "Geo Book"
 },
 "9PBFGRB889SN": {
 "currency": "USD",
@@ -12833,5 +12848,5 @@
 }
 },
 "market": "US",
-"updated": "2026-11-19T08:47:04"
+"updated": "2026-11-20T08:28:02"
 }

@@ -1,5 +1,5 @@
 {
-"count": 6,
+"count": 7,
 "days": 21,
 "items": {
 "9MZZMK67WPFZ": {
@@ -31,8 +31,13 @@
 "currency": "PLN",
 "free_since": "2026-11-02",
 "title": "Skull and Bones Legendary Kingpin Boost Pack"
+},
+"9PBCSPVH57N2": {
+"currency": "PLN",
+"free_since": "2026-11-20",
+"title": "Geo Book"
 }
 },
 "market": "PL",
-"updated": "2026-11-19T09:37:07"
+"updated": "2026-11-20T08:51:48"
 }

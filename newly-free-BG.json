@@ -1,5 +1,5 @@
 {
-"count": 12,
+"count": 13,
 "days": 21,
 "items": {
 "9MWF6N6SBWLM": {
@@ -52,6 +52,11 @@
 "free_since": "2026-11-04",
 "title": "BRIGANDINE ABYSS DEMO"
 },
+"9PBCSPVH57N2": {
+"currency": "EUR",
+"free_since": "2026-11-20",
+"title": "Geo Book"
+},
 "9PC26DZVF3SK": {
 "currency": "EUR",
 "free_since": "2026-11-18",
@@ -64,5 +69,5 @@
 }
 },
 "market": "BG",
-"updated": "2026-11-19T10:12:40"
+"updated": "2026-11-20T09:09:01"
 }

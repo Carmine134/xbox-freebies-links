@@ -1,5 +1,5 @@
 {
-"count": 1415,
+"count": 1417,
 "items": {
 "9MSNJ9K0K211": {
 "currency": "ISK",
@@ -1475,6 +1475,11 @@
 "currency": "ISK",
 "free_since": "",
 "title": "Pinball FX Midnight - Camp Bloodbrook Trial"
+},
+"9N6V9SD9SCHS": {
+"currency": "ISK",
+"free_since": "",
+"title": "Taiko no Tatsujin: Rhythm Festival - Bolero"
 },
 "9N6X49F6S472": {
 "currency": "ISK",
@@ -5536,6 +5541,11 @@
 "free_since": "",
 "title": "Hell Let Loose - Jericho Cap"
 },
+"9PBCSPVH57N2": {
+"currency": "ISK",
+"free_since": "2026-11-20",
+"title": "Geo Book"
+},
 "9PBFGRB889SN": {
 "currency": "ISK",
 "free_since": "",
@@ -7078,5 +7088,5 @@
 }
 },
 "market": "IS",
-"updated": "2026-11-19T09:22:47"
+"updated": "2026-11-20T08:45:15"
 }

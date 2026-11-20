@@ -1,5 +1,5 @@
 {
-"count": 2360,
+"count": 2362,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "HUF",
@@ -1845,6 +1845,11 @@
 "currency": "HUF",
 "free_since": "",
 "title": "Pinball FX Midnight - Camp Bloodbrook Trial"
+},
+"9N6V9SD9SCHS": {
+"currency": "HUF",
+"free_since": "",
+"title": "Taiko no Tatsujin: Rhythm Festival - Bolero"
 },
 "9N6X49F6S472": {
 "currency": "HUF",
@@ -7041,6 +7046,11 @@
 "free_since": "",
 "title": "Hell Let Loose - Jericho Cap"
 },
+"9PBCSPVH57N2": {
+"currency": "HUF",
+"free_since": "2026-11-20",
+"title": "Geo Book"
+},
 "9PBFGRB889SN": {
 "currency": "HUF",
 "free_since": "",
@@ -11803,5 +11813,5 @@
 }
 },
 "market": "HU",
-"updated": "2026-11-19T09:30:00"
+"updated": "2026-11-20T08:48:35"
 }
