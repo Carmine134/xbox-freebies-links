@@ -1,5 +1,5 @@
 {
-"count": 2376,
+"count": 2378,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "PLN",
@@ -4171,6 +4171,11 @@
 "free_since": "",
 "title": "Godfall Gratitude Content"
 },
+"9NPV9X94R1JB": {
+"currency": "PLN",
+"free_since": "",
+"title": "Orbita Space Survivor"
+},
 "9NPXB1SXGMPN": {
 "currency": "PLN",
 "free_since": "",
@@ -7695,6 +7700,11 @@
 "currency": "PLN",
 "free_since": "",
 "title": "Soulstone Survivors Demo"
+},
+"9PGFSQMZ6P0F": {
+"currency": "PLN",
+"free_since": "",
+"title": "Lost Lands 2: The Four Horsemen"
 },
 "9PGHF9W0F3MN": {
 "currency": "PLN",
@@ -11883,5 +11893,5 @@
 }
 },
 "market": "PL",
-"updated": "2026-11-20T08:51:48"
+"updated": "2026-11-21T08:39:28"
 }

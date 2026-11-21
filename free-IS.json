@@ -1,5 +1,5 @@
 {
-"count": 1417,
+"count": 1419,
 "items": {
 "9MSNJ9K0K211": {
 "currency": "ISK",
@@ -3261,6 +3261,11 @@
 "free_since": "",
 "title": "Godfall Gratitude Content"
 },
+"9NPV9X94R1JB": {
+"currency": "ISK",
+"free_since": "",
+"title": "Orbita Space Survivor"
+},
 "9NPZ7QC9N427": {
 "currency": "ISK",
 "free_since": "",
@@ -6041,6 +6046,11 @@
 "free_since": "",
 "title": "Soulstone Survivors Demo"
 },
+"9PGFSQMZ6P0F": {
+"currency": "ISK",
+"free_since": "",
+"title": "Lost Lands 2: The Four Horsemen"
+},
 "9PGHF9W0F3MN": {
 "currency": "ISK",
 "free_since": "",
@@ -7088,5 +7098,5 @@
 }
 },
 "market": "IS",
-"updated": "2026-11-20T08:45:15"
+"updated": "2026-11-21T08:32:37"
 }
