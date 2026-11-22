@@ -1,5 +1,5 @@
 {
-"count": 2570,
+"count": 2571,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "USD",
@@ -8276,6 +8276,11 @@
 "free_since": "",
 "title": "Soulstone Survivors Demo"
 },
+"9PGFSQMZ6P0F": {
+"currency": "USD",
+"free_since": "",
+"title": "Lost Lands 2: The Four Horsemen"
+},
 "9PGHF9W0F3MN": {
 "currency": "USD",
 "free_since": "",
@@ -12853,5 +12858,5 @@
 }
 },
 "market": "US",
-"updated": "2026-11-21T08:15:44"
+"updated": "2026-11-22T07:59:22"
 }
