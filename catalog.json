@@ -66201,7 +66201,7 @@
    },
    "9NPV9X94R1JB": {
     "achievements": false,
-    "checked": "2026-11-21",
+    "checked": "2026-11-22",
     "currency": "USD",
     "free": true,
     "kind": "Game",
@@ -74940,6 +74940,16 @@
     "kind": "Game",
     "price": 0.0,
     "title": "Soulstone Survivors Demo",
+    "trial": false
+   },
+   "9PGFSQMZ6P0F": {
+    "achievements": false,
+    "checked": "2026-11-22",
+    "currency": "USD",
+    "free": true,
+    "kind": "Game",
+    "price": 0.0,
+    "title": "Lost Lands 2: The Four Horsemen",
     "trial": false
    },
    "9PGH3GJ4WT17": {
@@ -86585,5 +86595,5 @@
    }
   }
  },
- "updated": "2026-11-22T08:58:06"
+ "updated": "2026-11-22T12:08:29"
 }
