@@ -2141,6 +2141,11 @@
 "free_since": "",
 "title": "Pinball FX - Gearbox\u00ae Pinball Trial"
 },
+"9N8Q2DKWVLNX": {
+"currency": "SEK",
+"free_since": "2026-11-24",
+"title": "Darwin Project"
+},
 "9N8SK2K0DZT1": {
 "currency": "SEK",
 "free_since": "",
@@ -6335,11 +6340,6 @@
 "currency": "SEK",
 "free_since": "",
 "title": "Plague Doctor Pack"
-},
-"9P5PS3RBZCWG": {
-"currency": "SEK",
-"free_since": "",
-"title": "World of Tanks Modern Armor \u2013 Dune: Part Three Starter Pack"
 },
 "9P5QSZ29XNP6": {
 "currency": "SEK",
@@ -12048,5 +12048,5 @@
 }
 },
 "market": "SE",
-"updated": "2026-11-23T09:24:10"
+"updated": "2026-11-24T11:25:52"
 }

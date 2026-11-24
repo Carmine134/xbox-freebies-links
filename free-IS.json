@@ -1,5 +1,5 @@
 {
-"count": 1419,
+"count": 1418,
 "items": {
 "9MSNJ9K0K211": {
 "currency": "ISK",
@@ -4941,11 +4941,6 @@
 "free_since": "",
 "title": "Plague Doctor Pack"
 },
-"9P5PS3RBZCWG": {
-"currency": "ISK",
-"free_since": "",
-"title": "World of Tanks Modern Armor \u2013 Dune: Part Three Starter Pack"
-},
 "9P5QSZ29XNP6": {
 "currency": "ISK",
 "free_since": "",
@@ -7098,5 +7093,5 @@
 }
 },
 "market": "IS",
-"updated": "2026-11-23T09:12:29"
+"updated": "2026-11-24T11:11:17"
 }
