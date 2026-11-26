@@ -1,5 +1,5 @@
 {
-"count": 13,
+"count": 12,
 "days": 21,
 "items": {
 "9MWF6N6SBWLM": {
@@ -47,11 +47,6 @@
 "free_since": "2026-11-19",
 "title": "You're Nuts! Friend's Pass"
 },
-"9P7DBRZKHZJG": {
-"currency": "RON",
-"free_since": "2026-11-04",
-"title": "BRIGANDINE ABYSS DEMO"
-},
 "9PBCSPVH57N2": {
 "currency": "RON",
 "free_since": "2026-11-20",
@@ -69,5 +64,5 @@
 }
 },
 "market": "RO",
-"updated": "2026-11-25T10:19:42"
+"updated": "2026-11-26T10:08:47"
 }
