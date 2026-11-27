@@ -61245,6 +61245,16 @@
     "title": "Gvina's Space Adventure",
     "trial": false
    },
+   "9N901FH6GWLT": {
+    "achievements": false,
+    "checked": "2026-11-27",
+    "currency": "USD",
+    "free": true,
+    "kind": "Game",
+    "price": 0.0,
+    "title": "CALX Demo",
+    "trial": false
+   },
    "9N92VJ3VL5M2": {
     "checked": "2026-10-11",
     "currency": "USD",
@@ -68646,6 +68656,16 @@
     "kind": "Game",
     "price": 0.0,
     "title": "Bible Trivia\u00ad",
+    "trial": false
+   },
+   "9NXC32B64LS5": {
+    "achievements": false,
+    "checked": "2026-11-27",
+    "currency": "USD",
+    "free": true,
+    "kind": "Game",
+    "price": 0.0,
+    "title": "Spooker Demo",
     "trial": false
    },
    "9NXC5WSBLJXM": {
@@ -76438,6 +76458,16 @@
     "kind": "Durable",
     "price": 0.0,
     "title": "The Swarm Scenario - Outpost Kaloki",
+    "trial": false
+   },
+   "9PLWW2VH40LM": {
+    "achievements": true,
+    "checked": "2026-11-27",
+    "currency": "USD",
+    "free": true,
+    "kind": "Game",
+    "price": 0.0,
+    "title": "Idle Breaker",
     "trial": false
    },
    "9PM0ZJNPRM9V": {
@@ -86595,5 +86625,5 @@
    }
   }
  },
- "updated": "2026-11-27T10:14:08"
+ "updated": "2026-11-27T12:06:24"
 }
