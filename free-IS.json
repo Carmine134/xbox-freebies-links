@@ -1,5 +1,5 @@
 {
-"count": 1418,
+"count": 1421,
 "items": {
 "9MSNJ9K0K211": {
 "currency": "ISK",
@@ -1690,6 +1690,11 @@
 "currency": "ISK",
 "free_since": "",
 "title": "Gvina's Space Adventure"
+},
+"9N901FH6GWLT": {
+"currency": "ISK",
+"free_since": "",
+"title": "CALX Demo"
 },
 "9N92VJ3VL5M2": {
 "currency": "ISK",
@@ -3704,7 +3709,7 @@
 "9NTG1CG74F2L": {
 "currency": "ISK",
 "free_since": "",
-"title": "HITMAN WOA Free Demo ft. The Host"
+"title": "HITMAN WOA Free Demo ft. Bawma"
 },
 "9NTH8ZLDHJ4M": {
 "currency": "ISK",
@@ -4005,6 +4010,11 @@
 "currency": "ISK",
 "free_since": "",
 "title": "Bible Trivia\u00ad"
+},
+"9NXC32B64LS5": {
+"currency": "ISK",
+"free_since": "",
+"title": "Spooker Demo"
 },
 "9NXC5WSBLJXM": {
 "currency": "ISK",
@@ -6526,6 +6536,11 @@
 "free_since": "",
 "title": "Gori: Cuddly Carnage Demo"
 },
+"9PLWW2VH40LM": {
+"currency": "ISK",
+"free_since": "2026-11-27",
+"title": "Idle Breaker"
+},
 "9PM0ZJNPRM9V": {
 "currency": "ISK",
 "free_since": "",
@@ -7093,5 +7108,5 @@
 }
 },
 "market": "IS",
-"updated": "2026-11-26T09:45:50"
+"updated": "2026-11-27T10:15:27"
 }

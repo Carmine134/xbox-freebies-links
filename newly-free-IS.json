@@ -1,5 +1,5 @@
 {
-"count": 12,
+"count": 13,
 "days": 21,
 "items": {
 "9MWF6N6SBWLM": {
@@ -61,8 +61,13 @@
 "currency": "ISK",
 "free_since": "2026-11-18",
 "title": "Accessory: Protective Band"
+},
+"9PLWW2VH40LM": {
+"currency": "ISK",
+"free_since": "2026-11-27",
+"title": "Idle Breaker"
 }
 },
 "market": "IS",
-"updated": "2026-11-26T09:45:50"
+"updated": "2026-11-27T10:15:27"
 }

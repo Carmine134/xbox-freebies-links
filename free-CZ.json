@@ -1,5 +1,5 @@
 {
-"count": 2366,
+"count": 2369,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "CZK",
@@ -2160,6 +2160,11 @@
 "currency": "CZK",
 "free_since": "",
 "title": "Gvina's Space Adventure"
+},
+"9N901FH6GWLT": {
+"currency": "CZK",
+"free_since": "",
+"title": "CALX Demo"
 },
 "9N92V8Q153MJ": {
 "currency": "CZK",
@@ -4714,7 +4719,7 @@
 "9NTG1CG74F2L": {
 "currency": "CZK",
 "free_since": "",
-"title": "HITMAN WOA Free Demo ft. The Host"
+"title": "HITMAN WOA Free Demo ft. Bawma"
 },
 "9NTH8ZLDHJ4M": {
 "currency": "CZK",
@@ -4904,7 +4909,7 @@
 "9NVJWR50KRXX": {
 "currency": "CZK",
 "free_since": "",
-"title": "HITMAN WOA Free Demo ft. The Host"
+"title": "HITMAN WOA Free Demo ft. Bawma"
 },
 "9NVKQ49LZ6DT": {
 "currency": "CZK",
@@ -5130,6 +5135,11 @@
 "currency": "CZK",
 "free_since": "",
 "title": "Bible Trivia\u00ad"
+},
+"9NXC32B64LS5": {
+"currency": "CZK",
+"free_since": "",
+"title": "Spooker Demo"
 },
 "9NXC5WSBLJXM": {
 "currency": "CZK",
@@ -8295,6 +8305,11 @@
 "currency": "CZK",
 "free_since": "",
 "title": "Gori: Cuddly Carnage Demo"
+},
+"9PLWW2VH40LM": {
+"currency": "CZK",
+"free_since": "2026-11-27",
+"title": "Idle Breaker"
 },
 "9PM0ZJNPRM9V": {
 "currency": "CZK",
@@ -11833,5 +11848,5 @@
 }
 },
 "market": "CZ",
-"updated": "2026-11-26T09:57:18"
+"updated": "2026-11-27T10:27:01"
 }

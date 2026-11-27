@@ -1,5 +1,5 @@
 {
-"count": 5,
+"count": 6,
 "days": 21,
 "items": {
 "9MZZMK67WPFZ": {
@@ -26,8 +26,13 @@
 "currency": "EUR",
 "free_since": "2026-11-20",
 "title": "Geo Book"
+},
+"9PLWW2VH40LM": {
+"currency": "EUR",
+"free_since": "2026-11-27",
+"title": "Idle Breaker"
 }
 },
 "market": "DE",
-"updated": "2026-11-26T09:34:53"
+"updated": "2026-11-27T10:11:35"
 }

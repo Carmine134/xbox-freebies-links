@@ -1,5 +1,5 @@
 {
-"count": 1371,
+"count": 1374,
 "items": {
 "9MSNJ9K0K211": {
 "currency": "EUR",
@@ -1665,6 +1665,11 @@
 "currency": "EUR",
 "free_since": "",
 "title": "Gvina's Space Adventure"
+},
+"9N901FH6GWLT": {
+"currency": "EUR",
+"free_since": "",
+"title": "CALX Demo"
 },
 "9N92VJ3VL5M2": {
 "currency": "EUR",
@@ -3599,7 +3604,7 @@
 "9NTG1CG74F2L": {
 "currency": "EUR",
 "free_since": "",
-"title": "HITMAN WOA Free Demo ft. The Host"
+"title": "HITMAN WOA Free Demo ft. Bawma"
 },
 "9NTH8ZLDHJ4M": {
 "currency": "EUR",
@@ -3895,6 +3900,11 @@
 "currency": "EUR",
 "free_since": "",
 "title": "Bible Trivia\u00ad"
+},
+"9NXC32B64LS5": {
+"currency": "EUR",
+"free_since": "",
+"title": "Spooker Demo"
 },
 "9NXC5WSBLJXM": {
 "currency": "EUR",
@@ -5192,7 +5202,7 @@
 "title": "STUFFED Demo"
 },
 "9P8WGF60KT6V": {
-"currency": "BGN",
+"currency": "EUR",
 "free_since": "",
 "title": "Fuga: Melodies of Steel - Demo"
 },
@@ -6321,6 +6331,11 @@
 "free_since": "",
 "title": "Gori: Cuddly Carnage Demo"
 },
+"9PLWW2VH40LM": {
+"currency": "EUR",
+"free_since": "2026-11-27",
+"title": "Idle Breaker"
+},
 "9PM0ZJNPRM9V": {
 "currency": "EUR",
 "free_since": "",
@@ -6858,5 +6873,5 @@
 }
 },
 "market": "BG",
-"updated": "2026-11-26T10:12:24"
+"updated": "2026-11-27T10:42:14"
 }
