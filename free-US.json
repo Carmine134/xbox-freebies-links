@@ -1,5 +1,5 @@
 {
-"count": 2571,
+"count": 2574,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "USD",
@@ -2305,6 +2305,11 @@
 "currency": "USD",
 "free_since": "",
 "title": "Gvina's Space Adventure"
+},
+"9N901FH6GWLT": {
+"currency": "USD",
+"free_since": "",
+"title": "CALX Demo"
 },
 "9N92V8Q153MJ": {
 "currency": "USD",
@@ -5109,7 +5114,7 @@
 "9NTG1CG74F2L": {
 "currency": "USD",
 "free_since": "",
-"title": "HITMAN WOA Free Demo ft. The Host"
+"title": "HITMAN WOA Free Demo ft. Bawma"
 },
 "9NTH8ZLDHJ4M": {
 "currency": "USD",
@@ -5299,7 +5304,7 @@
 "9NVJWR50KRXX": {
 "currency": "USD",
 "free_since": "",
-"title": "HITMAN WOA Free Demo ft. The Host"
+"title": "HITMAN WOA Free Demo ft. Bawma"
 },
 "9NVKQ49LZ6DT": {
 "currency": "USD",
@@ -5535,6 +5540,11 @@
 "currency": "USD",
 "free_since": "",
 "title": "Bible Trivia\u00ad"
+},
+"9NXC32B64LS5": {
+"currency": "USD",
+"free_since": "",
+"title": "Spooker Demo"
 },
 "9NXC5WSBLJXM": {
 "currency": "USD",
@@ -8950,6 +8960,11 @@
 "currency": "USD",
 "free_since": "",
 "title": "The Swarm Scenario - Outpost Kaloki"
+},
+"9PLWW2VH40LM": {
+"currency": "USD",
+"free_since": "2026-11-27",
+"title": "Idle Breaker"
 },
 "9PM0ZJNPRM9V": {
 "currency": "USD",
@@ -12858,5 +12873,5 @@
 }
 },
 "market": "US",
-"updated": "2026-11-26T09:27:35"
+"updated": "2026-11-27T09:39:59"
 }

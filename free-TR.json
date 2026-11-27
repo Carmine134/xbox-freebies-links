@@ -1,5 +1,5 @@
 {
-"count": 2312,
+"count": 2315,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "TRY",
@@ -2180,6 +2180,11 @@
 "currency": "TRY",
 "free_since": "",
 "title": "Gvina's Space Adventure"
+},
+"9N901FH6GWLT": {
+"currency": "TRY",
+"free_since": "",
+"title": "CALX Demo"
 },
 "9N92V8Q153MJ": {
 "currency": "TRY",
@@ -4759,7 +4764,7 @@
 "9NTG1CG74F2L": {
 "currency": "TRY",
 "free_since": "",
-"title": "HITMAN WOA Free Demo ft. The Host"
+"title": "HITMAN WOA Free Demo ft. Bawma"
 },
 "9NTH8ZLDHJ4M": {
 "currency": "TRY",
@@ -4944,7 +4949,7 @@
 "9NVJWR50KRXX": {
 "currency": "TRY",
 "free_since": "",
-"title": "HITMAN WOA Free Demo ft. The Host"
+"title": "HITMAN WOA Free Demo ft. Bawma"
 },
 "9NVKQ49LZ6DT": {
 "currency": "TRY",
@@ -5180,6 +5185,11 @@
 "currency": "TRY",
 "free_since": "",
 "title": "Bible Trivia\u00ad"
+},
+"9NXC32B64LS5": {
+"currency": "TRY",
+"free_since": "",
+"title": "Spooker Demo"
 },
 "9NXC5WSBLJXM": {
 "currency": "TRY",
@@ -8411,6 +8421,11 @@
 "free_since": "",
 "title": "Gori: Cuddly Carnage Demo"
 },
+"9PLWW2VH40LM": {
+"currency": "TRY",
+"free_since": "2026-11-27",
+"title": "Idle Breaker"
+},
 "9PM0ZJNPRM9V": {
 "currency": "TRY",
 "free_since": "",
@@ -11563,5 +11578,5 @@
 }
 },
 "market": "TR",
-"updated": "2026-11-26T09:31:10"
+"updated": "2026-11-27T09:43:00"
 }
