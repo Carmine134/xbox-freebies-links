@@ -1,5 +1,5 @@
 {
-"count": 2574,
+"count": 2575,
 "items": {
 "9MSMWZ25NVRN": {
 "currency": "USD",
@@ -125,6 +125,11 @@
 "currency": "USD",
 "free_since": "",
 "title": "Pinball FX - Zen Originals Collection 1 Trial"
+},
+"9MTG03VPTHS8": {
+"currency": "USD",
+"free_since": "2026-11-28",
+"title": "Arkheron Friend Pass"
 },
 "9MTHCR4ML8FF": {
 "currency": "USD",
@@ -12873,5 +12878,5 @@
 }
 },
 "market": "US",
-"updated": "2026-11-27T09:39:59"
+"updated": "2026-11-28T08:54:02"
 }

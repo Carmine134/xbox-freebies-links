@@ -1,7 +1,12 @@
 {
-"count": 5,
+"count": 6,
 "days": 21,
 "items": {
+"9MTG03VPTHS8": {
+"currency": "NOK",
+"free_since": "2026-11-28",
+"title": "Arkheron Friend Pass"
+},
 "9MZZMK67WPFZ": {
 "currency": "NOK",
 "free_since": "2026-11-15",
@@ -29,5 +34,5 @@
 }
 },
 "market": "NO",
-"updated": "2026-11-27T09:45:54"
+"updated": "2026-11-28T09:00:00"
 }
